@@ -1,2 +1,3 @@
-# campaign-standard-learn.en
-Campaign Standard Learn Tutorials
+# campaign-kt.en
+
+Collaborative tutorials and enablement materials for Campaign
