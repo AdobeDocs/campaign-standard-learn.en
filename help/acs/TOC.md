@@ -2,51 +2,60 @@
 product: adobe campaign
 sub-product: Campaign Standard
 user-guide-title: Adobe Campaign Standard Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
+user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 ---
 
-# Adobe Campaign Standard Tutorials {#tutorials}
+# Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
 
 + [Overview](/help/acs/overview.md)
 + Getting started {#getting-started}
   + [Introduction to Adobe Campaign Standard](/help/acs/getting-started/adobe-campaign-standard-introduction.md)
   + [Functional Overview](/help/acs/getting-started/functional-overview.md)
+  + [Getting started with the UI](/help/acs/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/acs/getting-started/configure-a-list.md)
+  + [Explore Hierarchy and Marketing Activities](/help/acs/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
-  + [Understand Profiles and Audiences](/help/acs/getting-started/creating-profiles-and-audiences-in-acs.md)
-  + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
+  + [Understanding Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
   + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
-  + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
-  + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
-  + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
-  + [Access management](/help/acs/administrating/access-management.md)
-  + [Reporting](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
+  + [Reporting - Introduction](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile Marketing with Adobe Campaign](/help/acs/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Growing with Adobe Campaign](/help/acs/getting-started/growing-with-adobe-campaign.md)
 + Profiles and audiences {#profiles-and-audiences}
+  + [Creating profiles and audiences](/help/acs/profiles-and-audiences/creating-profiles-and-audiences.md)
   + [Creating a profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   + [Creating a test profile](/help/acs/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
   + [Managing subscriptions](/help/acs/managing-processes-and-data/services-and-subscriptions.md)
+  + Audience Destinations (BETA){#audience-destinations}
+    + [Overview](/help/acs/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+    + [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+    + [Activating AEP audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+    + [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/acs/communication-channels/email/create-email-from-homepage.md)
     + [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
+    + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
+    + [Reviewing Personalized Email Delivery and Reports](/help/acs/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
+    + [Create and send emails via a workflow](/help/acs/communication-channels/email/create-and-send-emails-via-workflow.md)
+
   + Mobile {#mobile}
     + SMS{#sms}
       + [Creating a SMS Delivery](/help/acs/communication-channels/mobile/sms/sms-delivery.md)
       + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
       + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
+      + [Creating a Push Notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+      + [Creating Multi-lingual Push Notifications](/help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
       + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
         + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
         + [Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
@@ -54,8 +63,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
         + [Register Mobile Extensions](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
         + [Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
         + [Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
-        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
-      + [Multi-lingual Push](/help/acs/communication-channels/mobile/push-notifications/create-multilingual-push.md)
+        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md) 
     + In-App Messages {#in-app}
       + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
@@ -89,6 +97,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Data Management Activities {#data-management-activities}
     + [External API Activity (beta)](/help/acs/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
+  + [Exploring Reports](/help/acs/getting-started/exploring-reports.md)
   + [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
   + [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
@@ -111,10 +120,19 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
-    + [Generate a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
-    + [Connect to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+    + [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
+    + [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
+    + [Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)
+    + [Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
+  + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
+    + [Understanding the Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+    + [Mapping Custom Resources](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+    + [Mapping Experience Events](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+    + [Mapping Seed Table Data](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+    + [Modifying the Data Mapping](/help/acs/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+    + [Checking the status of a data ingestion jobs](/help/acs/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
   + Typology Rules{#typology-rules}
     + Fatigue Management{#fatigue-management}
       + [Create Fatigue Rules](/help/acs/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

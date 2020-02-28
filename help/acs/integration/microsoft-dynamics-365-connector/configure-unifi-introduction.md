@@ -1,10 +1,9 @@
 ---
 title: Configure Unifi-Introduction
 description: Unifi synchronizes the Microsoft Dynamics 365 contact records with profile records in Adobe Campaign Standard. 
-seo-description: Unifi synchronizes the Microsoft Dynamics 365 contact records with profile records in Adobe Campaign Standard. The videos explain how to configure Unfifi for the Microsoft Dynamics 365 Connector. 
 feature: Microsoft Dynamics 365 Connector   
 topics: Unifi
-kt: KT-2949
+kt: 2949
 doc-type: feature-video
 activity: setup
 team: PM
@@ -43,8 +42,7 @@ The video below explains each of the use cases in more detail.
 
 *This video describes how to add the credential information for Adobe Campaign Standard & Microsoft Dynamics 365 to Unifi (01:23 min)*
 
-[GDPR acknowledgement and constraints](
-    https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html#Notices)
+[GDPR acknowledgement and constraints](https://helpx.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html#Notices)
 
 ## Additional Resources
 

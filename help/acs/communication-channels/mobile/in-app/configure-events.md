@@ -4,7 +4,7 @@ seo-title: Configuring Events
 description: When configuring an In-App message in Adobe Campaign Standard (ACS) events define which user initiated action will trigger the message to be displayed. 
 feature: In-App
 topics: Mobile
-kt: KT-1911
+kt: 1911
 doc-type: feature video
 activity: use
 team: TM

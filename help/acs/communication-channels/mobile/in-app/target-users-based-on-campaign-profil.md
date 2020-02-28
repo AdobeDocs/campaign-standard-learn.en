@@ -3,7 +3,7 @@ title: Target users based on their Campaign Profile
 description: This template allows you to target known mobile app users with messages personalized with CRM profile attributes available in Adobe Campaign Standard (ACS).
 feature: In-App
 topics: Channels
-kt: KT-1911
+kt: 1911
 doc-type: feature video
 activity: use
 team: TM

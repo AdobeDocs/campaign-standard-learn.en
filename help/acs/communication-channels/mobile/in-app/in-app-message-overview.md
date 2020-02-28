@@ -5,7 +5,7 @@ uuid: 50a13c41-88ad-43c4-8c42-d941bca2bf0a
 discoiquuid: a3c10847-6163-4915-aae5-6200cd0474e5
 feature: In-App
 topics: Channels
-kt: KT-1911
+kt: 1911
 doc-type: feature video
 activity: use
 team: TM

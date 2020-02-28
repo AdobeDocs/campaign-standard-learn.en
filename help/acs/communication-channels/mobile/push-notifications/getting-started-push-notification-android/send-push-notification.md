@@ -23,5 +23,3 @@ We now need to create and send push notification using Adobe Campaign. [Detailed
 * Provide a meaningful Message title and Message body and click Create.
 * Click on Prepare. Once preparation, is complete click on Confirm to send the message.
 * If everything goes well, you should see notification in your Android App running in the emulator
-
-

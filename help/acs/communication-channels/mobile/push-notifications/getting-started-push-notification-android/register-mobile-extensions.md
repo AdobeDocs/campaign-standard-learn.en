@@ -15,7 +15,7 @@ team: TM
 
 In this part we will add the code to register the UserProfile,Identity,Lifecycle and Signal extensions. These extensions are part of [Mobile Core Extensions](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We will also need to register the Campaign extension as shown in the code below.
 
-Open your project in Android studio. Delete the entire code in MainApp **except the first line which is your package statement**
+Open your project in Android studio. Delete the entire code in MainApp **except the first line which is your package statement**.
 Paste the following code into MainApp
 
 ```java{.line-numbers}

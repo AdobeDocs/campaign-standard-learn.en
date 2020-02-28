@@ -1,11 +1,9 @@
 ---
 title: Creating a report based on workflow segments
-seo-title: Creating a report based on workflow segments
 description: Reporting on Workflow Segments provides the ability to add workflow segment code in dynamic reporting.
-seo-description: Reporting on Workflow Segments provides the ability to add workflow segment code in dynamic reporting.
 feature: Reporting on Workflow Segments
 topics: Reporting   
-kt: KT-3252
+kt: 3252
 doc-type: feature video
 activity: use
 team: TM

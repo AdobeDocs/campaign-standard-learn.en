@@ -5,7 +5,7 @@ description: In-App Messaging  allows you to present the user with contextually 
 seo-description: In-App Messaging  allows you to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
 feature: In-App
 topics: Channels
-kt: KT-1911
+kt: 1911
 doc-type: feature video
 activity: use
 team: TM
