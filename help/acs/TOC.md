@@ -2,16 +2,16 @@
 product: adobe campaign
 sub-product: Campaign Standard
 user-guide-title: Adobe Campaign Standard Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
+user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/overview.html
+tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 ---
 
-# Adobe Campaign Standard Tutorials {#campaign-standard-tutorials}
+# Adobe Campaign Standard Tutorials {#tutorials}
 
 + [Overview](/help/acs/overview.md)
 + Getting started {#getting-started}
