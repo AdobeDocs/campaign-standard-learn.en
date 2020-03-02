@@ -3,7 +3,7 @@ cloud: experience-cloud
 product: adobe campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
-index: no
+index: yes
 ---
 
 # Metadata for internal use
