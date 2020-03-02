@@ -5,7 +5,7 @@ description: This video shows you how to fatigue typology rule.
 seo-description: This video shows you how to fatigue typology rule.
 feature: Fatigue Management
 topics: Typology Rules
-kt: KT-3446
+kt: 3446
 doc-type: feature video
 activity: setup
 team: TM

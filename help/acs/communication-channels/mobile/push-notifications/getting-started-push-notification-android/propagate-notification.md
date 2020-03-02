@@ -12,9 +12,14 @@ team: TM
 ---
 # Add Service to send notification
 
-In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager. Notification manager is used to notify the user of events that happen. This is how you tell the user that something has happened in the background.
+In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager. Notification manager is used to notify the user of events that happen.
+This is how you tell the user that something has happened in the background:
 
-* Create a class which extends FirebaseMessagingService
+* Launch Android Studio
+* Open "ACSPushTutorial" project
+* Expand the project structure
+* Right click on the package folder(com.example.acspushtutorial) and New ->Java Class
+* Name this class MyService and make sure it extends FirebaseMessagingService
 * Create sendNotification method in this class. In this method you need to set the notification's content and channel using a NotificationCompat.Builder object. To make the notification appear, call NotificationManagerCompat.notify(), passing it a unique ID for the notification and the result of NotificationCompat.Builder.build().
 
 ```java {.line-numbers}

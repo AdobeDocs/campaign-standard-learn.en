@@ -3,7 +3,7 @@ title: Unifi Job Details - Ingress & Egress
 description: The videos explain how to configure the ingress and egress jobs in Unifi for the Microsoft Dynamics 365 Connector.  
 feature: Microsoft Dynamics 365 Connector   
 topics: Unifi
-kt: KT-3223
+kt: 3223
 doc-type: feature-video
 activity: setup
 team: PM

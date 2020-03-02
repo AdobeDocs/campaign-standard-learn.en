@@ -1,11 +1,9 @@
 ---
 title: Creating Custom Resources
-seo-title: Creating Custom Resources
-description: Tutorial to create and link custom resources.
-seo-description: Tutorial to create and link custom resources
+description: Adobe Campaign Standard provides the ability to extend resources or create brand new resources. This multipart tutorial will walk you through the steps needed to create and link custom resources.
 feature: Customer Resources
 topics: Adding or extending
-kt: KT-2998
+kt: 2998
 doc-type: feature video
 activity: use
 team: TM

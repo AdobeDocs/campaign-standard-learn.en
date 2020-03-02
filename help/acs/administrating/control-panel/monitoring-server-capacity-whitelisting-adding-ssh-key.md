@@ -3,7 +3,7 @@ title: Monitoring server capacity, whitelisting IP addresses, and adding SSH key
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: SFTP Server Whitelisting
 topics: Control Panel
-kt: KT-3266
+kt: 3266
 doc-type: feature video
 activity: use
 team: PM
@@ -11,16 +11,20 @@ team: PM
 
 # Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
 
-To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+## Accessing Control Panel Subdomain Management
 
-* Experience Cloud Home > Quick Access
+To access the Subdomain Management in Control Panel, go to:
+
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > Solution picker: Campaign > **Control Panel** card > **Subdomains & Certificates** card
+  
   or
-* Experience Cloud Home > Solution picker: Campaign > Control Panel card
-  or
-* Directly from the URL: `https://your_instance_URL/campaign/controlpanel`
+* Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
+
+## How to monitor server capacity, whitelist IP addresses,and add SSH keys
+
+This video explains how to access the Adobe Campaign Control Panel, monitor the storage of SFTP servers, whitelist an IP, as well as add an SSH Key.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-*This video explains how to access the Adobe Campaign Control Panel, monitor the storage of SFTP servers, whitelist an IP, as well as add an SSH Key (04:07 min)*
 
 >[!NOTE]
 >
@@ -34,13 +38,11 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 >
 >**Warning message:**
 >
->Orange - the server is 80% utilized
+>Orange - server is 80% utilized
 >
->Red - the server is 90% utilized
-
-You need to be able to generate a SSH key. The video below explains how to generate a SSH key using a terminal.
-
->[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-*How to create a SSH key (2:16 min)*
+>Red - server is 90% utilized
+>
 
 ## Additional Resources
+
+* [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)

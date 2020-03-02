@@ -9,7 +9,13 @@ activity: understand
 team: WWFRE
 ---
 
-# Creating Profiles and Audiences in Adobe Campaign Standard
+# Creating Profiles and Audiences
+
+Adobe Campaign has two types or profiles>
+* Identified profiles 
+* Test profiles
+
+Profiles which are grouped according to one or multiple common criteria are called **Audiences**.
 
 This video explains how to navigate to existing profiles and how to create profiles and audiences in Adobe Campaign Standard (ACS).
 

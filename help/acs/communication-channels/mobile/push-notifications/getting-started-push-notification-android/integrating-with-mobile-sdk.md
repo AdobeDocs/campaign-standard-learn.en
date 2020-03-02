@@ -17,8 +17,8 @@ In this part, we will integrate the Android app with Mobile SDK. To integrate mo
 * Open the ACSPushTutorial project in Android Studio
 * Create a new java class called MainApp which extends android.app.Application
 * Your project structure at this point should look like below
-![main-app](assets/android-main-app.PNG)
 
+![main-app](assets/android-main-app.PNG)
 
 * Expand the Gradle Scripts folder. Double click the build.gradle of the module. Paste the following dependencies in to the dependencies section of the build.gradle file. Your build.gradle file should now look like below
 
@@ -42,7 +42,7 @@ Open AndroidManifest.xml and paste the following 2 lines after the manifest elem
 
 ```
 
-copy the following line in the application element
+Copy the following line in the application element
 android:name=".MainApp"
 Save your AndroidManifest.xml
 Your AndroidManifest.xml should look like this
@@ -74,4 +74,3 @@ Your AndroidManifest.xml should look like this
 
 </manifest>
 ```
-

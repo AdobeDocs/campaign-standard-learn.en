@@ -2,7 +2,7 @@
 title: Support for Mirror Page URL
 description: The following video explains how the mirror page URL is being used in the Adobe Campaign Standard (ACS) Microsoft Dynamics 365 Connector.
 topics: Introduction
-kt: KT-3767
+kt: 3767
 doc-type: feature video
 activity: understand
 team: PM
@@ -16,4 +16,4 @@ The following video explains how the mirror page URL is being used in the Micros
 
 ## Additional Resources
 
-[Documentation](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)
+[Documentation](https://helpx.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)

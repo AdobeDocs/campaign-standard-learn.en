@@ -1,11 +1,9 @@
 ---
 title: Configure and run a workflow with the External API activity
-seo-title: Configure and run a workflow with the External API activity
 description: The External API activity brings data into the workflow from an external system via a REST API call. 
-seo-description: The External API activity allows easy data ingress and egress with REST API systems for batch and blast workflows. 
 feature: External API Activity
 topics: Data Management   
-kt: KT-2764
+kt: 2764
 doc-type: feature video
 activity: use
 team: TM

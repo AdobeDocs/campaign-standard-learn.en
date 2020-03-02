@@ -5,7 +5,7 @@ description: The In-App delivery activity is generally used to automate sending 
 seo-description: The In-App delivery activity is generally used to automate sending an In-App message to a target audience calculated in the same workflow.
 feature: In-App
 topics: Channels
-kt: KT-1911
+kt: 1911
 doc-type: feature video
 activity: use
 team: TM

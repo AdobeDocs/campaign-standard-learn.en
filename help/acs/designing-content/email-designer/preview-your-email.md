@@ -5,7 +5,7 @@ description: Preview your email
 seo-description: Preview your email
 feature: Email Designer 
 topics: Content Creation
-kt: KT-2393
+kt: 2393
 doc-type: feature video
 activity: use
 team: TM

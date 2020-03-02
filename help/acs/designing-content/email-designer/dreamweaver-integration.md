@@ -2,7 +2,7 @@
 title: Creating content for Adobe Campaign Standard (ACS) using Adobe Dreamweaver
 description: The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 topics: Email Designer
-kt: KT-1420
+kt: 1420
 doc-type: feature video
 activity: use
 team: TM

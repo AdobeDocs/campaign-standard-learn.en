@@ -3,7 +3,7 @@ title: Edit images using the Creative Cloud SDK
 description: This video describes how you can easily edit images directly from the Email Designer using the integrated Adobe Creative SDK functionality.
 feature: Creative SDK
 topics: Email Designer
-kt: KT-1427
+kt: 1427
 doc-type: feature video
 activity: use
 team: TM

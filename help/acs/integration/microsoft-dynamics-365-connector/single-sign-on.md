@@ -3,7 +3,7 @@ title: Single Sign On (SSO)
 description: You access your Adobe Campaign Standard and Microsoft Dynamics 365 integration details via single sign on. This video explains how to do this.
 feature: Microsoft Dynamics 365 Connector
 topics: Introduction
-kt: KT-3805
+kt: 3805
 doc-type: feature video
 activity: understand
 team: PM
@@ -17,4 +17,4 @@ You access your integration details via single sign on. The video below explains
 
 ## Additional Resources
 
-[Documentation](https://helpx-internal.corp.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)
+[Documentation](https://helpx.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)

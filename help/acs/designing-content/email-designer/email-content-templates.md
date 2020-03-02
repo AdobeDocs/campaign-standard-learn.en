@@ -7,7 +7,7 @@ uuid: 2b0f6bdd-16b4-4724-b671-bb1962485b40
 discoiquuid: 38128b6e-ddd7-4eeb-9cbd-33bbadddf492
 feature: Email Designer 
 topics: Content Creation
-kt: KT-1442
+kt: 1442
 doc-type: feature video
 activity: use
 team: TM

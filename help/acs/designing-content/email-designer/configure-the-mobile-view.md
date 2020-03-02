@@ -3,7 +3,7 @@ title: Configure the mobile view
 description: This video explains how to fine-tune the responsive design of an email in Adobe Campaign Standard (ACS) by separately editing all style options for mobile display.
 feature: Email Designer 
 topics: Content Creation
-kt: KT-2423
+kt: 2423
 doc-type: feature video
 activity: use
 team: TM

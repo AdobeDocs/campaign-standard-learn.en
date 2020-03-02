@@ -1,13 +1,9 @@
 ---
 title: External Signal Activity - Call a workflow with parameters
-seo-title: External Signal Activity - Call a workflow with parameters
 description: The External Signal Activity is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.
-seo-description: The External Signal Activity is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.
-uuid: 4f640ae6-a532-4feb-80dd-fceee98e0b38
-discoiquuid: 0e710e00-198b-42fe-9a55-2a8d86cca127
 feature: External Signal Activity
-topics: Execution  
-kt: KT-2750 
+topics: Workflows  
+kt: 2750 
 doc-type: feature video
 activity: use
 team: TM

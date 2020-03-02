@@ -1,6 +1,6 @@
 ---
 title: Functional Overview
-description: This video gives you an overview of the Adobe Campaign Standard (ACS) functionality.
+description: This video gives you an overview over the Adobe Campaign Standard (ACS) functionality.
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
