@@ -3,7 +3,7 @@ title: Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: Control Panel
 topics: Control Panel
-kt: 3262
+kt: 4696
 doc-type: feature video
 activity: use
 team: PM
