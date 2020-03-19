@@ -10,15 +10,13 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Delegating Subdomains (BETA)](/help/acs/administrating/control-panel/subdomain-delegation.md)**
+* **[Profile Substitution - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
+  <br>
+    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
+
+* **[Control Pane - Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
     <br>
-    *Learn how to fully delegate a subdomain to Adobe Campaign* 
-* **[Adding SSL Certificates in Control Panel (BETA)](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
-    <br>
-    *Learn how you can add a SSL certificates to secure your subdomains.*
-* **[External API Activity (BETA)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
-    <br>
-    *Learn how to easily bring data into the workflow from an external system via a REST API call.*
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
 ## Staff Picks
 
