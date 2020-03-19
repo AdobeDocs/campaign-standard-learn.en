@@ -22,6 +22,7 @@ For more information  please see the detailed [Product Documentation]( https://d
 > [!Note]
 >
 >This feature allows you to send profile personal information to external email addresses. Keep in mind that executing privacy requests (GDPR & CCPA) in Campaign Standard WILL NOT execute that request externally.
+>
 
 ## Additional Resources
 
