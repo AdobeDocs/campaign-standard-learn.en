@@ -19,7 +19,7 @@ We want to send a personalized email newsletter. But, before sending the newslet
 
 For more information  please see the detailed [product documentation]( https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
 
-> [!NOTE]
+> [!IMPORTANT]
 >
 >This feature allows you to send profile personal information to external email addresses. Keep in mind that executing privacy requests (GDPR & CCPA) in Campaign Standard WILL NOT execute that request externally.
 >
