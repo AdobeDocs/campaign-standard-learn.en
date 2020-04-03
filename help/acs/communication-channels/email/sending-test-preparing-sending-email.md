@@ -2,7 +2,7 @@
 title: Sending a test, preparing and sending an email  
 description: This video explains how to send a test email, prepare and then send an email delivery in Adobe Campaign Standard (ACS). 
 feature: Email  
-topics: Channels
+topics:
 kt: 1812
 doc-type: feature video
 activity: use
@@ -17,6 +17,6 @@ This video explains how to send a test email, prepare and then send an email del
 
 ## Additional Resources
 
-* [Managing test profiles and sending proofs](https://helpx.adobe.com/campaign/standard/sending/using/managing-test-profiles-and-sending-proofs.html)
+* [Managing test profiles and sending proofs](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/managing-test-profiles-and-sending-proofs.html)
 * [Creating a Test Profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
   

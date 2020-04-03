@@ -11,6 +11,6 @@ team: PMM
 
 # Functional Overview
 
-This video gives you an overview over the Adobe Campaign Standard (ACS) functionality.
+This video gives you an overview over the Adobe Campaign Standard functionality.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)

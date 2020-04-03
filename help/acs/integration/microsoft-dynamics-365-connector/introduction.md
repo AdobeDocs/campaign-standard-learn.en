@@ -9,25 +9,25 @@ activity: understand
 team: PM
 ---
 
-# Introduction to the Microsoft Dynamics 365 Connector {#introduction}
+# Introduction to the [!UICONTROL Microsoft Dynamics 365 Connector] {#introduction}
 
-With the integration between ACS and Dynamics 365, you can activate your CRM data on both online and offline channels. Customer engagement data, including sends, opens, clicks, and bounces, is also fed into Dynamics 365 to provide visibility to your sales organization.
+With the integration between Adobe Campaign Standard and [!DNL Microsoft Dynamics 365], you can activate your CRM data on both online and offline channels. Customer engagement data, including sends, opens, clicks, and bounces, is also fed into [!DNL Microsoft Dynamics 365] to provide visibility to your sales organization.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27975?quality=12)
 
-You can access your integration details via single sign on. The [video](/help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md) below explains how to do this.
+You can access your integration details via single sign on. This [video](/help/acs/integration/microsoft-dynamics-365-connector/single-sign-on.md) explains how to do this.
 
-## How to configure the Microsoft Dynamics 365 Connector - Video tutorials
+## How to configure the [!UICONTROL Microsoft Dynamics 365 Connector] - Video tutorials
 
-1. [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
+1. [Configure [!DNL Microsoft Dynamics 365]](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
 2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)
-3. Configure Unifi
-   * [Unifi Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-   * [Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-   * [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-   * [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+3. Configure [!DNL Unifi]
+   * [[!DNL Unifi] Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
+   * [[!DNL Unifi] Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
+   * [[!DNL Unifi] Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
+   * [[!DNL Unifi] - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 4. [Using the mirror page URL](/help/acs/integration/microsoft-dynamics-365-connector/mirror-page-url.md)
 
 ## Additional Resources
 
-[Documentation](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html)
+* [Documentation](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html)

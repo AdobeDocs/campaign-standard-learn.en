@@ -2,8 +2,8 @@
 title: Convert email and SMS deliveries and templates into multilingual
 description: This video demonstrates how an existing Adobe Campaign Standard (ACS) email or SMS delivery or delivery template can be easily converted to multilingual.
 feature: Multi-lingual Deliveries
-topics: Mobile Channel, Email Channel
-kt: 3261
+topics: Mobile
+kt: 1703
 doc-type: feature video
 activity: use
 team: TM

@@ -1,8 +1,8 @@
 ---
 title: Creating a new audience in Adobe Campaign Standard using Adobe Experience Platform Unified Segment Builder
 description: 
-feature: Audiences
-topics: Introduction
+feature: Audience Destinations
+topics: ACOP
 kt: 2754 
 doc-type: feature video
 activity: using
@@ -13,8 +13,8 @@ team: PM
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
->Please reach out to Adobe Customer Care if you plan to implement this capability.
+>This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
+>Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
 
 
 Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) by using the Adobe experience Platform Unified Segment Builder.

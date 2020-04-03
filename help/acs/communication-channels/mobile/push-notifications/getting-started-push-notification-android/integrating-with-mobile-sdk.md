@@ -1,52 +1,50 @@
 ---
-title: Getting started with Push Notifications with Android App
-seo-title: Getting started with Push Notifications with Android App
-description: Part 1 - Integrate Mobile SDK with Android App. 
-seo-description: Part 2 - Integrate Mobile SDK with Android app
+title: Step 2 - Integrating the Mobile SDK
+description:In this part, we will integrate the Android app with Mobile SDK. To integrate mobile SDK with the Android app
 feature: Push
-topics: Channels
-kt: KT-3846
+topics: Mobile
+kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
 ---
-# Integrate Mobile SDK with Android App
+# STEP 2 - Integrate [!UICONTROL Mobile SDK] with Android App
 
-In this part, we will integrate the Android app with Mobile SDK. To integrate mobile SDK with the Android app, please follow the following steps:
+In this part, we will integrate the [!DNL Android] app with [!UICONTROL Mobile SDK]. To integrate [!UICONTROL mobile SDK] with the [!DNL Android] app, please follow the following steps:
 
-* Open the ACSPushTutorial project in Android Studio
-* Create a new java class called MainApp which extends android.app.Application
+* Open the *ACSPushTutorial* project in [!DNL Android Studio]
+* Create a new java class called *MainApp* which extends [!DNL android.app.Application]
 * Your project structure at this point should look like below
 
 ![main-app](assets/android-main-app.PNG)
 
-* Expand the Gradle Scripts folder. Double click the build.gradle of the module. Paste the following dependencies in to the dependencies section of the build.gradle file. Your build.gradle file should now look like below
+* Expand the [!DNL Gradle Scripts] folder. Double click the [!DNL build.gradle] of the module. Paste the following dependencies in to the dependencies section of the [!DNL build.gradle] file. Your [!DNL build.gradle] file should now look like below
 
-```java{.line-numbers}
+[!DNL ```java{.line-numbers}
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
-```
+```]
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
-* Sync your Android project by clicking on the sync now button to sync your project
+* Sync your [!DNL Android] project by clicking on the sync now button to sync your project
 
-## Modify AndroidManifest.xml
+## Modify [!DNLAndroidManifest.xml]
 
-Open AndroidManifest.xml and paste the following 2 lines after the manifest element and before the application element. This enables your app to communicate with outside world
+Open *AndroidManifest.xml* and paste the following 2 lines after the manifest element and before the application element. This enables your app to communicate with outside world
 
-```xml{.line-numbers}
+[!DNL ```xml{.line-numbers}
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-```
+```]
 
 Copy the following line in the application element
-android:name=".MainApp"
-Save your AndroidManifest.xml
-Your AndroidManifest.xml should look like this
-
+[!DNL android:name=".MainApp"]
+Save your [!DNL AndroidManifest.xml]
+Your [!DNL AndroidManifest.xml] should look like this
+[!DNL 
 ```xml{.line-numbers}
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -73,4 +71,4 @@ Your AndroidManifest.xml should look like this
 </application>
 
 </manifest>
-```
+```]

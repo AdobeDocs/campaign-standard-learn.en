@@ -1,26 +1,24 @@
 ---
-title: Getting started with Push Notifications with Android App
-seo-title: Getting started with Push Notifications with Android App
-description: Part 1 - Creating your Android App and adding to Firebase. 
-seo-description: Part 1 - Creating your Android App and adding to Firebase
+title: Step 5 - Propagate Notifications
+description: In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager.Firebase
 feature: Push
-topics: Channels
-kt: KT-1375
+topics: Mobile
+kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
 ---
 # Add Service to send notification
 
-In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager. Notification manager is used to notify the user of events that happen.
+In this part, we will propagate the message received from Adobe Campaign using [!DNL Android Notification Manager]. [!DNL Notification manager] is used to notify the user of events that happen.
 This is how you tell the user that something has happened in the background:
 
-* Launch Android Studio
-* Open "ACSPushTutorial" project
+* Launch [!DNL Android Studio]
+* Open *[!DNL ACSPushTutorial]* project
 * Expand the project structure
-* Right click on the package folder(com.example.acspushtutorial) and New ->Java Class
-* Name this class MyService and make sure it extends FirebaseMessagingService
-* Create sendNotification method in this class. In this method you need to set the notification's content and channel using a NotificationCompat.Builder object. To make the notification appear, call NotificationManagerCompat.notify(), passing it a unique ID for the notification and the result of NotificationCompat.Builder.build().
+* Right click on the package folder ([!DNL com.example.acspushtutorial]) and [!DNL New ->Java Class]
+* Name this class *[!DNL MyService]* and make sure it extends [!DNL FirebaseMessagingService]
+* Create *[!DNL sendNotification]* method in this class. In this method you need to set the notification's content and channel using a [!DNL NotificationCompat.Builder] object. To make the notification appear, call [!DNL NotificationManagerCompat.notify()], passing it a unique ID for the notification and the result of [!DNL NotificationCompat.Builder.build()].
 
 ```java {.line-numbers}
 package com.example.pushmessaging;
@@ -84,9 +82,9 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ```
 
-## Modify AndroidManifest.xml
+## Modify [!DNL AndroidManifest.xml]
 
- Add the service that was created to your AndroidManifest.xml. The final AndroidManifest.xml should look like below
+Add the service that was created to your [!DNL AndroidManifest.xml]. The final [!DNL AndroidManifest.xml] should look like below:
 
 ```xml {.line-numbers}
 <?xml version="1.0" encoding="utf-8"?>
@@ -126,4 +124,4 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 ## Run the app
 
-Run the app by clicking the green arrow on the tool bar or from the Run menu.
+Run the app by clicking the **green arrow** on the tool bar or from the [!DNL Run] menu.

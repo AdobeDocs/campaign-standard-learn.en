@@ -1,25 +1,24 @@
 ---
-title: Getting started with Push Notifications with Android App
-seo-title: Getting started with Push Notifications with Android App
-description: Part 3 - Register mobile extensions 
-seo-description: Part 3 - Register mobile extensions
+title: Step 3 - Register Extensions with your mobile app
+description: In this part we will add the code to register the UserProfile,Identity,Lifecycle and Signal extensions.
 feature: Push
-topics: Channels
-kt: KT-3846
+topics: Mobile
+kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
 ---
 
-# Register Extensions with your mobile app
+# Step 3 - Register Extensions with your mobile app
 
-In this part we will add the code to register the UserProfile,Identity,Lifecycle and Signal extensions. These extensions are part of [Mobile Core Extensions](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We will also need to register the Campaign extension as shown in the code below.
+In this part we will add the code to register the User Profile, Identity, Lifecycle and Signal extensions. These extensions are part of [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We will also need to register the Adobe Campaign Standard extension as shown in the code below.
 
-Open your project in Android studio. Delete the entire code in MainApp **except the first line which is your package statement**.
+Open your project in [!DNL Android] studio. Delete the entire code in MainApp **except the first line which is your package statement**.
+
 Paste the following code into MainApp
 
 ```java{.line-numbers}
-import android.app.Application;
+import [!DNL android].app.Application;
 import android.util.Log;
 
 import com.adobe.marketing.mobile.AdobeCallback;
@@ -61,5 +60,6 @@ try{
 
 ```
 
-Line 32 you need to provide your Launch Property's environment file id. This can be accessed from the environment tab of your launch property.
+Line 32 you need to provide your[!UICONTROL  Launch] Property's environment file id. This can be accessed from the [!UICONTROL environment tab] of your [!UICONTROL Launch] property.
+
 ![launch-id](assets/launch-id-property.PNG)

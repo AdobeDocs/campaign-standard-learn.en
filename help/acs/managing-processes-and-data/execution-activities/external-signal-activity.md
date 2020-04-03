@@ -9,9 +9,9 @@ activity: use
 team: TM
 ---
 
-# External Signal Activity - Call a workflow with parameter
+# [!UICONTROL External Signal Activity ]- Call a workflow with parameter
 
-The External Signal Activity is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.
+The [!UICONTROL External Signal Activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.
 
 In ACS 19.2 the External Signal Activity can not only call a workflow, but in addition pass parameters to the workflow (an audience name to target, a file name to import, a part of message content, etc.) to the workflow from another workflow or a REST API call to integrate with your external systems.
 

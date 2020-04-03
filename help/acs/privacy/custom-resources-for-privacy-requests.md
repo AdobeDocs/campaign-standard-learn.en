@@ -1,17 +1,17 @@
 ---
-title: Modify custom resources when setting up Adobe Campaign Standard (ACS) for Privacy requests
-description: When setting up Adobe Campaign Standard (ACS) to handle Privacy requests you need to ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
+title: Modify custom resources when setting up Adobe Campaign Standard (ACS) for privacy requests
+description: When setting up Adobe Campaign Standard (ACS) to handle privacy requests you need to ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
 feature: GDPR, CCPA
-topic: Privacy
+topic: 
 kt: 1243
 doc-type: feature video
 activity: use
 team: TM
 ---
 
-# Modify custom resources for Privacy requests
+# Modify custom resources for privacy requests
 
-When setting up Adobe Campaign Standard to handle Privacy requests you need to ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
+When setting up Adobe Campaign Standard to handle privacy requests you need to ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
@@ -25,3 +25,4 @@ When setting up Adobe Campaign Standard to handle Privacy requests you need to e
 ## Additional Resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
+* [Creating Custom Resources](/help/acs/managing-processes-and-data/custom-resources/creating-custom-resources.md)

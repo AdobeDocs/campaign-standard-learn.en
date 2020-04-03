@@ -9,21 +9,27 @@ activity: use
 team: TM
 ---
 
-# Email Designer Overview
+# [!UICONTROL Email Designer] Overview
 
-The Email Designer enables the quick and effortless visual creation of individually personalized emails without the need to script a single line of code helping scale email creation.   It allows you to create email content and email content templates. It is compatible with simple emails, transactional emails, A/B test emails, multilingual emails, and recurring emails.  
+The [!UICONTROL Email Designer] enables the quick and effortless visual creation of individually personalized emails without the need to script a single line of code helping scale email creation.   It allows you to create email content and email content templates. It is compatible with simple emails, transactional emails, A/B test emails, multilingual emails, and recurring emails.  
 
-## Getting Started with the Email Designer
+This video gives you a high level overview over the functionality and usage of the Adobe Campaign Standard [!UICONTROL Email Designer].
 
-This video explains the general functionality of the Email Designer and how to design an email from scratch.
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+
+## Getting Started with the [!UICONTROL Email Designer]
+
+This video explains the general functionality of the [!UICONTROL Email Designer] and how to design an email from scratch.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
 
 ## Tutorials
 
-* [Content templates](/help/acs/designing-content/email-designer/email-content-templates.md)
+The following detailed tutorials are available:
+
+* [[!UICONTROL Content templates]](/help/acs/designing-content/email-designer/email-content-templates.md)
 * [Configure the mobile view](/help/acs/designing-content/email-designer/configure-the-mobile-view.md)
 * [Preview your email](/help/acs/designing-content/email-designer/preview-your-email.md)
 * [Working with existing content](/help/acs/designing-content/email-designer/working-with-existing-content.md)
 * [Creating content using Dreamweaver](/help/acs/designing-content/email-designer/dreamweaver-integration.md)
-* [Edit images using Creative Cloud SDK](/help/acs/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
+* [Edit images using [!UICONTROL Creative Cloud SDK]](/help/acs/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)

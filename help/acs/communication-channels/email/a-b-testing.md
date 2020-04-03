@@ -1,8 +1,8 @@
 ---
 title: A/B Testing 
 description: This video explains how to configure and send an A/B test in Adobe Campaign Standard,testing the subject line. 
-feature: Email  
-topics: Channels
+feature: A/B Testing  
+topics: 
 kt: 3907
 doc-type: feature video
 activity: use
