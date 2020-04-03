@@ -17,26 +17,21 @@ In this part we will create [!DNL Android] App to receive [!UICONTROL Push notif
 2. Launch [!DNL Android Studio]
 3. Click on **[!DNL File -> New -> New Project]**
 4. Select **[!DNL Empty Activity]** and click Next
-
   ![android-project](assets/android-project.PNG)
+
 5. Provide a meaningful name to the project. For the purpose of this demo we have named our project as *[!DNL ACSPushTutorial]*
- 
  ![android-project-configuration](assets/android-project-configuration.PNG)
 
-5. Accept the default package names and click on **[!DNL Finish]** to create your project.
-6. Your project structure should look similar to the screen shot below
- 
+6. Accept the default package names and click on **[!DNL Finish]** to create your project.
+7. Your project structure should look similar to the screen shot below
   ![android-project-structure](assets/android-project-structure.PNG)
-
-7. Click on **[!DNL Tools -> Firebase]**(this adds the project to [!DNL Firebase])
-8. Click on **[!DNL Set up Firebase Cloud Messaging]**
-    
+8. Click on **[!DNL Tools -> Firebase]**(this adds the project to [!DNL Firebase])
+9. Click on **[!DNL Set up Firebase Cloud Messaging]** 
   ![setup firebase](assets/android-project-firebase-messaging.PNG)
 
-
-8. Click on **[!DNL Connect to Firebase]**
-9. After your app is connected to [!DNL Firebase], click on **[!DNL Add FCM to your app]**
-10. When you are adding FCM to your app the wizard will need your permission to make some changes to your project.Click on **[!DNL Accept Changes]**
+10. Click on **[!DNL Connect to Firebase]**
+11. After your app is connected to [!DNL Firebase], click on **[!DNL Add FCM to your app]**
+12. When you are adding FCM to your app the wizard will need your permission to make some changes to your project.Click on **[!DNL Accept Changes]**
 
  ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 

@@ -9,7 +9,7 @@ activity: set-up
 team: TM
 ---
 
-#  Mapping [!UICONTROL Custom Resources]
+# Mapping [!UICONTROL Custom Resources]
 
 >[!NOTE]
 >
