@@ -17,23 +17,28 @@ In this part we will create [!DNL Android] App to receive [!UICONTROL Push notif
 2. Launch [!DNL Android Studio]
 3. Click on **[!DNL File -> New -> New Project]**
 4. Select **[!DNL Empty Activity]** and click Next
-  ![android-project](assets/android-project.PNG)
+
+    ![android-project](assets/android-project.PNG)
 
 5. Provide a meaningful name to the project. For the purpose of this demo we have named our project as *[!DNL ACSPushTutorial]*
- ![android-project-configuration](assets/android-project-configuration.PNG)
 
-6. Accept the default package names and click on **[!DNL Finish]** to create your project.
+   ![android-project-configuration](assets/android-project-configuration.PNG)
+
+6. Accept the default package names and click on **[!DNL Finish]** to create your project
 7. Your project structure should look similar to the screen shot below
-  ![android-project-structure](assets/android-project-structure.PNG)
+
+    ![android-project-structure](assets/android-project-structure.PNG)
+
 8. Click on **[!DNL Tools -> Firebase]**(this adds the project to [!DNL Firebase])
-9. Click on **[!DNL Set up Firebase Cloud Messaging]** 
-  ![setup firebase](assets/android-project-firebase-messaging.PNG)
+9. Click on **[!DNL Set up Firebase Cloud Messaging]**
+
+    ![setup firebase](assets/android-project-firebase-messaging.PNG)
 
 10. Click on **[!DNL Connect to Firebase]**
 11. After your app is connected to [!DNL Firebase], click on **[!DNL Add FCM to your app]**
 12. When you are adding FCM to your app the wizard will need your permission to make some changes to your project.Click on **[!DNL Accept Changes]**
 
- ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
+    ![[!DNL add-fcm-to-your-app]](assets/firebase-add-fcm-to-app.PNG)
 
 On successful integration of your app with Firebase, you should get a message like shown below
  ![[!DNL fcm-successfull]](assets/android-firebase-success.PNG)
@@ -45,11 +50,11 @@ On successful integration of your app with Firebase, you should get a message li
 1. Login to [!DNL Firebase] console
 2. Open the **[!DNL ACSPushTutorial]** project. Click on the **gear icon** and open the project settings
 
-![project-settings](assets/firebase-project-settings.PNG)
+    ![project-settings](assets/firebase-project-settings.PNG)
 
 3. Tab to the **[!DNL Cloud Messaging]** tab. Copy the server key
 
-![server-key](assets/firebase-server-key.PNG)
+    ![server-key](assets/firebase-server-key.PNG)
 
 4. Login to your Adobe Campaign Standard instance
 5. Click on **[!UICONTROL Adobe Campaign ]-> [!UICONTROL Administration]->[!UICONTROL Channels]->[!UICONTROL Mobile App]**
