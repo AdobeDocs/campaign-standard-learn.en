@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# [!UICONTROL Control Panel Overview] {#control-panel}
+# [!UICONTROL Control Panel] Overview {#control-panel}
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
@@ -37,11 +37,11 @@ Before you get started, you need to know your [!DNL IMS Org ID]. The video below
 
 ### Administrator Rights
 
-Administrator rights are required to access to the [!UICONTROL Control Panel]
-The video below explains how to add an administrator to a [!DNL Campaign] instance.
+Administrator rights are required to access to the [!UICONTROL Control Panel].
+The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile "administrators" to be able to use [!UICONTROL Control panel] (01:03 min)*
+*How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ## [!UICONTROL Control Panel] Tutorials
 
@@ -68,5 +68,5 @@ The video below explains how to add an administrator to a [!DNL Campaign] instan
 
 ## Additional Resources
 
-* [Control Panel Help Center)](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [[!UICONTROL Control Panel Help Center]](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
   

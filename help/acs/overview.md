@@ -10,15 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Delegating Subdomains (BETA)](/help/acs/administrating/control-panel/subdomain-delegation.md)**
-    <br>
-    *Learn how to fully delegate a subdomain to Adobe Campaign* 
-* **[Adding SSL Certificates in Control Panel (BETA)](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
-    <br>
-    *Learn how you can add a SSL certificates to secure your subdomains.*
-* **[External API Activity (BETA)](./managing-processes-and-data/data-management-activities/external-api-activity.md)**
-    <br>
-    *Learn how to easily bring data into the workflow from an external system via a REST API call.*
+* **[[!UICONTROL Profile Substitution] - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
+  <br>
+    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
 ## Staff Picks
 
@@ -34,7 +28,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
+    <em>[!UICONTROL In-App Messaging] is a channel that allows you to display a message when the user is active within a mobile application.</em>
     <p>
   </td>
    <td>
@@ -43,11 +37,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (videos)</strong>
+    <strong>[!UICONTROL Email Designer] (videos)</strong>
     </a>
     </div>
     <p>
-    <em>The Email Designer enables the quick and effortless visual creation of individually personalized emails.</em>
+    <em>The [!UICONTROL Email Designer] enables the quick and effortless visual creation of individually personalized emails.</em>
     <p>
   </td>
   <td>
@@ -56,7 +50,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     <div>
       <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Product Listings (tutorial)</strong>
+    <strong>[!UICONTROL Product Listings] (tutorial)</strong>
     </a>
     </div>
     <p>
