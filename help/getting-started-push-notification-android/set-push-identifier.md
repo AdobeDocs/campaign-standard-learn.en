@@ -1,21 +1,20 @@
 ---
-title: Getting started with Push Notifications with Android App
-seo-title: Getting started with Push Notifications with Android App
-description: Part 3 - Register mobile extensions 
-seo-description: Part 3 - Register mobile extensions
+title: STEP 4 - Set pushidentifier
+description: The **pushIdentifier** is a string that contains the device token for push notifications. This is the same token that is sent by Firebase and is passed  to the SDK using the MobileCore.setPushIdentifier method.
 feature: Push
-topics: Channels
-kt: KT-3846
+topics: MOBILE
+kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
 ---
-# Set pushidentifier
+# Step 4 - Set [!DNL pushidentifier]
 
-The **pushIdentifier** is a string that contains the device token for push notifications. This is the same token that is sent by Firebase and is passed  to the SDK using the MobileCore.setPushIdentifier method.
+The **[!DNL pushidentifier]** is a string that contains the device token for [!DNL Push] notifications. This is the same token that is sent by [!DNL Firebase] and is passed to the SDK using the [!DNL MobileCore.setPushIdentifier] method.
 
-Open your project in Android studio. Delete the entire code in MainActivity **except the first line which is your package statement**
-Paste the following code into MainActivity
+Open your project in [!DNL Android ]studio. Delete the entire code in [!DNL MainActivity] **except the first line which is your package statement**.
+
+Paste the following code into [!DNL MainActivity]:
 
 ```java{.line-numbers}
 import androidx.annotation.NonNull;
@@ -81,18 +80,18 @@ MobileCore.lifecyclePause();
 
 Now is a good time to test your app, before going any further.
 
-* Run your app by clicking green arrow or select Run->Run'app'.
-* The Android emulator should start and you should see your app running with "Hello World" text.
-* Open the logcat window. Search for "Got". You should see the token that was received from firebase written to the log as shown below. The long string after "Got token" is the push identifier that is sent to Adobe Campaign
+* Run your app by clicking green arrow or select **[!DNL Run->Run'app']**.
+* The [!DNL Android] emulator should start and you should see your app running with [!DNL "Hello World" ]text.
+* Open the [!DNL logcat] window. Search for "[!DNL Got]". You should see the token that was received from [!DNL Firebase] written to the log as shown below. The long string after "[!DNL Got token]" is the [!DNL pushidentifier ]that is sent to Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
-### Check Mobile Application Subscribers:
+### Check Mobile Application Subscribers
 
 Login to your Adobe Campaign Standard instance.
-Navigate Administration->Channels->Mobile App(AEP SDK). Open the appropriate mobile application. Tab to the Mobile Application Subscribers tab. You should see a registration token listed.
+Navigate **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Open the appropriate mobile application. Tab to the [!UICONTROL Mobile Application Subscribers] tab. You should see a [!UICONTROL registration token ]listed.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[NOTE]
->If you do not see registration token in the Mobile Application Subscribers tab STOP here before proceeding any further.
+>If you do not see registration token in the [!UICONTROL Mobile Application Subscribers] tab STOP here before proceeding any further.

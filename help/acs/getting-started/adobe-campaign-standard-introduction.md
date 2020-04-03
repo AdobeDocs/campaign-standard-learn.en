@@ -2,7 +2,7 @@
 title: Introduction to Adobe Campaign Standard
 description: This video gives you a high level introduction to Adobe Campaign Standard.
 feature: Profiles and Audiences
-topics: Getting Started
+topics: 
 kt: 3993
 doc-type: feature video
 activity: understand

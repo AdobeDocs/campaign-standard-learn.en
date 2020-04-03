@@ -2,19 +2,19 @@
 title: Mapping Custom Resources 
 description: Learn how to map different data types between Adobe Campaign Standard (ACS) and Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
-topics: Mapping Custom Resources
+topics: ACoP
 kt: 2828
 doc-type: feature video
-activity: use
+activity: set-up
 team: TM
 ---
 
-# Mapping Custom Resources
+#  Mapping [!UICONTROL Custom Resources]
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice. Audience Destinations is based on Adobe Experience Platform and requires a specific configuration.
->Please reach out to Adobe Customer Care if you plan to implement this capability.
+>This capability is currently in beta, and subject to frequent updates and modifications without notice.
+>Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
 
 Learn how to map different data types between Adobe Campaign Standard and Adobe Experience Platform.
 

@@ -1,14 +1,16 @@
 ---
 title: Getting started with Push Notifications with Android App
-description: Part 1 - Creating your Android App and adding to Firebase. 
+description: Adobe Campaign allows you to send personalized and segmented push notifications to iOS and Android mobile devices.
+These messages are received on mobile applications that you set up in Adobe Campaign by leveraging the Experience Cloud Mobile SDK V4 or Experience Platform SDK.
+This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.
 feature: Push
-topics: Channels
+topics: Mobile
 kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
 ---
-# Push Notifications
+# Getting started with Push Notifications with Android App
 
 Adobe Campaign allows you to send personalized and segmented push notifications to iOS and Android mobile devices.
 These messages are received on mobile applications that you set up in Adobe Campaign by leveraging the Experience Cloud Mobile SDK V4 or Experience Platform SDK.
@@ -28,7 +30,7 @@ This tutorial will walk you through the steps involved in sending push notificat
 
 * [Step 1 - Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
 * [Step 2 - Integrating the Mobile SDK](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/integrating-with-mobile-sdk.md)
-* [Step 3 - Register Mobile Extension](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
+* [Step 3 - Register Extensions with your mobile app](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
 * [Step 4 - Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
 * [Step 5 - Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
 * [Step 6 - Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)

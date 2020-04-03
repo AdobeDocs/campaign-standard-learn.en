@@ -22,7 +22,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Explore Hierarchy and Marketing Activities](/help/acs/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Managing campaigns](/help/acs/getting-started/managing-campaigns.md)
   + [Understanding Profiles and Audiences](/help/acs/getting-started/understanding-profiles-and-audiences.md)
-  + [Email Designer - Introduction](/help/acs/getting-started/email-designer-introduction.md)
   + [Create a workflow](/help/acs/managing-processes-and-data/create-workflow.md)
   + [Reporting - Introduction](/help/acs/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile Marketing with Adobe Campaign](/help/acs/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -57,19 +56,12 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + Push Notifications {#push}
       + [Creating a Push Notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Creating Multi-lingual Push Notifications](/help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-      + Getting Started with Push Notifications for Android {#getting-started-push-notifications}
-        + [Introduction](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
-        + [Create Android App](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/create-android-app.md)
-        + [Integrating the Mobile SDK](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/integrating-with-mobile-sdk.md)
-        + [Register Mobile Extensions](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
-        + [Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
-        + [Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
-        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
+      + [Tutorial: Getting Started with Push Notifications for Android](help/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
     + In-App Messages {#in-app}
       + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
-      + [Broadcast an In-App message - Template](/help/acs/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-      + [Target users based on their Campaign profile - Template](/help/acs/communication-channels/mobile/in-app/target-users-based-on-campaign-profil.md)
+      + [Broadcast an In-App message](/help/acs/communication-channels/mobile/in-app/broadcast-in-app-message.md)
+      + [Target users based on their Campaign profile](/help/acs/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
       + [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md)
       + [Report on your In-App delivery](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md)
     + [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
@@ -117,7 +109,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
     + [Unifi - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administrating {#administrating}
-  + [Access management](/help/acs/administrating/access-management.md)
+  + [Managing user access rights](/help/acs/administrating/managing-user-access-rights.md)
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/acs/administrating/control-panel/control-panel-overview.md)
     + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
