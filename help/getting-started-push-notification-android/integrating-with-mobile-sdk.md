@@ -20,11 +20,11 @@ In this part, we will integrate the [!DNL Android] app with [!UICONTROL Mobile S
 
 * Expand the [!DNL Gradle Scripts] folder. Double click the [!DNL build.gradle] of the module. Paste the following dependencies in to the dependencies section of the [!DNL build.gradle] file. Your [!DNL build.gradle] file should now look like below
 
-[!DNL ```java{.line-numbers}
+```java{.line-numbers}
 implementation 'com.adobe.marketing.mobile:campaign:1.+'
 implementation 'com.adobe.marketing.mobile:userprofile:1.+'
 implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
-```]
+```
 
 ![module-gradle](assets/module-build-gradle.PNG)
 
@@ -34,17 +34,17 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 Open *AndroidManifest.xml* and paste the following 2 lines after the manifest element and before the application element. This enables your app to communicate with outside world
 
-[!DNL ```xml{.line-numbers}
+```xml{.line-numbers}
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
-```]
+```
 
 Copy the following line in the application element
 [!DNL android:name=".MainApp"]
 Save your [!DNL AndroidManifest.xml]
 Your [!DNL AndroidManifest.xml] should look like this
-[!DNL 
+
 ```xml{.line-numbers}
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -71,4 +71,4 @@ Your [!DNL AndroidManifest.xml] should look like this
 </application>
 
 </manifest>
-```]
+```
