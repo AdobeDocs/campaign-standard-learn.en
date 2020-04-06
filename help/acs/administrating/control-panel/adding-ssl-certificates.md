@@ -15,9 +15,9 @@ team: PM
 
 ## Accessing [!UICONTROL Control Panel] Subdomain Management
 
-To access the Subdomain Management in [!UICONRTOL Control Panel], go to:
+To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
-* [[!UICONRTOL Experience Cloud Home]](https://experience.adobe.com/#/home) > [!UICONRTOL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** card > [!UICONRTOL **Subdomains & Certificates**] card
+* [[!UICONTROL Experience Cloud Home]](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** card > [!UICONTROL **Subdomains & Certificates**] card
   
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -26,13 +26,14 @@ To access the Subdomain Management in [!UICONRTOL Control Panel], go to:
 
 Adding SSL certificates requires three steps:
 
-### 1. Generate [!UICONRTOL Certificate Signing Requests]
+### 1. Generate [!UICONTROL Certificate Signing Requests]
 
-The [!UICONRTOL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. It needs to be generated for the instance and the subdomains you are planning to secure.
+The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. It needs to be generated for the instance and the subdomains you are planning to secure.
 
- The video below describes how to generate a [!UICONRTOL Certificate Signing Request] in [!UICONRTOL Control Panel].
+The video below describes how to generate a [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *Generate Certificate Signing Requests (02:36 min)*
 
 ### 2. Purchase SSL Certificate
@@ -43,9 +44,10 @@ After obtaining the CSR, you will need to purchase the SSL certificate from a ce
 
 Once you have obtained the SSL certificate it will need to be installed for the subdomains you are planning on securing.
 
-The video below explains how to install SSL certificates in [!UICONRTOL Control Panel].  
+The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *Install SSL Certificates (01:25 min)*
 
 ## Additional Resources
