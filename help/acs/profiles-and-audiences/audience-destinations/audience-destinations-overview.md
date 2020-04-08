@@ -21,7 +21,7 @@ team: TM
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 
-The [!UICONTROL Audiences module] within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - [!UICONTROL Data Services]](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [[!UICONTROL Real-Time Customer Profile]](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+The [!UICONTROL Audiences] module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - [!UICONTROL Data Services]](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [[!UICONTROL Real-Time Customer Profile]](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 The following video tutorials will guide you through the different steps:
 

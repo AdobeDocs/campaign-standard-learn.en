@@ -13,6 +13,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 * **[[!UICONTROL Profile Substitution] - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
+*
 
 ## Staff Picks
 
