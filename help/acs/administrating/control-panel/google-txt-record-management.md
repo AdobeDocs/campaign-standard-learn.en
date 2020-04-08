@@ -17,4 +17,4 @@ In order to ensure high inbox rates, and low spam rates, some services like Goog
 
 ## Additional Resources
 
-* Documentation
+* [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
