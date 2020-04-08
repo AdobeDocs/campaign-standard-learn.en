@@ -12,3 +12,4 @@ user-guide-title: Adobe Campaign Standard - Getting started with Push Notificati
 + [Step 4 - Set Push Identifier](/help/getting-started-push-notification-android/set-push-identifier.md)
 + [Step 5 - Propagate Notifications](/help/getting-started-push-notification-android/propagate-notification.md)
 + [Step 6 - Send Notification](/help/getting-started-push-notification-android/send-push-notification.md)
++ [-> Back to Push notifications](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/mobile/push/creating-a-push-notification.html)

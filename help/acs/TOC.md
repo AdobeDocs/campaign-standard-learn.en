@@ -56,7 +56,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + Push Notifications {#push}
       + [Creating a Push Notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Creating Multi-lingual Push Notifications](/help/acs/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-      + [Tutorial: Getting Started with Push Notifications for Android](/help/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
+      + [Tutorial: Getting Started with Push Notifications for Android](https://docs.adobe.com/content/help/getting-started-push-notification-android/getting-started-with-push-notifications-android.md)
     + In-App Messages {#in-app}
       + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
