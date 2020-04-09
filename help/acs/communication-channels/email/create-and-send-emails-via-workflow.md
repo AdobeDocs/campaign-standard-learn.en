@@ -17,7 +17,7 @@ This video explains how to create and send emails via a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Create an email delivery](/help/acs/communication-channels/email/create-email-from-homepage.md)
 * [Creating an email (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)

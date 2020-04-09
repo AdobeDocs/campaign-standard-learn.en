@@ -1,5 +1,5 @@
 ---
-title: Trouble Shooting the Control Panel
+title: Trouble shooting the Control Panel
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
 feature: Control Panel
 topics: 
@@ -9,9 +9,9 @@ activity: use
 team: PM
 ---
 
-# Trouble Shooting the [!UICONTROL Control Panel}
+# Trouble shooting the [!UICONTROL Control Panel}
 
-## [!UICONTROL Login] and [!UICONTROL Homepage]
+## [!UICONTROL Login] and [!UICONTROL homepage]
 
 ### Symptom: Unable to login to Adobe Experience Cloud
 

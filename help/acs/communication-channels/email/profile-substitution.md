@@ -24,8 +24,8 @@ For more information  please see the detailed [product documentation]( https://d
 >This feature allows you to send profile personal information to external email addresses. Keep in mind that executing privacy requests (GDPR & CCPA) in Campaign Standard WILL NOT execute that request externally.
 >
 
-## Additional Resources
+## Additional resources
 
-* [Testing messages using target profiles (documentation)]( https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testing messages using target profiles (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Designing an A/B test email](/help/acs/communication-channels/email/a-b-testing.md)
-* [Sending a test, preparing and sending an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Send a test, prepare and send an email](/help/acs/communication-channels/email/sending-test-preparing-sending-email.md)

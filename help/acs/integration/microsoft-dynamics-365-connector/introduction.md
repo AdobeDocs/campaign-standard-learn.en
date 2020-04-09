@@ -19,15 +19,15 @@ You can access your integration details via single sign on. This [video](/help/a
 
 ## How to configure the [!UICONTROL Microsoft Dynamics 365 Connector] - Video tutorials
 
-1. [Configure [!DNL Microsoft Dynamics 365]](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
+1. [Configure Microsoft Dynamics 365](/help/acs/integration/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
 2. [Configure Adobe IO](/help/acs/integration/microsoft-dynamics-365-connector/configure-adobe-io.md)
 3. Configure [!DNL Unifi]
-   * [[!DNL Unifi] Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-   * [[!DNL Unifi] Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-   * [[!DNL Unifi] Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-   * [[!DNL Unifi] - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+   * [[Unifi Introduction](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
+   * [[Unifi Jobs - Overview](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
+   * [Unifi Jobs - Ingress and Egress](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
+   * [Unifi] - Operationalization & Monitoring](/help/acs/integration/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 4. [Using the mirror page URL](/help/acs/integration/microsoft-dynamics-365-connector/mirror-page-url.md)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://helpx.adobe.com/campaign/kb/acs-ms-dynamics.html)

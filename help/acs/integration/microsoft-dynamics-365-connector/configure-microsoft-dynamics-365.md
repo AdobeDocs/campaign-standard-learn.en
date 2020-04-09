@@ -15,12 +15,12 @@ An OAuth access token allows Unifi to authenticate with your [!DNL Microsoft Dyn
 
 The video below explains how to generate the OAuth access token.
 
-For more information also see the product documentation [Configure [!DNL Microsoft Dynamics 365] for Campaign integration](https://helpx.adobe.com/content/help/en/campaign/kb/ms-dynamics-integration.html).
+For more information also see the product documentation [Configure Microsoft Dynamics 365 for Campaign integration](https://helpx.adobe.com/content/help/en/campaign/kb/ms-dynamics-integration.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
-Please see the detailed documentation on how to [Map Campaign custom resources and [!DNL Microsoft Dynamics 365]](https://helpx.adobe.com/campaign/kb/acs-dynamics-custom-entities.html) to learn more about how to work with custom entities.
+Please see the detailed documentation on how to [Map Campaign custom resources and  Microsoft Dynamics 365](https://helpx.adobe.com/campaign/kb/acs-dynamics-custom-entities.html) to learn more about how to work with custom entities.
 
-## Additional Resources
+## Additional resources
 
-[Configure [!DNL Microsoft Dynamics] 365 for Campaign integration](https://helpx.adobe.com/content/help/en/campaign/kb/ms-dynamics-integration.html)
+[Configure Microsoft Dynamics 365 for Campaign integration](https://helpx.adobe.com/content/help/en/campaign/kb/ms-dynamics-integration.html)

@@ -14,4 +14,5 @@ team: TM
 This video describes how you can easily edit images directly from the [!UICONTROL Email Designer] using the integrated [!UICONTROL Creative Cloud SDK] functionality.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23117?quality=12)
+
 *[!UICONTROL Creative Cloud SDk] Integration (02:40 min)*

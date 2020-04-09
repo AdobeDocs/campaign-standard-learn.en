@@ -1,5 +1,5 @@
 ---
-title: Creating Profiles and Audiences in Adobe Campaign Standard
+title: Create profiles and audiences - Overview
 description: This video explains how to navigate to existing profiles and how to create profiles and audiences in Adobe Campaign Standard (ACS).
 feature: Profiles and Audiences
 topics: 
@@ -9,7 +9,7 @@ activity: understand
 team: WWFRE
 ---
 
-# Creating Profiles and Audiences
+# Create profiles and audiences - Overview
 
 Adobe Campaign has two types or profiles:
 
@@ -22,8 +22,8 @@ This video explains how to navigate to existing profiles and how to create profi
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
 
-## Additional Resources
+## Additional resources
 
-* [Creating a Profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
-* [Creating a Test Profile](/help/acs/profiles-and-audiences/test-profiles.md)
-* [Importing Profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)
+* [Create a Profile](/help/acs/profiles-and-audiences/creating-a-profile.md)
+* [Create a Test Profile](/help/acs/profiles-and-audiences/test-profiles.md)
+* [Import Profiles with a workflow](/help/acs/managing-processes-and-data/importing-profiles.md)

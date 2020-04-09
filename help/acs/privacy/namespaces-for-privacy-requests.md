@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Creating Namespaces for Privacy Requests
+# Creating namespaces for privacy requests
 
 A prerequisite to be able to create privacy access and delete requests, as required by GDPR or CCPA, is the definition of the namespace that will be used to identify the data subject within the Adobe Campaign database.
 
@@ -17,6 +17,6 @@ This videos explains how to create namespaces for privacy requests.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [General Privacy Guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)

@@ -1,5 +1,5 @@
 ---
-title: Privacy Requests with the Adobe Campaign Standard (ACS) - Overview
+title: Privacy requests with the Adobe Campaign Standard (ACS) - Overview
 description: The tutorial explains how the create Pprivacy requests via the Adobe Campaign Standard (ACS) interface.
 feature: GDPR, CCAP
 topic: Privacy
@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Privacy Requests with the Adobe Campaign Standard User Interface
+# Privacy requests with the Adobe Campaign Standard User Interface
 
 Adobe Campaign offers data controllers three methods for performing Privacy access and delete requests of PII data in compliance with privacy acts such as GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act):
 
@@ -43,9 +43,9 @@ Adobe Campaign offers data controllers three methods for performing Privacy acce
 * [Create and track privacy requests through the Adobe Campaign user interface](/help/acs/privacy/create-and-track-privacy-requests.md)
 * [Execute privacy requests](/help/acs/privacy/execute-privacy-requests.md)
 
-## Additional Resources
+## Additional resources
 
 * [General Privacy Guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [CCPA for ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [[!UICONTROL Adobe Experience Platform Privacy Service]](https://adobe.io/apis/cloudplatform/gdpr.html)
-* [Adobe Campaign Standard [!UICONTROL Rest API] Documentation](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
+* [ Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Campaign Standard REST API Documentation](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)

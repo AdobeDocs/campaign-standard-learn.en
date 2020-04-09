@@ -15,7 +15,7 @@ team: PM
 
  >[!VIDEO](https://video.tv.adobe.com/v/27308?quality=12)
 
-## Additional Resources
+## Additional resources
 
-* [Configure [!UICONTROL Adobe IO ]for [!UICONTROL MS Dynamics integration]](https://helpx.adobe.com/campaign/kb/ms-dynamics-adobe-io.html)
+* [Configure Adobe IO for MS Dynamics integration](https://helpx.adobe.com/campaign/kb/ms-dynamics-adobe-io.html)
   

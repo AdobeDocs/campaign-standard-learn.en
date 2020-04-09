@@ -1,5 +1,5 @@
 ---
-title: Creating Multilingual Push Notifications
+title: Create a multilingual push notification
 description: Learn how to create a multilingual push notification in Adobe Campaign Standard (ACS). 
 feature: Push
 topics: Mobile
@@ -9,19 +9,19 @@ activity: use
 team: TM
 ---
 
-# Creating Multilingual [!UICONTROL Push Notifications]
+# Create a multilingual push notification [!UICONTROL push notification]
 
 Learn how to create a multilingual [!UICONTROL push notifications] in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
-## Additional Resources
+## Additional resources
 
 Documentation:
 
-* [About [!UICONTROL Push Notifications]](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparing and sending a [!UICONTROL push notification]](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [About Push Notifications](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Preparing and sending a push notification](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 Tutorials:
 
-* [Creating a [!UICONTROL Push Notifications]](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Create a push notification](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

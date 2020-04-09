@@ -14,6 +14,6 @@ The following video explains how the mirror page URL is being used in the [!UICO
 
 >[!VIDEO](https://video.tv.adobe.com/v/29253?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://helpx.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)

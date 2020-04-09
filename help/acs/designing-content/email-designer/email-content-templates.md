@@ -1,5 +1,5 @@
 ---
-title: Introduction to Email Content Templates
+title: Introduction to email content templates
 description: Adobe Campaign Standard offers 18 fully customizable out of the box, responsive email templates.  These templates were created specifically for Adobe Campaign Standard and are easy to manipulate and change. They are a great starting points for creating emails.
 feature: Email Designer 
 topics: 
@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Introduction to Email Content Templates{#introduction-to-the-email-content-templates}
+# Introduction to email content templates {#introduction-to-the-email-content-templates}
 
 Adobe Campaign Standard offers 18 fully customizable out of the box, responsive email templates. These templates were created specifically for Adobe Campaign Standard and are easy to manipulate and change. They are a great starting points for creating emails.
 

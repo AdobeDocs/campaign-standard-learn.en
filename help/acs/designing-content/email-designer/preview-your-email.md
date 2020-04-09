@@ -1,5 +1,5 @@
 ---
-title: Preview your email
+title: Preview your email and anti spam analysis
 description: This video explains how to preview your email and the anti-spam analysis.
 feature: email designer 
 topics: 
@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Preview your email{#preview-your-email}
+# Preview your email and anti spam analysis{#preview-your-email}
 
 This video explains how to preview your email and the anti-spam analysis.
 

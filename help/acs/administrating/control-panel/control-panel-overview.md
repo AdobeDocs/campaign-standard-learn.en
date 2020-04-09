@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# [!UICONTROL Control Panel] Overview {#control-panel}
+# [!UICONTROL Control Panel] - Overview {#control-panel}
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
 
@@ -41,7 +41,7 @@ Administrator rights are required to access to the [!UICONTROL Control Panel].
 The video below explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
+*How to add an administrator to the product profile [!UICONTROL administrators] to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ## [!UICONTROL Control Panel] Tutorials
 
@@ -54,7 +54,7 @@ The video below explains how to add an administrator to a Campaign instance
   * [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)**
     <br>
-    *Learn how to fully delegate a subdomain to Adobe Campaign* 
+    *Learn how to fully delegate a subdomain to Adobe Campaign*
 * **[Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*
@@ -66,7 +66,7 @@ The video below explains how to add an administrator to a Campaign instance
     <br>
     *Understand how to troubleshoot the Control Panel*
 
-## Additional Resources
+## Additional resources
 
-* [[!UICONTROL Control Panel Help Center]](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [[Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
   

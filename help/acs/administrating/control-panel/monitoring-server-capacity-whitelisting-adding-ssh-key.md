@@ -15,7 +15,7 @@ team: PM
 
 To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
-* [[!UICONTROL Experience Cloud Home]](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **[!UICONTROL Subdomains & Certificates]** card
   
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -43,6 +43,6 @@ This video explains how to access the [!UICONTROL Adobe Campaign Control Panel],
 >Red - server is 90% utilized
 >
 
-## Additional Resources
+## Additional resources
 
 * [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)

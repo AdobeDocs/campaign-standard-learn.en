@@ -1,6 +1,6 @@
 ---
 title: Understanding the Adobe Experience Platform Data Connector
-description:  Adobe Experience Platform Data Connector helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Campaign) to Experience Data Model (XDM) data on Adobe Experience Platform.
+description: Adobe Experience Platform Data Connector helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Campaign) to Experience Data Model (XDM) data on Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
@@ -22,11 +22,11 @@ team: TM
 
 Note that the connector is uni-directional and sends the data from Adobe Campaign Standard to Adobe Experience Platform. The data is never sent from the Adobe Experience Platform to Adobe Campaign Standard.
 
-[!DNL Adobe Experience Platform Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer's overall data schema should be inside Adobe Experience Platform.
+[!UICONTROL Adobe Experience Platform Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer's overall data schema should be inside Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*This video gives an overview over the [!DNL Adobe Experience Platform Data Connector] (09:35 min)*
+*This video gives an overview over the [!UICONTROL Adobe Experience Platform Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
@@ -37,16 +37,16 @@ Note that the connector is uni-directional and sends the data from Adobe Campaig
 
 The following tutorials describe the key steps to perform a data mapping between Campaign Standard and Adobe Experience Platform:
 
-1. [Mapping [!UICONTROL Custom Resources]](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mapping [!UICONTROL Experience Events]](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-3. [Mapping [!UICONTROL Seed Table Data]](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+1. [Mapping Custom Resources](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+2. [Mapping Experience Events](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+3. [Mapping Seed Table Data](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifying the Data Mapping](/help/acs/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [Checking the status of a data ingestion jobs](/help/acs/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
-## Additional Resources
+## Additional resources
 
-* [About [!DNL Adobe Experience Platform Data Connector]](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
-* [[!DNL Experience Data Model] overview](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
+* [About Adobe Experience Platform Data Connector](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-about-data-connector.html)
+* [Experience Data Model overview](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-data-model-overview.html)
 * [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping activation](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
 * [Triggering data ingestion through APIs](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-triggering-data-ingestion.html)

@@ -1,5 +1,5 @@
 ---
-title: Changing the targeting dimension of a delivery for a Platform Audience
+title: Change the targeting dimension
 description: This video explains how to change the targeting dimension of a delivery for a Platform Audience outside of the primary profile table in Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
@@ -9,7 +9,7 @@ activity: using
 team: TM
 ---
 
-# Changing the targeting dimension of a delivery for a [!UICONTROL Platform Audience]
+# Change the targeting dimension [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ This video explains how to change the targeting dimension of a delivery for a [!
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
-## Additional Resources
+## Additional resources
 
 Documentation:
 
@@ -30,5 +30,5 @@ Documentation:
 
 Video Resources:
 
-* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Activating Adobe Experience Platform audiences in a marketing workflow for a [!DNL Campaign] delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Create a new audience  using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Activate Adobe Experience Platform audiences in a marketing workflow](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

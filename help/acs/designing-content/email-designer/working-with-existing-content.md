@@ -23,4 +23,4 @@ The Email Designer requires specific tagging, which needs to be applied to make 
 
 You will find the detailed documentation under the following link:
 
-[Converting HTML content into an [[!UICONTROL Email Designer template]](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Converting HTML content into an Email Designer template](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)

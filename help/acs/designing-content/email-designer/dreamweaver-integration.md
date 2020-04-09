@@ -1,5 +1,5 @@
 ---
-title: Creating content for Adobe Campaign Standard (ACS) using Adobe Dreamweaver
+title: Creating content using Adobe Dreamweaver
 description: The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 feature: Email Designer
 kt: 1420
@@ -8,16 +8,16 @@ activity: use
 team: TM
 ---
 
-# Creating content using Dreamweaver
+# Creating content using Adobe Dreamweaver
 
-The Adobe Campaign Standard integration with Dreamweaver lets you edit an email's content in the Dreamweaver interface:
+The Adobe Campaign Standard integration with Adobe Dreamweaver allows you to edit an email's content directly within the Dreamweaver interface:
 
 * Bidirectional real time synchronization of the content
 * Upload local images to Adobe Campaign through Dreamweaver
 * Supports Campaign personalization in Dreamweaver
 
 >[!NOTE]
-This feature requires the  Dreamweaver extension called **[!UICONTROL Adobe Campaign Integration]**. You can download the extension from [[!UICONTROL Adobe Exchange]](https://exchange.adobe.com/creativecloud.html#search). For more information on the installation see [Campaign extension for Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
+This feature requires the  Dreamweaver extension called **[!UICONTROL Adobe Campaign Integration]**. You can download the extension from [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). For more information on the installation see [Campaign extension for Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 
@@ -26,6 +26,6 @@ The video explains what is required to enable the Dreamweaver integration and ho
 
 ## Additional Resources
 
-* [Troubleshooting the [!DNL Adobe Campaign Dreamweaver] installation](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
+* [Troubleshooting the Adobe Campaign Dreamweaver installation](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
 * [Adobe Dreamweaver Documentation](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Install add-ons and extensions for Adobe apps](https://helpx.adobe.com/creative-cloud/kb/installingextensionsandaddons.html) 

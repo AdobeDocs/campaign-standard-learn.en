@@ -1,5 +1,5 @@
 ---
-title: Create and track privacy requests through the Adobe Campaign user interface 
+title:  Manually creating and tracking privacy requests through the Adobe Campaign user interface
 description: Adobe Campaign allows you to create access and delete requests of PII data in compliance with privacy acts such as GDPR and CCPA. This videos demonstrates how to manually create privacy requests and track their evolution in the Adobe Campaign Standard user interface.
 feature: GDPR, CCPA
 topic: 
@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Create and track privacy requests through the Adobe Campaign user interface
+# Manually creating and tracking privacy requests
 
 Adobe Campaign allows you to create access and delete requests of PII data in compliance with privacy acts such as GDPR and CCPA.
 
@@ -17,7 +17,7 @@ This videos demonstrates how to manually create privacy requests and track their
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
   

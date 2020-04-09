@@ -1,5 +1,5 @@
 ---
-title: Unifi Job Details - Ingress & Egress
+title: Unifi jobs - ingress & egress
 description: The videos explain how to configure the ingress and egress jobs in Unifi for the Microsoft Dynamics 365 Connector.  
 feature: Microsoft Dynamics 365 Connector   
 topics: 
@@ -9,7 +9,7 @@ activity: setup
 team: PM
 ---
 
-# [!DNL Unifi] Job Details - Ingress & Egress
+# [!DNL Unifi] jobs - ingress & egress
 
 This video explains the ingress and egress jobs in [!DNL Unifi].
 

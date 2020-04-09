@@ -15,6 +15,6 @@ You can access your integration details via single sign on. The video below expl
 
 >[!VIDEO](https://video.tv.adobe.com/v/29254?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://helpx.adobe.com/content/help/en/campaign/kb/acs-ms-dynamics.html)

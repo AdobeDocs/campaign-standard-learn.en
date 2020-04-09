@@ -11,6 +11,6 @@ team: PM
 
 # Overview over the [!DNL Unifi] Jobs
 
-This video explains the different [!DNL Unifi] jobs that required for the Adobe Campaign Standard integration with [!DNL Microsoft Dynamics 26]5.
+This video explains the different [!DNL Unifi] jobs that required for the Adobe Campaign Standard integration with [!DNL Microsoft Dynamics 265].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27392?quality=12)

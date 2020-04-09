@@ -1,5 +1,5 @@
 ---
-title: Configure Unifi - Operationalization & Monitoring
+title: Unifi - operationalization & monitoring
 description: This video explains the workflows and schedules in Unifi for operationalization and monitoring of the Microsoft Dynamics 365 Connector.
 feature: Microsoft Dynamics 365 Connector   
 topics: 
@@ -9,7 +9,7 @@ activity: setup
 team: PM
 ---
 
-# Operationalization & Monitoring
+# Unifi - operationalization & monitoring
 
 This video explains the workflows and schedules in [!DNL Unifi] for operationalization and monitoring of the [!DNL Microsoft Dynamics 365 Connector].
 

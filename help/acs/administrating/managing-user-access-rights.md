@@ -15,6 +15,6 @@ This video explains you how to define and manage the permissions assigned to dif
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [About access management](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)

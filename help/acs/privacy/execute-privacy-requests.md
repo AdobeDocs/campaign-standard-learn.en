@@ -1,5 +1,5 @@
 ---
-title: How to execute privacy requests in Adobe Campaign Standard (ACS)
+title: Executing privacy requests
 description: In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 feature: GDPR, CCPA
 topic: 
@@ -9,13 +9,13 @@ activity: use
 team: TM
 ---
 
-# How to execute privacy requests
+# Executing privacy requests
 
 In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [CCPA for Adobe Campaign Standard](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)

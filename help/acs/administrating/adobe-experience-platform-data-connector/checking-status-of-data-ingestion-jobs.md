@@ -20,7 +20,7 @@ Learn how to check the status of a data ingestion job and if the data has been i
 
 >[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping activation](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)

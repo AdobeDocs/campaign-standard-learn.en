@@ -1,5 +1,5 @@
 ---
-title: Creating a test profile
+title: Create a test profile
 description: The test profiles allow you to target additional recipients who do not match the defined targeting criteria. They are added to a message's audience to detect any fraudulent use of your recipient database or to ensure the emails arrive in the inboxes.
 feature: Profiles and Audiences
 topic: 
@@ -9,12 +9,14 @@ activity: use
 team: DOC
 ---
 
-# Creating a test profile{#creating-a-test-profile}
+# Create a test profile {#creating-a-test-profile}
 
-The test profiles allow you to target additional recipients who do not match the defined targeting criteria. They are added to a message's audience to detect any fraudulent use of your recipient database or to ensure the emails arrive in the inboxes.
+The test profiles allow you to target additional recipients who do not match the defined targeting criteria. They are added to a message's audience to detect any fraudulent use of your recipient database or to ensure the emails arrive in the inboxes. 
+
+This video explains how to create test profiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
 
-## Additional Resources
+## Additional resources
 
-* [Managing test profiles and sending proofs](https://helpx.adobe.com/campaign/standard/sending/using/managing-test-profiles-and-sending-proofs.html)
+* [Manage test profiles and send proofs](https://helpx.adobe.com/campaign/standard/sending/using/managing-test-profiles-and-sending-proofs.html)

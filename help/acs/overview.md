@@ -10,7 +10,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[[!UICONTROL Profile Substitution] - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
+* **Profile Substitution - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 *
@@ -29,7 +29,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em>[!UICONTROL In-App Messaging] is a channel that allows you to display a message when the user is active within a mobile application.</em>
+    <em> In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
     <p>
   </td>
    <td>
@@ -38,11 +38,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>[!UICONTROL Email Designer] (videos)</strong>
+    <strong> Email Designer (videos)</strong>
     </a>
     </div>
     <p>
-    <em>The [!UICONTROL Email Designer] enables the quick and effortless visual creation of individually personalized emails.</em>
+    <em>The Email Designer enables the quick and effortless visual creation of individually personalized emails.</em>
     <p>
   </td>
   <td>

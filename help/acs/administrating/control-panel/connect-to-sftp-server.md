@@ -1,5 +1,5 @@
 ---
-title: Connecting to a SFTP Server
+title: Connecting to a SFTP server
 description: This video explains how to connect to your SFTP Server using a client SFTP application, using the keys you have stored in the Control Panel.
 feature: Control Panel
 topics: 
@@ -9,13 +9,13 @@ activity: use
 team: PM
 ---
 
-# Connecting to a SFTP Server
+# Connecting to a SFTP server
 
 ## Accessing [!UICONTROL Control Panel] SFTP Management
 
 To access the SFTP Management in Control Panel, go to:
 
-* [[!UICONTROL Experience Cloud Home]](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **SFTP** card
   
   or
 * Directly from the URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)

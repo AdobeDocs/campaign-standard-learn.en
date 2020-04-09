@@ -17,7 +17,7 @@ You need to be able to generate a SSH key in order to be able to add it to the [
 
 To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
-* [[!UICONTROL Experience Cloud Home]](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **SFTP** card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** card > **SFTP** card
   
   or
 * Directly from the URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
@@ -27,4 +27,5 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 The video below explains how to generate a SSH key using a terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *How to create a SSH key (2:16 min)*

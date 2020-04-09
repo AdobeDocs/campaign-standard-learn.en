@@ -1,6 +1,6 @@
 ---
-title: How to create a workflow in Adobe Campaign Standard
-description: This video will show you how to create and edit a workflow in Adobe Campaign.
+title: Create a workflow
+description: This video will show you how to create and edit a workflow in Adobe Campaign Standard.
 feature: Workflows
 topics:
 kt: 1809
@@ -9,7 +9,7 @@ activity: use
 team: DOC
 ---
 
-# How to create a workflow in Adobe Campaign Standard{#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Create a workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows can be used in different contexts, as for example:
 
@@ -18,10 +18,10 @@ Workflows can be used in different contexts, as for example:
 * Importing data into Campaign database
 * Technical processes such as database cleanup, recovering tracking information, etc.
 
-This video will show you how to create and edit a workflow in Adobe Campaign.
+This video will show you how to create and edit a workflow in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [About Workflows and Data Management](https://helpx.adobe.com/campaign/standard/automating/user-guide.html?topic=/campaign/standard/automating/morehelp/about-workflows-and-data-management.ug.js)

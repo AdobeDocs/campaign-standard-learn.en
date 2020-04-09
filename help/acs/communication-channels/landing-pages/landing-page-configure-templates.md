@@ -1,5 +1,5 @@
 ---
-title: Configure landing page templates
+title: Configure a landing page template
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
 feature: Landing Pages
 topics: 
@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 ---
-# Configure [!UICONTROL landing page templates]
+# Configure a [!UICONTROL landing page template]
 
 This video explains how to configure [!UICONTROL landing page] templates.
 

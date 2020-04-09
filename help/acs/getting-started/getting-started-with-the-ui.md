@@ -1,5 +1,5 @@
 ---
-title: Getting Started with the UI 
+title: Get Started with the UI 
 description: This video gives you an overview over the Adobe Campaign Standard user interface and the key features and core functionality.
 feature: User Interface
 topics: 
@@ -9,7 +9,7 @@ activity: understand
 team: WWFRE
 ---
 
-# Getting Started with the UI
+# Get Started with the UI
 
 This video gives you an overview over Adobe Campaign Standard.
 

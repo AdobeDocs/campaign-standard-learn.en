@@ -11,12 +11,12 @@ team: WWFRE
 
 # Exploring Reports
 
-This video gives you an overview over the reporting capabilities of Adobe Campaign Standard
+This video gives you an overview over the reporting capabilities of Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
-## Additional Resources
+## Additional resources
 
-* [Creating a [!UICONTROL Dynamic Report]](/help/acs/reporting/creating-a-dynamic-report.md)
-* [Creating [!UICONTROL Dynamic Report] Using [!UICONTROL Custom Profile Attributes]](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
-* [Creating a report based on [!UICONTROL workflow segments]](/help/acs/reporting/report-on-workflow-segments.md)
+* [Creating a Dynamic Report](/help/acs/reporting/creating-a-dynamic-report.md)
+* [Creating Dynamic Report Using Custom Profile Attributes](/help/acs/reporting/custom-profile-attributes-dynamic-reports.md)
+* [Creating a report based on workflow segments](/help/acs/reporting/report-on-workflow-segments.md)
