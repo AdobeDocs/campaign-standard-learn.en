@@ -21,7 +21,7 @@ This video explains how to change the targeting dimension of a delivery for a Pl
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
-## Additional Resources
+## Additional resources
 
 Documentation:
 * [Platform data mapping](https://helpx.adobe.com/campaign/kb/aep-acs-audiences.html)
