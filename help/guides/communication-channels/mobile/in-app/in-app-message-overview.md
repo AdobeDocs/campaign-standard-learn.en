@@ -11,7 +11,7 @@ activity: use
 team: TM
 ---
 
-# Introduction to In-App messages
+# Introduction to In-App messages {#introduction}
 
 The [!UICONTROL In-App Messaging] channel allows you to display a message when the user is active within the mobile application. This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].
 
@@ -34,13 +34,13 @@ This tutorial will explain the steps required to set up the mobile properties, t
 
 For more on extensions, refer to the [Configure Campaign Standard extension in Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) in [!UICONTROL Adobe Launch ]documentation.
 
-## Steps to Set Up In-App Messages
+## Steps to Set Up In-App Messages {#steps-to-set-up}
 
 1. [Configure a mobile application using Adobe Experience Platform SDK](/help/guides/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
 
 2. [Configure Events](/help/guides/communication-channels/mobile/in-app/configure-events.md)
 
-## Create, manage and publish In-App Deliveries
+## Create, manage and publish In-App Deliveries {#create-manage-publish}
 
 You can either create one time In-App deliveries by clicking on the **[!UICONTROL Create an In-App Message]** card from the homepage, from the [!UICONTROL Marketing Activities], or you can [Create an In-App delivery within a workflow](/help/guides/communication-channels/mobile/in-app/in-app-activity.md).
 
@@ -55,7 +55,7 @@ This message type enables you to target all known or anonymous users of a mobile
 This message type enables you to target Adobe Campaign profiles (CRM profiles) who have subscribed to your mobile application. The message can be personalized with all available profile attributes in Adobe Campaign but requires a secure handshake between Mobile SDK and Campaign's In-App messaging service to ensure that messages with personal and sensitive information are used by authorized users only.
 This template is useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an In-App message.
 
-## Report on your In-App deliveries
+## Report on your In-App deliveries {#report}
 
 Once your delivery has been published, you can [report on your In-App delivery](/help/guides/communication-channels/mobile/in-app/in-app-reporting.md).
 
