@@ -1,14 +1,7 @@
 ---
-product: adobe campaign
-sub-product: Campaign Standard
+product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard - Getting started with Push Notifications for Android
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+index: y
 ---
 
 # Getting started with Push Notifications for Android Tutorial {#getting-started-with-push-notifications-android}
