@@ -1,6 +1,6 @@
 ---
 title: Review an email delivery and reports
-description: This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard (guides).
+description: This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard (ACS).
 feature: Reporting
 topics: 
 kt: 3904
