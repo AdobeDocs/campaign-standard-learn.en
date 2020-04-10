@@ -31,7 +31,7 @@ Note that the connector is uni-directional and sends the data from Adobe Campaig
 >[!NOTE]
 >
 >The out-of-the-box transfer of [!UICONTROL subscription events] is not supported. To transfer [!UICONTROL subscription events], you can create corresponding XDM and dataset on Adobe Experience Platform, then configure a custom data mapping for these data.
->Existing [!UICONTRIOL experience events] cannot be ingested into Adobe Experience Platform, but ongoing generated [!UICONTROL experience events] will be streamed to Adobe Experience Platform.
+>Existing [!UICONTROL experience events] cannot be ingested into Adobe Experience Platform, but ongoing generated [!UICONTROL experience events] will be streamed to Adobe Experience Platform.
 
 ## Key steps to perform a data mapping
 
