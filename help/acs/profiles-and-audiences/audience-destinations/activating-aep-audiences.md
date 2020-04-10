@@ -22,7 +22,7 @@ This video explains how to activate the Data Services Query Audience within a wo
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 *Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 
-## Additional Resources
+## Additional resources
 
 Documentation
 * [Activating Experience Platform audiences within Campaign - Documentation](https://helpx.adobe.com/campaign/kb/aep-acs-audiences.html)

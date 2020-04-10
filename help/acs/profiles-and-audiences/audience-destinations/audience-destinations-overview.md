@@ -21,15 +21,15 @@ team: TM
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 
-The Audiences module within Adobe Campaign Standard  allows you to create segments using data from the [[!UICONTROL Adobe Experience Platform] - [!UICONTROL Data Services]](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [[!UICONTROL Real-Time Customer Profile]](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+The Audiences module within Adobe Campaign Standard  allows you to create segments using data from the [ Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 The following video tutorials will guide you through the different steps:
 
-1. [Creating a new audience in Adobe Campaign Standard using the [!UICONTROL Unified Segment Builder]](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Activating [!UICONTROL AEP Audiences] in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+1. [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/acs/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Activating Adobe Experience Platform Audiences in a marketing workflow for a Campaign delivery](/help/acs/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Changing the targeting dimension of a delivery for a Platform Audience](/help/acs/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
-## Additional Resources
+## Additional resources
 
-* [Understanding the [[!UICONTROL Adobe Experience Platform Data Connector]](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+* [Understanding the [Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
   
