@@ -30,7 +30,7 @@ implementation 'com.adobe.marketing.mobile:sdk-core:1.+'
 
 * Sync your [!DNL Android] project by clicking on the sync now button to sync your project
 
-## Modify [!DNLAndroidManifest.xml]
+## Modify [!DNL AndroidManifest.xml]{#modify-android-manifest}
 
 Open *AndroidManifest.xml* and paste the following 2 lines after the manifest element and before the application element. This enables your app to communicate with outside world
 
