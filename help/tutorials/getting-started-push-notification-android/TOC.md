@@ -20,4 +20,4 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + [Step 4 - Set Push Identifier](./set-push-identifier.md)
 + [Step 5 - Propagate Notifications](./propagate-notification.md)
 + [Step 6 - Send Notification](./send-push-notification.md)
-+ [-> Back to Push notifications](/content/help/en/campaign-standard-learn/tutorials/communication-channels/mobile/push/creating-a-push-notification.html)
++ [-> Back to Push notifications](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/mobile/push/creating-a-push-notification.html)
