@@ -10,7 +10,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Profile Substitution - Testing email messages using targeted profiles](./communication-channels/email/profile-substitution.md)**
+* **[Profile Substitution - Testing email messages using targeted profiles](/help/guides/communication-channels/email/profile-substitution.md)**
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
