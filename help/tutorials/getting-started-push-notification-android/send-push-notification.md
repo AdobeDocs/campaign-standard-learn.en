@@ -25,5 +25,5 @@ If everything goes well, you should see notification in your Android App running
 
 ## Additional Resources
 
-* [Detailed documentation on [!UICONTROL Push Notifications]](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Creating a [!UICONTROL Push Notification] (Video)](/help/acs/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
+* [Detailed documentation on Push Notifications](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Creating a Push Notification(Video)](/help/guides/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
