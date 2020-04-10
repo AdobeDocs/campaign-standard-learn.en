@@ -36,28 +36,28 @@ For more on extensions, refer to the [Configure Campaign Standard extension in A
 
 ## Steps to Set Up In-App Messages
 
-1. [Configure a mobile application using Adobe Experience Platform SDK](/help/acs/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
+1. [Configure a mobile application using Adobe Experience Platform SDK](/help/guides/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
 
-2. [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
+2. [Configure Events](/help/guides/communication-channels/mobile/in-app/configure-events.md)
 
 ## Create, manage and publish In-App Deliveries
 
-You can either create one time In-App deliveries by clicking on the **[!UICONTROL Create an In-App Message]** card from the homepage, from the [!UICONTROL Marketing Activities], or you can [Create an In-App delivery within a workflow](/help/acs/communication-channels/mobile/in-app/in-app-activity.md).
+You can either create one time In-App deliveries by clicking on the **[!UICONTROL Create an In-App Message]** card from the homepage, from the [!UICONTROL Marketing Activities], or you can [Create an In-App delivery within a workflow](/help/guides/communication-channels/mobile/in-app/in-app-activity.md).
 
 When setting up the delivery, you have three option to target your users by choosing from different delivery templates:
 
-1. [**Broadcast an In-App message**](/help/acs/communication-channels/mobile/in-app/broadcast-in-app-message.md) to target all users of a mobile app. This message type enables you to send messages to all users (current or future) of your mobile application even if they don't have an existing profile in Adobe Campaign. Personalization is therefore not possible when customizing the messages as the user profile does not necessarily exist in Adobe Campaign.
+1. [**Broadcast an In-App message**](/help/guides/communication-channels/mobile/in-app/broadcast-in-app-message.md) to target all users of a mobile app. This message type enables you to send messages to all users (current or future) of your mobile application even if they don't have an existing profile in Adobe Campaign. Personalization is therefore not possible when customizing the messages as the user profile does not necessarily exist in Adobe Campaign.
 
 2. **Target all users based on their mobile app profile**
 This message type enables you to target all known or anonymous users of a mobile app that have a mobile profile in Adobe Campaign. This messages type can be personalized using only non-personal and non-sensitive attributes and does not require secure handshake between Mobile SDK and Adobe Campaign's In-App messaging service. So, the personalization strategy is based on what you have learnt about the users from their interaction with the device. E.g. target all users who have  launched their App more than 5 times in last one week.
 
-3. [**Target users based on their Campaign profile**](/help/acs/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+3. [**Target users based on their Campaign profile**](/help/guides/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
 This message type enables you to target Adobe Campaign profiles (CRM profiles) who have subscribed to your mobile application. The message can be personalized with all available profile attributes in Adobe Campaign but requires a secure handshake between Mobile SDK and Campaign's In-App messaging service to ensure that messages with personal and sensitive information are used by authorized users only.
 This template is useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an In-App message.
 
 ## Report on your In-App deliveries
 
-Once your delivery has been published, you can [report on your In-App delivery](/help/acs/communication-channels/mobile/in-app/in-app-reporting.md).
+Once your delivery has been published, you can [report on your In-App delivery](/help/guides/communication-channels/mobile/in-app/in-app-reporting.md).
 
 ## Additional resources
 
