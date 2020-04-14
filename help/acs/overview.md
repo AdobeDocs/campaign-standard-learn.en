@@ -14,6 +14,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
+* **[Control Panel - Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
+    <br>
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
+
 ## Staff Picks
 
 <table>

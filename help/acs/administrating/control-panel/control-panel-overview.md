@@ -61,7 +61,7 @@ The video below explains how to add an administrator to a Campaign instance
 * **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
     <br>
      *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
-* **[Control Pane - Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
+* **[Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
     <br>
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
