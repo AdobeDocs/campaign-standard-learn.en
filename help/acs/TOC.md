@@ -126,6 +126,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
+    + [Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
