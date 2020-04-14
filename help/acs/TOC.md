@@ -45,7 +45,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Creating Multi-lingual Email and SMS Deliveries](/help/acs/communication-channels/create-multilingual-deliveries.md)
     + [Convert an existing email or SMS delivery to multilingual](/help/acs/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/acs/communication-channels/email/a-b-testing.md)
-    + [Profile Substitution - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)
+    + [Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)
     + [Reviewing Personalized Email Delivery and Reports](/help/acs/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/acs/communication-channels/email/create-and-send-emails-via-workflow.md)
 
@@ -64,7 +64,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
         + [Register Mobile Extensions](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/register-mobile-extensions.md)
         + [Set Push Identifier](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/set-push-identifier.md)
         + [Propagate Notifications](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/propagate-notification.md)
-        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md) 
+        + [Send Notification](/help/acs/communication-channels/mobile/push-notifications/getting-started-push-notification-android/send-push-notification.md)
     + In-App Messages {#in-app}
       + [Introduction to In-App Messages](/help/acs/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/acs/communication-channels/mobile/in-app/configure-events.md)
@@ -127,7 +127,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)
     + [Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)
-    + [Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)
   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/acs/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
     + [Mapping Custom Resources](/help/acs/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
