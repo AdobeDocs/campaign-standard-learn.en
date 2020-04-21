@@ -13,4 +13,4 @@ index: y
 + [Step 4 - Set Push Identifier](./set-push-identifier.md)
 + [Step 5 - Propagate Notifications](./propagate-notification.md)
 + [Step 6 - Send Notification](./send-push-notification.md)
-+ [Adobe Campaign Standard Tutorials](/content/help/en/campaign-standard-learn/tutorials/overview.html)
++ [Adobe Campaign Standard Tutorials](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html)
