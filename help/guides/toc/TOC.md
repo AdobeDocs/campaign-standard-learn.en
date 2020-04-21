@@ -46,7 +46,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Test email messages using targeted profiles](/help/guides/communication-channels/email/profile-substitution.md)
     + [Review an email delivery and reports](/help/guides/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/guides/communication-channels/email/create-and-send-emails-via-workflow.md)
-
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/guides/communication-channels/mobile/sms/sms-delivery.md)
