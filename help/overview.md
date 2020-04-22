@@ -10,9 +10,13 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
+* **[Profile Substitution - Testing email messages using targeted profiles](/help/acs/communication-channels/email/profile-substitution.md)**
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
+
+* **[Control Panel - Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
+    <br>
+    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
 ## Staff Picks
 
@@ -28,7 +32,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     </div>
     <p>
-    <em> In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
+    <em>In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
     <p>
   </td>
    <td>
@@ -37,7 +41,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong> Email Designer (videos)</strong>
+    <strong>Email Designer (videos)</strong>
     </a>
     </div>
     <p>
