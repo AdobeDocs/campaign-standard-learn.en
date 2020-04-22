@@ -18,9 +18,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <br>
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
-* **[Tutorial: Getting Started with Push Notifications for Android](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**
+* **[Tutorial: Getting Started with Push Notifications for Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**
     <br>
-    * This tutorial walks you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.*
+   *This tutorial walks you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.*
 
 ## Staff Picks
 
