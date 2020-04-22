@@ -47,5 +47,5 @@ Adobe Campaign offers data controllers three methods for performing Privacy acce
 
 * [General Privacy Guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [CCPA for ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [ Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Adobe Campaign Standard REST API Documentation](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
