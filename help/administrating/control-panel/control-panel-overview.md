@@ -15,7 +15,7 @@ The [!UICONTROL Control Panel] allows Adobe Campaign administrators to easily mo
 
 ## Accessing [!UICONTROL Control Panel]
 
-To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com]( https://experiencecloud.adobe.com):
+To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * [!UICONTROL Experience Cloud Home] > [!UICONTROL Quick Access]
   
@@ -49,23 +49,23 @@ The video below explains how to add an administrator to a Campaign instance
   <br>
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
-  * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/acs/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
-  * [Generating a SSH Key](/help/acs/administrating/control-panel/generate-ssh-key.md)
-  * [Connecting to a SFTP Server](/help/acs/administrating/control-panel/connect-to-sftp-server.md)
-* **[Delegating Subdomains](/help/acs/administrating/control-panel/subdomain-delegation.md)**
+  * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+  * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
+  * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
+* **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
     <br>
     *Learn how to fully delegate a subdomain to Adobe Campaign* 
-* **[Adding SSL Certificates](/help/acs/administrating/control-panel/adding-ssl-certificates.md)**
+* **[Adding SSL Certificates](/help/administrating/control-panel/adding-ssl-certificates.md)**
     <br>
     *Learn how you can add a SSL certificates to secure your subdomains.*
-* **[Managing SSL Certificates](/help/acs/administrating/control-panel/managing-ssl-certificates.md)**
+* **[Managing SSL Certificates](/help/administrating/control-panel/managing-ssl-certificates.md)**
     <br>
      *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
-* **[Google TXT record management](/help/acs/administrating/control-panel/google-txt-record-management.md)**
+* **[Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)**
     <br>
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
-* **[Trouble Shooting](/help/acs/administrating/control-panel/trouble-shooting.md)**
+* **[Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)**
     <br>
     *Understand how to troubleshoot the Control Panel*
 
