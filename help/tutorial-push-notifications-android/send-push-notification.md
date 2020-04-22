@@ -14,12 +14,12 @@ team: TM
 We now need to create and send a [!UICONTROL Push Notification] using Adobe Campaign. . To create a simple push notification for testing purposes, please follow the following steps.
 
 * Login to your Adobe Campaign Standard instance
-* Click on **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
+* Click **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Select **[!UICONTROL Send push to app subscribers(mobileApp)]** and click Next
 * Select the appropriate mobile app from the **[!UICONTROL Associate a Mobile App to a delivery]** drop down list and click **[!UICONTROL Next]**
-* Click on the count label and it should return a value greater than 0. Click **[!UICONTROL Next]**
+* Click the count label and it should return a value greater than 0. Click **[!UICONTROL Next]**
 * Provide a meaningful [!UICONTROL Message title] and [!UICONTROL Message body] and click **[!UICONTROL Create]**.
-* Click on **[!UICONTROL Prepare]**. Once preparation, is complete click on **[!UICONTROL Confirm]** to send the message.
+* Click **[!UICONTROL Prepare]**. Once preparation, is complete click **[!UICONTROL Confirm]** to send the message.
 
 If everything goes well, you should see notification in your Android App running in the emulator
 

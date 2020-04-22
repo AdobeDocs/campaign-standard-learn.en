@@ -16,7 +16,7 @@ This is how you tell the user that something has happened in the background:
 * Launch [!DNL Android Studio]
 * Open *[!DNL ACSPushTutorial]* project
 * Expand the project structure
-* Right click on the package folder ([!DNL com.example.acspushtutorial]) and [!DNL New ->Java Class]
+* Right click the package folder ([!DNL com.example.acspushtutorial]) and [!DNL New ->Java Class]
 * Name this class *[!DNL MyService]* and make sure it extends [!DNL FirebaseMessagingService]
 * Create *[!DNL sendNotification]* method in this class. In this method you need to set the notification's content and channel using a [!DNL NotificationCompat.Builder] object. To make the notification appear, call [!DNL NotificationManagerCompat.notify()], passing it a unique ID for the notification and the result of [!DNL NotificationCompat.Builder.build()].
 
