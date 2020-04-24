@@ -24,7 +24,7 @@ Example use cases:
   
   >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
   
-  *[!UICONTROL External API activity] (min 04:12)*
+  *[!UICONTROL External API activity] (06:48 min)*
 
 >[!NOTE]
 >
