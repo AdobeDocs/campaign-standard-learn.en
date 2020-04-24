@@ -9,7 +9,7 @@ activity: use
 team: TM
 ---
 
-# Configure and run a workflow with the [!UICONTROL External API activity] (beta)
+# Configure and run a workflow with the [!UICONTROL External API activity]
 
 The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows easy data ingress and egress with REST API systems for batch and blast workflows.
 
