@@ -84,7 +84,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Execution Activities {#execution-activities}
     + [External Signal Activity](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Data Management Activities {#data-management-activities}
-    + [External API Activity (beta)](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
+    + [External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Reporting {#reporting}
   + [Exploring Reports](/help/getting-started/exploring-reports.md)
   + [Creating a Dynamic Report](/help/reporting/creating-a-dynamic-report.md)
