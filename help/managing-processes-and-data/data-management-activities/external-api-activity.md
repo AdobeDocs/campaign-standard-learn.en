@@ -11,9 +11,7 @@ team: TM
 
 # Configure and run a workflow with the [!UICONTROL External API activity]
 
-The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows you to call an external REST API endpoint. 
-
-The purpose of this activity is to get personalization data into your campaign from a third party system that supports a REST API, so that the required information can be brought in just when you need it.
+The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows you to call an external REST API endpoint. The purpose of this activity is to get personalization data from a third party system into your campaign just when you need it.
 
 Example use cases include:
 
