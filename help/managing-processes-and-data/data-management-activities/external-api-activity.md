@@ -11,16 +11,18 @@ team: TM
 
 # Configure and run a workflow with the [!UICONTROL External API activity]
 
-The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows easy data ingress and egress with REST API systems for batch and blast workflows.
+The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows you to call an external REST API endpoint. 
 
-The [!UICONTROL External API activity] is meant for realtime fetching of campaign wide data (latest set of offers, latest scores etc.) not for retrieving specific information for each profile.  It enables a connection to [!UICONTROL Adobe I/O Runtime] and similar systems ([!DNL Azure Functions], [!DNL AWS Lambda]) from the workflow.
+The purpose of this activity is to get personalization data into your campaign from a third party system that supports a REST API, so that the required information can be brought in just when you need it.
 
-Example use cases:
+Example use cases include:
 
 * Getting the latest game-day lineup for a sports event to personalize content
 * Getting the latest set of offers
 * Connecting to a coupon generation system
 * Checking the weather in local regions and using it to personalize content (each zip code used could potentially retrieve its own local temperature
+
+This video demonstrates the use of the External API activity.
   
   >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
   
@@ -28,8 +30,7 @@ Example use cases:
 
 >[!NOTE]
 >
->This capability is currently in public beta. You need to accept the usage agreement before starting using the [!UICONTROL External API activity]. Please note that since this public beta capability has not yet been commercially released by Adobe, it is not supported by [!UICONTROL Adobe Customer Care], it may contain errors and may not function as well as other released features.
->
+>Please note that the activity is meant for fetching of campaign wide data (latest set of offers, latest scores etc.) not for retrieving specific information for each profile as that can result in large amounts of data being transferred. If the use case requires this, the recommendation is to use the Transfer File activity.
 
 ## Additional Resources
 
