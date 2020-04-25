@@ -1,6 +1,6 @@
 ---
 title: Configure and run a workflow with the External API activity
-description: The External API activity brings data into the workflow from an external system via a REST API call. 
+description: The External API activity is a Data Management activity. It allows you to call an external REST API endpoint. The purpose of this activity is to get personalization data from a third party system into your campaign.
 feature: External API activity
 topics:   
 kt: 2764
