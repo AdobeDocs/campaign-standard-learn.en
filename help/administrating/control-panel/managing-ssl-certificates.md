@@ -11,6 +11,8 @@ team: PM
 
 # Managing SSL certificates
 
+The Control Panel lets you manage the subdomains that you delegated to Adobe Campaign. You can view your subdomains, as well as request renewal of their certificates.
+
 ## Accessing [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 To access the [!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], go to:
@@ -28,4 +30,4 @@ The video below explains how you can view the status of the SSL certificates of 
 
 *Managing SSL Certificates (05:00 min)*
 
-For more information on Subdomains and certificates please see the detailed [Product Documentation]( https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).
+For more information on Subdomains and certificates please see the detailed [Product Documentation](https://helpx.adobe.com/campaign/kb/control-panel-subdomains-certificates.html).

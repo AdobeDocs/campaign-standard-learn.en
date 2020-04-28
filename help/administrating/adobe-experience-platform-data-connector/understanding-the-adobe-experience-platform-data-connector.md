@@ -9,24 +9,24 @@ activity: understand
 team: TM
 ---
 
-# Understanding the [!UICONTROL Adobe Experience Platform Data Connector]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
->>This capability is currently in beta, and subject to frequent updates and modifications without notice.
->Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
+>This capability is currently in beta, and subject to frequent updates and modifications without notice.
+>Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 ## Overview
 
-[!UICONTROL Adobe Experience Platform Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in [!DNL Campaign]) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Adobe Campaign) to [!DNL Experience Data Model] (XDM) data on Adobe Experience Platform.
 
 Note that the connector is uni-directional and sends the data from Adobe Campaign Standard to Adobe Experience Platform. The data is never sent from the Adobe Experience Platform to Adobe Campaign Standard.
 
-[!UICONTROL Adobe Experience Platform Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer's overall data schema should be inside Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engineers who understand Adobe Campaign Standard [!UICONTROL custom resources] and have an understanding of how customer's overall data schema should be inside Adobe Experience Platform.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*This video gives an overview over the [!UICONTROL Adobe Experience Platform Data Connector] (09:35 min)*
+*This video gives an overview over the Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >

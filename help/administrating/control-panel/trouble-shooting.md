@@ -11,17 +11,21 @@ team: PM
 
 # Trouble shooting the [!UICONTROL Control Panel}
 
-## [!UICONTROL Login] and [!UICONTROL homepage]
+Learn how to troubleshoot issues when using the Control Panel.
+
+## Login and homepage
+
+Issues occurring with login and homepage.
 
 ### Symptom: Unable to login to Adobe Experience Cloud
 
 **What to do:**
-The user needs to locate their [!DNL IMS Org ID] (xxx). The administrator needs to add the user to the [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”]  for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*.
+The user needs to locate their [!DNL IMS Org ID] (xxx). The administrator needs to add the user to the [!UICONTROL product profile] [!DNL “Campaign-xxx-Admins”] for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*.
 
 ### Symptom: Links in the [!UICONTROL Adobe Experience Cloud Home] to access [!UICONTROL Control Panel] do not appear for a user 
 
 **Cause:**
-Users won’t see the links until they are added as users to [!UICONTROL product profile] *[!DNL Campaign-xxx-Administrators/Admin]*
+Users won’t see the links until they are added as users to [!UICONTROL product profile] `Campaign-xxx-Administrators/Admin`
 
 **What to do:**
 The administrator needs to add the user to the [!UICONTROL product profile] *[!DNL Campaign-xxx-Admins]* for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*. 
@@ -29,10 +33,10 @@ The administrator needs to add the user to the [!UICONTROL product profile] *[!D
 ### Symptom: An Instance is not listed in the [!UICONTROL Control Panel]
 
 **Cause:**
-Most likely user needs to be added as a *[!UICONTROL user]* Product Profile *[!DNL Campaign-xxx-Administrators/Admin]* for the instance that is missing
+Most likely user needs to be added as a *[!UICONTROL user]* Product Profile `!DNL Campaign-xxx-Administrators/Admin` for the instance that is missing
 
-**What to do:** 
-The administrator needs to add the user to the Product Profile *[!DNL Campaign-xxx-Admins]* for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*.
+**What to do:**
+The administrator needs to add the user to the Product Profile `Campaign-xxx-Admins` for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*.
 
 ### Helpful videos
 

@@ -11,16 +11,16 @@ team: PM
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to easily monitor key assets as well as perform administrative tasks, like managing the SFTP storage by instance or whitelist IP addresses.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or whitelist IP addresses.
 
 ## Accessing [!UICONTROL Control Panel]
 
 To access the Control Panel go to Experience Cloud Home: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
-* [!UICONTROL Experience Cloud Home] > [!UICONTROL Quick Access]
+* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
   
   or
-* [!UICONTROL Experience Cloud Home]  > [!UICONTROL Solution picker]: Campaign > [!UICONTROL Control Panel] card
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel] card**
   
   or
 
@@ -28,9 +28,11 @@ To access the Control Panel go to Experience Cloud Home: [https://experienceclou
 
 ## Prerequisites
 
+Before you get started, complete the following prerequisites:
+
 ### Confirm [!DNL IMS Org ID]
 
-Before you get started, you need to know your [!DNL IMS org ID]. The video below describes where you can lookup your instance's [!DNL IMS org ID].
+You need to know your [!DNL IMS org ID]. The following video describes where you can lookup your instance's [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 *Check [!DNL IMS Org ID] (00:26 min)*
@@ -38,7 +40,7 @@ Before you get started, you need to know your [!DNL IMS org ID]. The video below
 ### Administrator Rights
 
 Administrator rights are required to access to the [!UICONTROL Control Panel].
-The video below explains how to add an administrator to a Campaign instance
+The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
