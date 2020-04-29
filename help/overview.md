@@ -10,6 +10,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
+* **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+  <br>
+    *Learn how to configure and run a workflow with the External API activity.*
+
 * **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
