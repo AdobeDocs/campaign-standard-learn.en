@@ -8,9 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 ---
+
 # Target users based on their [!DNL Campaign] profile 
 
-Target known mobile app users (those who have logged into the app with PII) with messages personalized with CRM profile attributes available in Adobe Campaign Standard. This template is most useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an In-App message.
+Target known mobile app users (those who have logged into the app with PII) with messages personalized with CRM profile attributes available in Adobe Campaign Standard. This template is most useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an [!UICONTROL In-App] message.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 

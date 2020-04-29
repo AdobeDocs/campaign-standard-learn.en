@@ -17,7 +17,7 @@ This video explains how to review a personalized email delivery and explores dif
 
 ## Additional resources
 
-* [Create an email from the hompage](/help/communication-channels/email/create-email-from-homepage.md)
+* [Create an email from the homepage](/help/communication-channels/email/create-email-from-homepage.md)
 * [Sending a test, preparing and sending an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
 * [Create a Dynamic Report](/help/reporting/creating-a-dynamic-report.md)
 * [Create a Dynamic Report using Custom Profile Attributes](/help/reporting/custom-profile-attributes-dynamic-reports.md)
