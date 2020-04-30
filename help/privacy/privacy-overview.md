@@ -13,7 +13,7 @@ team: TM
 
 Adobe Campaign offers data controllers three methods for performing Privacy access and delete requests of PII data in compliance with privacy acts such as GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act):
 
-* **Via the Privacy Core Service integration:** Privacy requests pushed from [!UICONTROL Privacy Core Service] to all Experience Cloud solutions are automatically handled by Campaign via a dedicated workflow. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
+* **Via the Privacy Core Service integration:** Privacy requests pushed from [!UICONTROL Privacy Service] to all Experience Cloud solutions are automatically handled by Campaign via a dedicated workflow. Refer to the [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) to learn how to create privacy requests from the Privacy Core Service
   
 * **Via the API:** Adobe Campaign provides an API that allows the automatic process of privacy requests using REST
   
@@ -23,11 +23,11 @@ Adobe Campaign offers data controllers three methods for performing Privacy acce
 >
 > **CHANGES WITH ACS 19.4:**
 > 
-> The [Privacy Core Service integration](https://adobe.io/apis/cloudplatform/gdpr.html) is the method you should use for all access and delete requests. Starting 19.4, the use of the Campaign API and interface for access and delete requests is deprecated. For more on Campaign Standard deprecated and removed features, refer to [this page](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).
+> The [Privacy Service integration](https://adobe.io/apis/cloudplatform/gdpr.html) is the method you should use for all access and delete requests. Starting 19.4, the use of the Campaign API and interface for access and delete requests is deprecated. For more on Campaign Standard deprecated and removed features, refer to [this page](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).
 >
 >**Opt-out for the Sale of Personal Information (CCPA)**
 >
->Starting with 19.4, a CCPA Opt-Out field is provided out-of-the-box in the Campaign interface and API. For 19.3, to leverage this information, you need to create this >field in Adobe Campaign Standard. Please see the [detailed documentation](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) for more information.
+>Starting with 19.4, a CCPA Opt-Out field is provided out-of-the-box in the Campaign interface and API. For 19.3, to leverage this information, you need to create this field in Adobe Campaign Standard. See the [detailed documentation](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) for more information.
 >
 > You can check your version by clicking on the ? icon in the top right of the interface and selecting About.
 
@@ -36,7 +36,7 @@ Adobe Campaign offers data controllers three methods for performing Privacy acce
 ### Prerequisites for Privacy Requests
 
 1. [Create a Namespace](/help/privacy/namespaces-for-privacy-requests.md)
-2. [Modify [!UICONTROL custom resources]](/help/privacy/custom-resources-for-privacy-requests.md)
+1. [Modify custom resources](/help/privacy/custom-resources-for-privacy-requests.md)
 
 ### Create,track and execute Privacy requests through the Adobe Campaign user interface
 

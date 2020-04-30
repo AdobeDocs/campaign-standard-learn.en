@@ -20,5 +20,4 @@ This videos demonstrates how to manually create privacy requests and track their
 ## Additional resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-  
 * [CCPA for ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
