@@ -8,7 +8,7 @@ activity: understand
 team: PM
 ---
 
-# Mirror Page URL
+# Mirror page URL
 
 The following video explains how the mirror page URL is being used in the [!UICONTROL Microsoft Dynamics 365 Connector].
 

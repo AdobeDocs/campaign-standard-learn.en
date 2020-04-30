@@ -20,7 +20,7 @@ Example use cases include:
 * Connecting to a coupon generation system
 * Checking the weather in local regions and using it to personalize content
 
-This video demonstrates the use of the External API activity.
+This video demonstrates the use of the [!UICONTROL External API activity].
   
   >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
   
