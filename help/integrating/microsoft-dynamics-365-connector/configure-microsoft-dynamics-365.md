@@ -11,9 +11,9 @@ team: PM
 
 # Configure [!DNL Microsoft Dynamics 365] {#configure-microsoft-dynamics-365}
 
-An OAuth access token allows Unifi to authenticate with your [!DNL Microsoft Dynamics] instance via web APIs in order to post Campaign Standard experience events to the timeline view of the [!DNL Microsoft Dynamics] interface.
+An OAuth access token allows [!DNL Unifi] to authenticate with your [!DNL Microsoft Dynamics] instance via web APIs in order to post Campaign Standard experience events to the timeline view of the [!DNL Microsoft Dynamics] interface.
 
-The video below explains how to generate the OAuth access token.
+The following video explains how to generate the OAuth access token.
 
 For more information also see the product documentation [Configure Microsoft Dynamics 365 for Campaign integration](https://docs.adobe.com/content/help/en/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/configure-microsoft-dynamics-365-for-campaign-integration.html).
 

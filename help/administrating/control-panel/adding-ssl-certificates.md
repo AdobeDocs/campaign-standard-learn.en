@@ -26,7 +26,7 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
 Adding SSL certificates requires three steps:
 
-### 1. Generate [!UICONTROL Certificate Signing Requests]
+### Step 1: Generate [!UICONTROL Certificate Signing Requests]
 
 The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. It needs to be generated for the instance and the subdomains you are planning to secure.
 
@@ -36,13 +36,13 @@ The video below describes how to generate a [!UICONTROL Certificate Signing Requ
 
 *Generate Certificate Signing Requests (02:36 min)*
 
-### 2. Purchase SSL Certificate
+### Step 2: Purchase SSL Certificate
 
-After obtaining the CSR, you will need to purchase the SSL certificate from a certificate authority approved by your organization.
+After obtaining the CSR, purchase the SSL certificate from a certificate authority approved by your organization.
 
-### 3. Install SSL Certificates
+### Step 3: Install SSL Certificates
 
-Once you have obtained the SSL certificate it will need to be installed for the subdomains you are planning on securing.
+After you have obtained the SSL certificate it must be installed for the subdomains you are planning to secure.
 
 The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 

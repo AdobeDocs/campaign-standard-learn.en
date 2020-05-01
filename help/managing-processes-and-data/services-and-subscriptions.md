@@ -17,8 +17,8 @@ Subscription mechanisms can be set up to offer your customers a chance to subscr
 
 Each service comes with:
 
-* Subscription (opt-in) and unsubscription (opt-out) mechanisms.
-* Subscription and/or unsubscription confirmation mechanisms.
+* Subscribe (opt-in) and unsubscribe (opt-out) mechanisms.
+* Subscribe and/or unsubscribe confirmation mechanisms.
 * A subscription history.
 
 This video will show you how to create a service and manage its subscriptions.

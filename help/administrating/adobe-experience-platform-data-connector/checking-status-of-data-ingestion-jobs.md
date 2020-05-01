@@ -14,7 +14,7 @@ team: PM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice.
->Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
+>Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 Learn how to check the status of a data ingestion job and if the data has been ingested from Adobe Campaign Standard into Adobe Experience Platform.
 

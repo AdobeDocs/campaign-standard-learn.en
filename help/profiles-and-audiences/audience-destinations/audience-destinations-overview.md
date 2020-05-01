@@ -16,7 +16,7 @@ team: TM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
->Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
+>Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 >
 
 This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.

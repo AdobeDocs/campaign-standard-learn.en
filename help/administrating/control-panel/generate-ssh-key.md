@@ -11,7 +11,7 @@ team: PM
 
 # Generating a SSH Key
 
-You need to be able to generate a SSH key in order to be able to add it to the [!UICONTROL Control Panel].
+You need to generate a SSH key so that you can add it to the [!UICONTROL Control Panel].
 
 ## Accessing [!UICONTROL Control Panel] SFTP Management
 
@@ -24,7 +24,7 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## How to generate a SSH key
 
-The video below explains how to generate a SSH key using a terminal.
+The following video explains how to generate a SSH key using a terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 

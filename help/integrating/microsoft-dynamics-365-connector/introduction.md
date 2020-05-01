@@ -25,7 +25,7 @@ You can access your integration details via single sign on. This [video](/help/i
    * [[Unifi Introduction](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
    * [[Unifi Jobs - Overview](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
    * [Unifi Jobs - Ingress and Egress](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-   * [Unifi] - Operationalization & Monitoring](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
+   * [Unifi - Operationalization & Monitoring](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 4. [Using the mirror page URL](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
 
 ## Additional resources

@@ -11,7 +11,7 @@ team: TM
 
 # [!UICONTROL Email Designer] overview
 
-The [!UICONTROL Email Designer] enables the quick and effortless visual creation of individually personalized emails without the need to script a single line of code helping scale email creation.   It allows you to create email content and email content templates. It is compatible with simple emails, transactional emails, A/B test emails, multilingual emails, and recurring emails.  
+The [!UICONTROL Email Designer] enables the quick and effortless visual creation of individually personalized emails without the need to script a single line of code helping scale email creation. It allows you to create email content and email content templates. It is compatible with simple emails, transactional emails, A/B test emails, multilingual emails, and recurring emails.  
 
 This video gives you a high level overview over the functionality and usage of the Adobe Campaign Standard [!UICONTROL Email Designer].
 
