@@ -9,12 +9,11 @@ activity: use
 team: DOC
 ---
 
-# Create and edit a [!UICONTROL landing page] {#create-and-edit-a-landing-page}
+# Create and edit a landing page {#create-and-edit-a-landing-page}
 
-Adobe Campaign allows you to build [!UICONTROL landing pages] which are online forms that can be used to capture information on your audiences, offer subscriptions to a service, display data and grow your database. [[!UICONTROL Landing pages] can also be used for acquiring or updating existing profiles.
+Adobe Campaign allows you to build landing pages which are online forms that can be used to capture information on your audiences, offer subscriptions to a service, display data and grow your database. Landing pages can also be used for acquiring or updating existing profiles.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
-
 
 ## Additional Resources
 

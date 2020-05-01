@@ -11,7 +11,7 @@ team: PM
  
 # Configure [!UICONTROL Adobe IO] {#configure-adobe-io}
 
- This video below explains how to set up API access and configure a new integration for Unifi in [!UICONTROL Adobe IO].
+ This video below explains how to set up API access and configure a new integration for [!DNL Unifi] in [!UICONTROL Adobe IO].
 
  >[!VIDEO](https://video.tv.adobe.com/v/27308?quality=12)
 

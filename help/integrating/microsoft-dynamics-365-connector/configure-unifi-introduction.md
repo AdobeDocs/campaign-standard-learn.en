@@ -9,11 +9,11 @@ activity: setup
 team: PM
 ---
 
-# Configure [!DNL Unifi] Introduction
+# Configure [!DNL Unifi] introduction
 
-[!DNL Unifi]synchronizes the [!DNL Microsoft Dynamics 365] contact records with profile records in Adobe Campaign Standard. This page explains how to configure [!DNL Unifi] for the [!DNL Microsoft Dynamics 365 Connector].For more information also see the product documentation [Configure Unifi for Microsoft Dynamics 365 integration](https://helpx.adobe.com/content/help/en/campaign/kb/unifi-configuration.html) and the [[!DNL Unifi] User Guide](https://drive.google.com/drive/folders/16seHF45e6bFxHX15zWLqFLEXymCuA_wn).
+[!DNL Unifi] synchronizes the [!DNL Microsoft Dynamics 365] contact records with profile records in Adobe Campaign Standard. This page explains how to configure [!DNL Unifi] for the [!DNL Microsoft Dynamics 365 Connector].For more information also see the product documentation [Configure Unifi for Microsoft Dynamics 365 integration](https://helpx.adobe.com/content/help/en/campaign/kb/unifi-configuration.html) and the [[!DNL Unifi] User Guide](https://drive.google.com/drive/folders/16seHF45e6bFxHX15zWLqFLEXymCuA_wn).
 
-## Use Cases
+## Use cases
 
 The following use cases are covered:
 
@@ -22,21 +22,23 @@ The following use cases are covered:
 * Email marketing events: sends, opens, and clicks
 * Opt-out
 
-The video below explains each of the use cases in more detail.
+The following video explains each of the use cases in more detail.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27394?quality=12)
 
 *Use Cases (01:36 min)*
 
-## Login and Credentials
+## Login and credentials
 
-### [!DNL Unifi] Login And First Time User Experience
+This section discusses first-time user login and credential information.
+
+### [!DNL Unifi] Login and first-time user experience
 
 >[!VIDEO](https://video.tv.adobe.com/v/27393?quality=12)
 
 *This video shows how to login to [!DNL Unifi] for the first time (01:19 min)*
 
-### Add the Credentials Information of Adobe Campaign Standard & [!DNL Microsoft Dynamics 365]
+### Add the credential information of Adobe Campaign Standard and [!DNL Microsoft Dynamics 365]
 
 >[!VIDEO](https://video.tv.adobe.com/v/27395?quality=12)
 

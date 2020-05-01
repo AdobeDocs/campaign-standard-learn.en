@@ -9,7 +9,7 @@ activity: understand
 team: PM
 ---
 
-# Single Sign On (SSO)
+# Single sign-on (SSO)
 
 You can access your integration details via single sign on. The video below explains how to do this.
 

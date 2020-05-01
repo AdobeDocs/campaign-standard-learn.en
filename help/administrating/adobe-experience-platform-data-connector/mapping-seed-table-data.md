@@ -14,7 +14,7 @@ team: TM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice.
->Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
+>Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 Learn how to map seed data and test profiles with the Adobe Experience Platform.
 

@@ -11,8 +11,8 @@ activity: use
 team: DOC
 ---
 
-# Test and publish a [!UICONTROL landing page]
+# Test and publish a landing page
 
-This video explains how test a [!UICONTROL landing page] and how to publish it.
+This video explains how test a landing page and how to publish it.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12)

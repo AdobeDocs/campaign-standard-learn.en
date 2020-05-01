@@ -14,11 +14,11 @@ team: PM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
->Please reach out to [!UICONTROL Adobe Customer Care] if you plan to implement this capability.
+>Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 Adobe Campaign Standard allows you to build audiences using data from the Adobe Experience Cloud [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) by using the Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-You can access the [!UICONTROL Unified Segment Builder] directly within Adobe Campaign Standard via the [!UICONTROL Audiences ] module. This allows you the manage these audiences directly in the [!UICONTROL Audiences] list view, where you can edit or create a new Adobe Experience Platform audience directly from the [!DNL Campaign] interface
+You can access the [!UICONTROL Unified Segment Builder] directly within Adobe Campaign Standard via the [!UICONTROL Audiences ] module. This allows you the manage these audiences directly in the [!UICONTROL Audiences] list view, where you can edit or create a new Adobe Experience Platform audience directly from the Adobe Campaign interface
 
 The video below explains how a new audience is created using [!UICONTROL Unified Segment Builder] within Adobe Campaign Standard.
 

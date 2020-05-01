@@ -11,9 +11,9 @@ activity: use
 team: TM
 ---
 
-# Create an In-App delivery within a workflow
+# Create an [!UICONTROL In-App] delivery within a workflow
 
-The In-App delivery activity is generally used to automate sending an In-App message to a target audience calculated in the same workflow.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 The recipients are defined upstream of the activity in the same workflow, via targeting activities such as queries, intersections, etc.
 
