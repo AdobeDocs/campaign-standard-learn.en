@@ -59,7 +59,7 @@ There are several anti-spam groups that allow for spam reporting at a broader le
 
 ## Spam traps
 
-Spam traps exist to help identify mail from fraudulent senders or those that aren’t following email best practices. The spam trap email address is generally not publicly published and are al-most impossible to identify. Delivering email to spam traps can impact your reputation with varying degrees of severity depending on the type of trap and the ISP. Learn more about the different types of spam traps in the following sections.
+A spam trap is an address used to identify an unpermissioned or unsolicited email. Spam traps exist to help identify mail from fraudulent senders or those that aren’t following email best practices. The spam trap email address is generally not publicly published and are almost impossible to identify. Delivering email to spam traps can impact your reputation with varying degrees of severity depending on the type of trap and the ISP. Learn more about the different types of spam traps in the following sections.
 
 ### Recycled
 
@@ -74,11 +74,6 @@ A typo spam trap is an address that contains a misspelling or malformation. This
 ### Pristine
 
 A pristine spam trap is an address that has no end user and has never had an end user. It’s an address that was created purely to identify spam email. This is the most impactful type of spam trap as it’s virtually impossible to identify and would require a substantial effort to clean from your list. Most blacklists utilize pristine spam traps to list unreputable senders. The only way to avoid pristine spam traps from infecting your broader marketing email list is to utilize a double opt-in process for list collection.
-
->[!NOTE]
->
->A spam trap is an address used to identify an unpermissioned or unsolicited email.
->
 
 ## Bulking
 
