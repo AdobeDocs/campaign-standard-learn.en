@@ -78,6 +78,7 @@ A pristine spam trap is an address that has no end user and has never had an end
 >[!NOTE]
 >
 >A spam trap is an address used to identify an unpermissioned or unsolicited email.
+>
 
 ## Bulking
 
