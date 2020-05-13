@@ -13,7 +13,7 @@ team: TM
 
 One of the best ways to identify a sending reputation issue is through the metrics. Let’s take a look at some key deliverability metrics to monitor and how to use them to identify a reputation issue.
 
-## Bounces 
+## Bounces
 
 Bounces are the result of a delivery attempt and failure where the ISP provides back failure notices. Bounce handling processing is a critical part of list hygiene. After a given email has bounced several times in a row, this process flags it for suppression. The number and type of bounces required to trigger suppression vary from system to system. This process prevents systems from continuing to send invalid email addresses. Bounces are one of the key pieces of data that ISPs use to determine IP reputation. Keeping an eye on this metric is very important. “Delivered” versus “bounced” is probably the most common way of measuring the delivery of marketing messages: the higher the delivered percentage is, the better. We’ll dig into two different kinds of bounces.
 
@@ -38,7 +38,7 @@ Soft bounces are temporary failures that ISPs generate when they have difficulty
 
 >[!NOTE]
 >
->Bounces are a key indicator of a reputation issue because they can highlight a bad data source (hard bounce) or a reputation issue with an ISP (soft bounce). 
+>Bounces are a key indicator of a reputation issue because they can highlight a bad data source (hard bounce) or a reputation issue with an ISP (soft bounce).
 Soft bounces often occur as part of sending email and should be allowed to resolve during the retry processing before characterizing as a true deliverability issue. If your soft bounce rate is greater than 30 percent for a single ISP and do not resolve within 24 hours, it’s a good idea to raise a concern with your Adobe Campaign deliverability consultant.
 
 ## Complaints
@@ -91,6 +91,6 @@ A block occurs when spam indicators reach proprietary ISP thresholds and the ISP
 
 A blacklisting occurs when a third-party blacklist manager registers spammer-like behavior associated with a sender. The cause of a blacklist is sometimes published by the blacklisting party. A listing is generally based on IP address, but in more severe cases it can be by IP range or even a sending domain. Resolving a blacklisting should involve support from your Adobe Campaign deliverability consultant in order to fully resolve and prevent further listings. Some listings are extremely severe and can cause long-lasting reputation issues that are difficult to resolve. The result of a blacklisting varies by the blacklist but has the potential to impact delivery of all email.
 
-## Additional resources
+## Additiona resources
 
-* [Delivery failure types and reasons] (https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/monitoring-messages/understanding-delivery-failures.html#delivery-failure-types-and-reasons)
+* [Delivery failure types and reasons](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/monitoring-messages/understanding-delivery-failures.html#delivery-failure-types-and-reasons)
