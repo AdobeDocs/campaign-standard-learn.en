@@ -132,3 +132,5 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Modifying custom resources for privacy requests](/help/privacy/custom-resources-for-privacy-requests.md)
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Executing privacy requests](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorial-deliverability-best-practices/introduction.md)
+  
