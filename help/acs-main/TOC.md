@@ -29,7 +29,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Create profiles and audiences - Overview](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
   + [Create a profile](/help/profiles-and-audiences/creating-a-profile.md)
   + [Create a test profile](/help/profiles-and-audiences/test-profiles.md)
-  + [Import profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
+  + [Importing profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
   + [Manage services and subscriptions](/help/managing-processes-and-data/services-and-subscriptions.md)
   + Audience Destinations (BETA){#audience-destinations}
     + [Overview](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
@@ -41,7 +41,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
     + [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-    + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
+    + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -49,8 +49,8 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)
-      + [Create multi-lingual email and SMS deliveries](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
       + [Create a Push Notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -132,5 +132,5 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Modifying custom resources for privacy requests](/help/privacy/custom-resources-for-privacy-requests.md)
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Executing privacy requests](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign Deliverability Best Practice Guide](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorial-deliverability-best-practices/introduction.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/tutorial-deliverability-best-practices/introduction.html)
   
