@@ -1,6 +1,6 @@
 ---
 title: Deliverability strategy and definition
-description: 
+description: Designing successful email marketing campaigns depends on having a clear understanding of marketing goals, whether they’re for prospecting or customer relationship management (CRM) initiatives. This helps to determine who to target, what to promote, and when outreach is ideal.
 feature: 
 topics: Deliverability
 kt: 
@@ -15,7 +15,7 @@ Designing successful email marketing campaigns depends on having a clear underst
 
 Here are some examples of email marketing strategy objectives:
 
-* Acquiring new customers 
+* Acquiring new customers
 * Converting prospects to first time buyers
 * Growing current customer relationships with additional client offerings 
 * Retaining loyal customers
