@@ -48,31 +48,31 @@ The following video explains how to add an administrator to a Campaign instance
 ## Control Panel Tutorials
 
 * **Managing SFTP Servers**
-  <br>
+
     *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
 
   * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
   * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
   * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
-    <br>
+
     *Learn how to fully delegate a subdomain to Adobe Campaign* 
 * **[Adding SSL Certificates](/help/administrating/control-panel/adding-ssl-certificates.md)**
-    <br>
+
     *Learn how you can add a SSL certificates to secure your subdomains.*
 * **[Managing SSL Certificates](/help/administrating/control-panel/managing-ssl-certificates.md)**
-    <br>
+
      *Learn how you can view the status of the SSL certificates of your subdomains, as well as request renewals.*
 * **[Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)**
-    <br>
+
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
 * **[Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)**
-    <br>
+
     *Understand how to troubleshoot the Control Panel*
 
 * **[Generating and installing GPG keys](/help/administrating/control-panel/generating-and-installing-GPG-keys.md)**
-    <br>
+
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
 ## Additional Resources
