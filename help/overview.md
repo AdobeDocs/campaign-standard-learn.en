@@ -10,7 +10,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Control Panel Generating and installing GPG keys](./generating-and-installing-GPG-keys.md)**
+* **[Control Panel Generating and installing GPG keys](help/administrating/control-panel/generating-and-installing-GPG-keys.md)**
     <br>
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
