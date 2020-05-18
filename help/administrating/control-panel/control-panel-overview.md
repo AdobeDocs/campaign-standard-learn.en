@@ -71,6 +71,10 @@ The following video explains how to add an administrator to a Campaign instance
     <br>
     *Understand how to troubleshoot the Control Panel*
 
+* **[Generating and installing GPG keys](./generating-and-installing-GPG-keys.md)**
+    <br>
+    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+
 ## Additional Resources
 
 * [[!UICONTROL Control Panel Help Center]](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
