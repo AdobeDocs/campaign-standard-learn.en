@@ -10,6 +10,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
+* **[Control Panel Generating and installing GPG keys](./generating-and-installing-GPG-keys.md)**
+    <br>
+    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+
 * **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
   <br>
     *Learn how to configure and run a workflow with the External API activity.*
@@ -18,29 +22,22 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
   <br>
     *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
-* **[Control Panel - Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)**
-    <br>
-    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
-
-* **[Tutorial: Getting Started with Push Notifications for Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**
-    <br>
-   *This tutorial walks you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.*
 
 ## Staff Picks
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="In-App Messaging (tutorial)" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="Profile Substitution - Testing email messages using targeted profiles (video)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>In-App Messaging (tutorial)</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>Profile Substitution - Testing email messages using targeted profiles (video)</strong>
     </a>
     </div>
     <p>
-    <em>In-App Messaging is a channel that allows you to display a message when the user is active within a mobile application.</em>
+    <em>Learn how to send a proof for review with the exact representation of the message that the profile will receive.</em>
     <p>
   </td>
    <td>
@@ -57,16 +54,16 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Personalize emails using dynamic content blocks (video)" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Tutorial: Getting Started with Push Notifications for Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Product Listings (tutorial)</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Tutorial: Getting Started with Push Notifications for Android</strong>
     </a>
     </div>
     <p>
-    <em>Create transactional emails with a list of products and offerings. </em>
+    <em>This tutorial walks you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app. </em>
     <p>
   </td>
 </tr>
