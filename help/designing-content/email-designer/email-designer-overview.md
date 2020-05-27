@@ -32,4 +32,3 @@ The following detailed tutorials are available:
 * [Preview your email](/help/designing-content/email-designer/preview-your-email.md)
 * [Working with existing content](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Creating content using Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-* [Edit images using Adobe Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
