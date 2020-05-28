@@ -92,17 +92,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Developing {#developing}
   + Custom Resources {#custom-resources-develop}
     + [Creating Custom Resources](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integrating {#integrating}
-  + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-    + [Introduction](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-    + [Single Sign On (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-    + [Support for Mirror Page URL](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-    + [Configure Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-    + [Configure Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-    + [Configure Unifi - Introduction](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-    + [Unifi jobs - Overview](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-    + [Unifi jobs - ingress and egress](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-    + [Unifi - operationalization & monitoring](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administrating {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + Control Panel {#control-panel}
