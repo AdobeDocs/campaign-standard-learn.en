@@ -14,6 +14,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 
 + [Overview](/help/overview.md)
 + Getting started {#getting-started}
+  + [Overview](/help/getting-started/getting-started-overview.md)
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Functional overview](/help/getting-started/functional-overview.md)
   + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)
