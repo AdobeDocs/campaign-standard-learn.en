@@ -1,9 +1,9 @@
 ---
 title: Engagement
-description: Engagement has become the single most important factor impacting inbox placement decisions. Over the years, ISPs have shifted their focus from content-related filters to a behavioral model, heavily relying on positive and negative engagement actions. Positive engagement primarily includes opens, clicks, forwards, and replies. Negative engagement includes deleting without opening, ignoring, unsubscribing, and marking as spam. Receiving explicit permission is the foundation of positive email engagement. Once a brand has permission, that relationship should be nurtured by regularly measuring and meeting the customers' expectations through frequency and content.
+description: Engagement has become the single most important factor impacting inbox placement decisions.
 feature: 
 topics: Deliverability
-kt: 
+kt: 5257
 doc-type: article
 activity: understand
 team: TM
