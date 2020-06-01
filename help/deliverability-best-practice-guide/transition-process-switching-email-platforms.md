@@ -54,9 +54,9 @@ Behind the scenes, Adobe Campaign is processing data regarding bounces, complain
 
 Authentication is the process that ISPs use to validate the identity of a sender. The two most common authentication protocols are [!DNL Sender Policy Framework (SPF)] and [!DNL DomainKeys Identified Mail] (DKIM). These are not visible to the end user but do help ISPs filter email from verified senders. [!DNL Domain-based Message Authentication Reporting and Conformance] (DMARC) is gaining popularity, although its policies aren’t yet incorporated by all ISPs in their reputation systems.
 
-#### **SPF** 
+#### **SPF**
 
-[!DNL Sender Policy Framework (SPF)] is an authentication method that allows the owner of a domain to specify which mail servers they use to send mail from that domain. 
+[!DNL Sender Policy Framework (SPF)] is an authentication method that allows the owner of a domain to specify which mail servers they use to send mail from that domain.
 
 #### **DKIM**
 
@@ -70,7 +70,7 @@ Authentication is the process that ISPs use to validate the identity of a sender
 
 When sending new traffic, only target your highest engaged users during the early phases of IP warming. This helps establish a positive reputation from the get-go to effectively build trust before rolling in your less engaged audiences. Here’s a basic formula for engagement:
 
-![[!Formula for enagagement]](assets/formula-for-enagement.png)
+![Formula for enagagement](assets/formula-for-enagement.png)
 
 Typically, an engagement rate is based on a specific period of time. This metric can vary drastically depending on if the formula is applied on an overall level or for specific mailing types or campaigns. The specific targeting criteria needs to be provided by working with your Adobe Campaign deliverability consultant, since every sender and ISP varies and usually requires a customized plan.
 
@@ -101,7 +101,7 @@ In many circumstances, transactional mail doesn’t follow the traditional promo
 1. Purchase confirmations - high engagement generally
 2. Cart abandon - medium-high engagement generally
 3. Welcome emails - high engagement but can contain bad addresses depending on your list collection methods
-4. Winback emails - lower engagement generally
+4. Win-back emails - lower engagement generally
 
 ## Additional resources
 
