@@ -18,4 +18,3 @@ We’ll take a quick tour of the important differences between a handful of the 
 * [Gmail](./gmail.md)
 * [Microsoft (Hotmail, Outlook, Windows Live etc.)](./microsoft.md)
 * [Verizon Media Group (Yahoo, AOL, Verizon, etc.)](./verizon-media-group.md)
-

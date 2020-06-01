@@ -17,7 +17,7 @@ Think about what you do when meeting someone new. Typically, you need to build t
 
 Establishing a positive reputation is a process. But once it’s established, small negative indicators will have less impact to you and your mail delivery.
 
-![[! The transition process]](assets/transition-process.png)
+![The transition process](assets/transition-process.png)
 
 The amount of time to warm your IP addresses and domains may vary, but up to an eight-week benchmark is common for typical senders to establish a reputation at most Tier 1 ISPs ([!DNL Gmail], [!DNL Microsoft], [!DNL Verizon]/[!DNL Yahoo]/[!DNL AOL], etc.). 
 In the next sections, we’ll investigate some key areas to focus on to onboard properly.
