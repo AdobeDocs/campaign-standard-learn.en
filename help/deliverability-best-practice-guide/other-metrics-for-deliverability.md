@@ -34,7 +34,7 @@ Soft bounces are temporary failures that ISPs generate when they have difficulty
 * Receiving email server down
 * Sender reputation issues
 
-![[!bounce types]](assets/bounce-types.png)
+![bounce types](assets/bounce-types.png)
 
 >[!NOTE]
 >
@@ -69,7 +69,7 @@ In some cases, an address can become recycled within 30 days. Sending regularly 
 
 ### Typo
 
-A typo spam trap is an address that contains a misspelling or malformation. This often occurs with known misspellings of major domains like [!DNL Gmail] (ex: [!DNL gmial] is a common typo). ISPs and other blocklist operators will register known bad domains to be used as a spam trap in order to identify spammers and measure sender health. The best way to prevent typo spam traps is to use a double opt-in process for list collection.
+A typo spam trap is an address that contains a misspelling or malformation. This often occurs with known misspellings of major domains like [!DNL Gmail] (ex: [!DNL gmail] is a common typo). ISPs and other block-list operators will register known bad domains to be used as a spam trap in order to identify spammers and measure sender health. The best way to prevent typo spam traps is to use a double opt-in process for list collection.
 
 ### Pristine
 
@@ -87,6 +87,6 @@ A block occurs when spam indicators reach proprietary ISP thresholds and the ISP
 
 A blacklisting occurs when a third-party blacklist manager registers spammer-like behavior associated with a sender. The cause of a blacklist is sometimes published by the blacklisting party. A listing is generally based on IP address, but in more severe cases it can be by IP range or even a sending domain. Resolving a blacklisting should involve support from your Adobe Campaign deliverability consultant in order to fully resolve and prevent further listings. Some listings are extremely severe and can cause long-lasting reputation issues that are difficult to resolve. The result of a blacklisting varies by the blacklist but has the potential to impact delivery of all email.
 
-## Additiona resources
+## Additional resources
 
 * [Delivery failure types and reasons](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/monitoring-messages/understanding-delivery-failures.html#delivery-failure-types-and-reasons)

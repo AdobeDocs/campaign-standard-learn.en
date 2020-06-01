@@ -19,8 +19,8 @@ Sending permanence is the process of establishing a consistent sending volume an
 
 **Here are some examples:**
 
-![[!Good sending permanence]](assets/good-sending-permanence.png)
+![Good sending permanence](assets/good-sending-permanence.png)
 
-![[!Bad sending permanence]](assets/bad-sending-permanence.png)
+![Bad sending permanence](assets/bad-sending-permanence.png)
 
-![[!Acceptable sending permanence]](assets/acceptable-sending-permanence.png)
+![Acceptable sending permanence](assets/acceptable-sending-permanence.png)
