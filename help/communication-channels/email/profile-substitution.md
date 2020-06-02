@@ -4,7 +4,7 @@ description: This video explains how you can test your email messages using the 
 feature: Email  
 topics: Channels
 kt: 4667
-MPCID: 32368
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
