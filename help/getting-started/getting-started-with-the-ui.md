@@ -4,7 +4,7 @@ description: This video gives you an overview over the Adobe Campaign Standard u
 feature: User Interface
 topics: Getting started
 kt: 3882
-thumbnail: 
+thumbnail: docs-campaign.png
 doc-type: feature video
 activity: understand
 team: TM
