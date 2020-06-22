@@ -1,6 +1,6 @@
 ---
-title: Monitoring server capacity, whitelisting IP addresses, and adding SSH keys
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
+title: Monitoring server capacity, allow listing IP addresses, and adding SSH keys
+description: The Control Panel allows you to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
 feature: Control Panel
 topics: 
 kt: 3266
@@ -9,9 +9,9 @@ activity: use
 team: PM
 ---
 
-# Monitoring server capacity, [!UICONTROL whitelisting] IP addresses, and adding SSH keys
+# Monitoring server capacity, [!UICONTROL allow listing] IP addresses, and adding SSH keys
 
-The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
+The Control Panel allows you to monitor and manage your SFTP storage by instance and add [!UICONTROL allow listing]IP addresses.
 
 ## Accessing [!UICONTROL Control Panel] Subdomain Management
 
@@ -22,9 +22,9 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
   or
 * Directly from the URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Monitor server capacity, [!UICONTROL whitelist] IP addresses,and add SSH keys
+## Monitor server capacity, [!UICONTROL allow list] IP addresses,and add SSH keys
 
-This video explains how to access the [!UICONTROL Adobe Campaign Control Panel], monitor the storage of SFTP servers, [!UICONTROL whitelist] an IP address, as well as add a SSH Key.
+This video explains how to access the [!UICONTROL Adobe Campaign Control Panel], monitor the storage of SFTP servers, [!UICONTROL allow list] an IP address, as well as add a SSH Key.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
 

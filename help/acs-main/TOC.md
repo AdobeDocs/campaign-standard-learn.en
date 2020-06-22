@@ -108,7 +108,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + Control Panel {#control-panel}
     + [Control Panel Overview](/help/administrating/control-panel/control-panel-overview.md)
-    + [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
     + [Generating a SSH key](/help/administrating/control-panel/generate-ssh-key.md)
     + [Connecting to a SFTP server](/help/administrating/control-panel/connect-to-sftp-server.md)
     + [Delegating subdomains](/help/administrating/control-panel/subdomain-delegation.md)
