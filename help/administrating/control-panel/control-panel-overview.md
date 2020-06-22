@@ -1,6 +1,6 @@
 ---
 title: Control Panel
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and whitelist IP addresses.
+description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -11,7 +11,11 @@ team: PM
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or whitelist IP addresses.
+>[!NOTE]
+>
+>Both ‘allow list’ and ‘blacklist’ terms have been removed from Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names and internal code, but will be replaced in upcoming Campaign releases with ‘blocklist’ and ‘allowlist.’
+
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
 
 ## Accessing [!UICONTROL Control Panel]
 
@@ -49,9 +53,9 @@ The following video explains how to add an administrator to a Campaign instance
 
 * **Managing SFTP Servers**
 
-    *Learn how to monitor the server capacity, whitelist IP addresses, and add SSH keys*
+    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys*
 
-  * [Monitoring server capacity, whitelisting IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+  * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
   * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
   * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
