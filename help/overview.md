@@ -10,18 +10,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Control Panel Generating and installing GPG keys](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
-    <br>
+* **[Control Panel - Generating and installing GPG keys](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+  
     *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
 
 * **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
-  <br>
+  
     *Learn how to configure and run a workflow with the External API activity.*
 
 * **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
-  <br>
-    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
+    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
 ## Staff Picks
 
