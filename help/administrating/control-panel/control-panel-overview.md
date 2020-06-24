@@ -71,9 +71,13 @@ The following video explains how to add an administrator to a Campaign instance
 
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
-* **[Generating and installing GPG keys](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG Key management - Encrypting data](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
 
-    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+    *Learn how to generate a public/private GPG key pair and install the public key into Control Panel to be able to encrypt data before sending it from your instance.*
+
+* **[GPG Key management - Decrypting data](/help/administrating/control-panel/gpg-key-management-decrypting-data.md)**
+  
+    *Learn how to create a public key and import and install it on a Campaign instance for the decryption of inbound data.*
 
 * **[Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)**
 
