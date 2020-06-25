@@ -20,11 +20,13 @@ This also includes a new **Test** Activity where you can run tests on this funct
 The following video explains the configuration steps required to:
 
 1. **Receive external parameters** from an external system, like a content management system (CRM):
+
    * Declare the parameters in the External Signal Activity
    * Configure the API call to define the parameters and trigger the workflow External Signal Activity. For more information on how to configure an API call please see [Triggering a Signal Activity](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
   
 1. **Customize a workflow with external parameters** (events variables):
-Once the workflow triggered, the parameters are ingested into the workflow's events variables and can be used within the workflow. See the [documentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) for all activities that can be customized with event variables:
+
+   Once the workflow triggered, the parameters are ingested into the workflow's events variables and can be used within the workflow. See the [documentation](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) for all activities that can be customized with event variables:
 
    * Configure the Test Activity (new in 19.2)
    * Configure Read Audience and Email Delivery Activity
