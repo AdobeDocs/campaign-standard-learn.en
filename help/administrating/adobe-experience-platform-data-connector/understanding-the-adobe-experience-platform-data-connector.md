@@ -14,6 +14,7 @@ team: TM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice.
+>
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 ## Overview
@@ -31,6 +32,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] is intended for data engin
 >[!NOTE]
 >
 >The out-of-the-box transfer of [!UICONTROL subscription events] is not supported. To transfer [!UICONTROL subscription events], you can create corresponding XDM and dataset on Adobe Experience Platform, then configure a custom data mapping for these data.
+>
 >Existing [!UICONTROL experience events] cannot be ingested into Adobe Experience Platform, but ongoing generated [!UICONTROL experience events] will be streamed to Adobe Experience Platform.
 
 ## Key steps to perform a data mapping
