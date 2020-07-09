@@ -14,6 +14,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 
 + [Overview](/help/overview.md)
 + Getting started {#getting-started}
+  + [Overview](/help/getting-started/getting-started-overview.md)
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Functional overview](/help/getting-started/functional-overview.md)
   + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)
@@ -76,7 +77,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Preview your email and anti spam analysis](/help/designing-content/email-designer/preview-your-email.md)
     + [Working with existing content](/help/designing-content/email-designer/working-with-existing-content.md)
     + [Creating content using Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
-    + [Edit images using Creative Cloud SDK](/help/designing-content/email-designer/adobe-creative-cloud-sdk-integration.md)
   + [Configure product listings in transactional emails](/help/designing-content/product-listings-in-transactional-email.md)
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)

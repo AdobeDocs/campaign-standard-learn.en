@@ -15,8 +15,12 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data.*
 
 * **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
-
+  
     *Learn how to configure and run a workflow with the External API activity.*
+
+* **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
+
+    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
 
 ## Staff Picks
 
