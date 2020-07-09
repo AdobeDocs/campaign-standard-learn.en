@@ -23,7 +23,7 @@ We now need to create and send a [!UICONTROL Push Notification] using Adobe Camp
 
 If everything goes well, you should see notification in your Android App running in the emulator
 
-## Additional Resources
+## Additional resources
 
 * [Detailed documentation on Push Notifications](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Creating a Push Notification(Video)](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

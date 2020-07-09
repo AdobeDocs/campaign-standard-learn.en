@@ -35,6 +35,6 @@ The following video explains the configuration steps required to:
 
 >[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [External Signal (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)

@@ -30,7 +30,7 @@ This video demonstrates the use of the [!UICONTROL External API activity].
 >
 >Please note that the activity is meant for fetching of campaign-wide data (latest set of offers, latest scores etc.), not for retrieving specific information for each profile as that can result in large amounts of data being transferred. If the use case requires this, the recommendation is to use the Transfer File activity.
 
-## Additional Resources
+## Additional resources
 
 * [External API (Documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
   

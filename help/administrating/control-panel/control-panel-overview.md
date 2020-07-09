@@ -53,7 +53,7 @@ The following video explains how to add an administrator to a Campaign instance
 
 * **Managing SFTP Servers**
 
-    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys*
+    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys:*
 
   * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
   * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
@@ -71,15 +71,19 @@ The following video explains how to add an administrator to a Campaign instance
 
     *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
 
-* **[Generating and installing GPG keys](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG key management**
 
-    *Learn how to generate and install a new public/private GPG key pair on a specified instance and how to import and install a public key to your Adobe Campaign instance.*
+    *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data:*
+
+  * [Generating and installing GPG keys for data encryption](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+  * [Using a GPG key to encrypt data](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+  * [Decrypting data](./gpg-key-management/decrypting-data.md)
 
 * **[Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)**
 
     *Understand how to troubleshoot the Control Panel*
 
-## Additional Resources
+## Additional resources
 
 * [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
   
