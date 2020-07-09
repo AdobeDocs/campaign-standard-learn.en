@@ -15,7 +15,7 @@ This video explains which Adobe Campaign Standard features can support your mobi
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [In-App Messaging with Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
 * [Creating a push not](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

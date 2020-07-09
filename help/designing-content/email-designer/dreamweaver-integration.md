@@ -25,7 +25,7 @@ The video explains what is required to enable the Dreamweaver integration and ho
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
 *How to use the Dreamweaver integration in Adobe Campaign (02:37 min)*
 
-## Additional Resources
+## Additional resources
 
 * [Troubleshooting the Adobe Campaign Dreamweaver installation](https://helpx.adobe.com/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
 * [Adobe Dreamweaver Documentation](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)

@@ -21,7 +21,7 @@ The videos below demonstrates the required steps to configure a mobile app in Ex
 >
 >See [Configuring your application in [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) for the detailed documentation and the code templates used in the video.
 
-## Additional Resources
+## Additional resources
 
 * [Set up a mobile property (Adobe Launch documentation)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
 * [Configuring a mobile application using Adobe Experience Platform SDKs (documentation)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)

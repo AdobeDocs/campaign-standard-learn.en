@@ -17,6 +17,6 @@ The video below describes how you can add [!DNL Google] TXT site verification re
 
 >[!VIDEO](https://video.tv.adobe.com/v/32369?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)

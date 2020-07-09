@@ -10,7 +10,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[GPG Key management](administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[GPG key management](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
     *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data.*
 
@@ -64,6 +64,6 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 </tr>
 </table>
 
-## Additional Resources
+## Additional resources
 
 * [Documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
