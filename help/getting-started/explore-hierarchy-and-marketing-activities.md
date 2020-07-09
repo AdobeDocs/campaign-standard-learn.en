@@ -15,6 +15,6 @@ team: WWFRE
 
 >[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Programs and campaigns](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.html)

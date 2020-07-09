@@ -104,10 +104,10 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Adding SSL certificates](/help/administrating/control-panel/adding-ssl-certificates.md)
     + [Managing SSL certificates](/help/administrating/control-panel/managing-ssl-certificates.md)
     + [Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)
-    + [GPG key management {#gpg-key-management}
+    + GPG key management {#gpg-key-management}
       + [GPG key management - overview](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
       + [Generating and installing GPG keys for data encryption](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Using a GPG key to encrypt data](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data .md)
+      + [Using a GPG key to encrypt data](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Decrypting data](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
     + [Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)
   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}

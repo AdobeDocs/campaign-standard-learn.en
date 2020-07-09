@@ -15,6 +15,6 @@ Adobe Campaign allows you to build landing pages which are online forms that can
 
 >[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Creating a landing page (documentation)](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_CreateLandingPage.html)

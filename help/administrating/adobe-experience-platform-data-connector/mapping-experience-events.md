@@ -20,7 +20,7 @@ Learn how to map [!UICONTROL Experience Events] in Adobe Experience Platform (AE
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
-## Additional Resources
+## Additional resources
 
 * [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping activation](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
