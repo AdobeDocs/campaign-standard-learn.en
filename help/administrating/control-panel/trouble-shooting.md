@@ -9,7 +9,7 @@ activity: use
 team: PM
 ---
 
-# Trouble shooting the [!UICONTROL Control Panel}
+# Trouble shooting the [!UICONTROL Control Panel]
 
 Learn how to troubleshoot issues when using the Control Panel.
 
