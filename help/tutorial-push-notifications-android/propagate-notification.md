@@ -20,7 +20,7 @@ This is how you tell the user that something has happened in the background:
 * Name this class *[!DNL MyService]* and make sure it extends [!DNL FirebaseMessagingService]
 * Create *[!DNL sendNotification]* method in this class. In this method you need to set the notification's content and channel using a [!DNL NotificationCompat.Builder] object. To make the notification appear, call [!DNL NotificationManagerCompat.notify()], passing it a unique ID for the notification and the result of [!DNL NotificationCompat.Builder.build()].
 
-```java {.line-numbers}
+```java 
 package com.example.pushmessaging;
 import android.app.NotificationChannel;
 import android.app.NotificationManager;
@@ -86,7 +86,7 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 
 Add the service that was created to your [!DNL AndroidManifest.xml]. The final [!DNL AndroidManifest.xml] should look like below:
 
-```xml {.line-numbers}
+```xml 
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.pushmessaging">

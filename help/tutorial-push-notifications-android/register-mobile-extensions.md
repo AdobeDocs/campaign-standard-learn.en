@@ -17,7 +17,7 @@ Open your project in [!DNL Android] studio. Delete the entire code in MainApp **
 
 Paste the following code into MainApp
 
-```java{.line-numbers}
+```java
 import [!DNL android].app.Application;
 import android.util.Log;
 

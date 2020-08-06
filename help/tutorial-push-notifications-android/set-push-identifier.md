@@ -16,7 +16,7 @@ Open your project in [!DNL Android ]studio. Delete the entire code in [!DNL Main
 
 Paste the following code into [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
