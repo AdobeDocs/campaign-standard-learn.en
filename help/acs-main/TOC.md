@@ -100,7 +100,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Connecting to a SFTP server](/help/administrating/control-panel/connect-to-sftp-server.md)
     + [Delegating subdomains](/help/administrating/control-panel/subdomain-delegation.md)
     + [Adding SSL certificates](/help/administrating/control-panel/adding-ssl-certificates.md)
-    + [Managing SSL certificates](/help/administrating/control-panel/managing-ssl-certificates.md)
     + [Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)
     + GPG key management {#gpg-key-management}
       + [GPG key management - overview](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
