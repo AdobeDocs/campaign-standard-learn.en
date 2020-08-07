@@ -50,8 +50,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)
-      + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
       + [Create a Push Notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -80,7 +79,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Configure product listings in transactional emails](/help/designing-content/product-listings-in-transactional-email.md)
 + Managing processes and data {#managing-processes-and-data}
   + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
-  + [Importing profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
   + Execution Activities {#execution-activities}
     + [External Signal Activity](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Data Management Activities {#data-management-activities}
@@ -102,7 +100,6 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Connecting to a SFTP server](/help/administrating/control-panel/connect-to-sftp-server.md)
     + [Delegating subdomains](/help/administrating/control-panel/subdomain-delegation.md)
     + [Adding SSL certificates](/help/administrating/control-panel/adding-ssl-certificates.md)
-    + [Managing SSL certificates](/help/administrating/control-panel/managing-ssl-certificates.md)
     + [Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)
     + GPG key management {#gpg-key-management}
       + [GPG key management - overview](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
