@@ -22,6 +22,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Manage campaigns](/help/getting-started/managing-campaigns.md)
   + [Understand profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
+  + [Create and email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
   + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
   + [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
