@@ -72,6 +72,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Designing and personalizing content {#designing-content}
   + Email Designer{#email-designer}
     + [Overview](/help/designing-content/email-designer/email-designer-overview.md)
+    + [Getting started with the Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
     + [Introduction to email content templates](/help/designing-content/email-designer/email-content-templates.md)
     + [Configure the mobile view](/help/designing-content/email-designer/configure-the-mobile-view.md)
     + [Preview your email and anti spam analysis](/help/designing-content/email-designer/preview-your-email.md)
