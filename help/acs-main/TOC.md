@@ -1,6 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard Tutorials
+breadcrumb-title: Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
