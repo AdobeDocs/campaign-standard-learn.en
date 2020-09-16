@@ -14,7 +14,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
     *Learn how to create a [!UICONTROL control group] when defining the target of your delivery.*
 
-* **[[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
+* **[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
   
     *Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.*
 
