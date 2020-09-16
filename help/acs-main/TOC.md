@@ -51,13 +51,12 @@ type: Tutorial
     + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-    + AI powered emails {#journey-AI}
+    + AI powered emails {#journey-ai}
       + [Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
       + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)
-      + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + Push Notifications {#push}
       + [Create a Push Notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
