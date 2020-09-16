@@ -1,6 +1,7 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard Tutorials
+breadcrumb-title: Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -8,6 +9,7 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 ---
 
 # Adobe Campaign Standard Tutorials {#tutorials}
@@ -22,6 +24,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Manage campaigns](/help/getting-started/managing-campaigns.md)
   + [Understand profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
+  + [Create and email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
   + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
   + [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -45,6 +48,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
+    + [Adding Control Groups to a delivery](/help/communication-channels/email/control-groups.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
   + Mobile {#mobile}
@@ -71,6 +75,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Designing and personalizing content {#designing-content}
   + Email Designer{#email-designer}
     + [Overview](/help/designing-content/email-designer/email-designer-overview.md)
+    + [Getting started with the Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
     + [Introduction to email content templates](/help/designing-content/email-designer/email-content-templates.md)
     + [Configure the mobile view](/help/designing-content/email-designer/configure-the-mobile-view.md)
     + [Preview your email and anti spam analysis](/help/designing-content/email-designer/preview-your-email.md)

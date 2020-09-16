@@ -33,7 +33,7 @@ The administrator needs to add the user to the [!UICONTROL product profile] *[!D
 ### Symptom: An Instance is not listed in the [!UICONTROL Control Panel]
 
 **Cause:**
-Most likely user needs to be added as a *[!UICONTROL user]* Product Profile `!DNL Campaign-xxx-Administrators/Admin` for the instance that is missing
+Most likely user needs to be added as a *[!UICONTROL user]* Product Profile `Campaign-xxx-Administrators/Admin` for the instance that is missing
 
 **What to do:**
 The administrator needs to add the user to the Product Profile `Campaign-xxx-Admins` for each instance that they would like to manage. If the user is an admin of all instances they still might need to add themselves as *[!UICONTROL user]*.

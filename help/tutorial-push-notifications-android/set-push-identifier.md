@@ -97,6 +97,6 @@ Navigate **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Open th
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
->[NOTE]
+>[!NOTE]
 >
 >If you do not see registration token in the [!UICONTROL Mobile Application Subscribers] tab STOP here before proceeding any further.
