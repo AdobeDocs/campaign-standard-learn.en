@@ -51,7 +51,7 @@ type: Tutorial
     + [Adding Control Groups to a delivery](/help/communication-channels/email/control-groups.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-    + AI powered emails {#journey-AI}
+    + AI powered emails {#journey-ai}
       + [Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
       + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
   + Mobile {#mobile}
