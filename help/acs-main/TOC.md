@@ -44,13 +44,16 @@ type: Tutorial
   + Email {#email}
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
     + [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-    + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-    + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
-    + [Adding Control Groups to a delivery](/help/communication-channels/email/control-groups.md)
+    + [Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)
+    + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
+    + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+    + AI powered emails {#journey-AI}
+      + [Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+      + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)

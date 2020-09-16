@@ -10,17 +10,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Adding Control Groups to a delivery](/help/communication-channels/email/control-groups.md)**
+* **[Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)**
 
-    *Learn how to create a control group when defining the target of your delivery.*
+    *Learn how to create a [!UICONTROL control group] when defining the target of your delivery.*
 
-* **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
   
-    *Learn how to configure and run a workflow with the External API activity.*
+    *Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.*
 
-* **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
+* **[Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
+    *Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.*
 
 ## Staff Picks
 
