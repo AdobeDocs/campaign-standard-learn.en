@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard Tutorials
+user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
 breadcrumb-title: Campaign Standard Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
