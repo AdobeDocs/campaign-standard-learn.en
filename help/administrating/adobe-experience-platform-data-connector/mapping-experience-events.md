@@ -14,6 +14,7 @@ team: TM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice.
+>
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 Learn how to map [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).

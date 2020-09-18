@@ -14,6 +14,7 @@ team: TM
 >[!NOTE]
 >
 >This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
+>
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
 This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
