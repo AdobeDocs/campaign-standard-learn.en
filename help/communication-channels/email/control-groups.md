@@ -4,7 +4,7 @@ description: Learn how to define a control group for your delivery and how to ex
 feature: control groups  
 topics: 
 kt: 5060
-thumbnail: 40467.jpg
+thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
@@ -18,4 +18,4 @@ Working with [!UICONTROL control groups] allows you measure the impact your [!UI
 
 Learn how to define a [!UICONTROL control group] for your [!UICONTROL delivery] and how to extract the profiles assigned to the [!UICONTROL control group] after the [!UICONTROL delivery] has been sent.
 
->[!VIDEO](https://video.tv.adobe.com/v/40467?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
