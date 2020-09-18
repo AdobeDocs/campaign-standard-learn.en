@@ -10,9 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Adding Control Groups to a delivery](/help/communication-channels/email/control-groups.md)**
+* **[Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)**
 
-    *Learn how to create a control group when defining the target of your delivery.*
+    *Learn how to create a [!UICONTROL control group] when defining the target of your delivery.*
 
 * **[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
   

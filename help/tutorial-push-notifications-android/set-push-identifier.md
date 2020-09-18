@@ -16,6 +16,10 @@ Open your project in [!DNL Android ]studio. Delete the entire code in [!DNL Main
 
 Paste the following code into [!DNL MainActivity]:
 
+<!--
+Removed `{.line-numbers}` below
+-->
+
 ```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;

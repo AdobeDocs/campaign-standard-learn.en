@@ -18,6 +18,7 @@ The videos below demonstrates the required steps to configure a mobile app in Ex
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
+>
 >See [Configuring your application in [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) for the detailed documentation and the code templates used in the video.
 
 ## Additional resources
