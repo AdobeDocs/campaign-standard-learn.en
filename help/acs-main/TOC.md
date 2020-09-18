@@ -46,7 +46,7 @@ type: Tutorial
     + [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
-    + [Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)
+    + [Adding a control group to a delivery](/help/communication-channels/email/control-groups.md)
     + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
     + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
