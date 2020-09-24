@@ -1,13 +1,15 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
+user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
+breadcrumb-title: Campaign Standard Tutorials
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+type: Tutorial
 ---
 
 # Adobe Campaign Standard Tutorials {#tutorials}
@@ -42,12 +44,16 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
   + Email {#email}
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
     + [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-    + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-    + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
+    + [Adding a control group to a delivery](/help/communication-channels/email/control-groups.md)
+    + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
+    + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+    + AI powered emails {#journey-ai}
+      + [Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+      + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
   + Mobile {#mobile}
     + SMS{#sms}
       + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)

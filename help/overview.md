@@ -10,17 +10,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[GPG key management](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)**
 
-    *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data.*
+    *Learn how to create a [!UICONTROL control group] when defining the target of your delivery.*
 
-* **[External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
   
-    *Learn how to configure and run a workflow with the External API activity.*
+    *Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.*
 
-* **[Profile Substitution - Testing email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)**
+* **[Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
 
-    *Learn how to send a proof for review with the exact representation of the message that the profile will receive.*
+    *Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.*
 
 ## Staff Picks
 
@@ -40,16 +40,16 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (videos)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Control Panel (videos)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (videos)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Control Panel (videos)</strong>
     </a>
     </div>
     <p>
-    <em>The Email Designer enables the quick and effortless visual creation of individually personalized emails.</em>
+    <em> Increase your efficiency as administrator by managing settings and tracking usages of your instances with the Control Panel .</em>
     <p>
   </td>
   <td>

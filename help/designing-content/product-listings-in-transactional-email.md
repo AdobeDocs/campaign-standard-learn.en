@@ -15,7 +15,7 @@ You can configure a re-targeting email that has a list of products, that are unk
 
 The following videos explain the steps that are required to configure [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
->[NOTE]
+>[!NOTE]
 >
 >This feature is currently referred to as Loop within the videos.
 
