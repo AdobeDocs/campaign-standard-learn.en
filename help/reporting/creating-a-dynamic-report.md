@@ -1,6 +1,6 @@
 ---
 title: Creating a Dynamic Report
-description: Adobe Campaign's Dynamic Reports are designed to be a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons. This video explains how to create a report.
+description: Learn how to create a report.
 feature: Dynamic Reporting
 kt: 2037
 doc-type: feature video
@@ -10,7 +10,9 @@ team: DOC
 
 # Creating a [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign's [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons. This video explains how to create a report.
+Adobe Campaign's [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons.
+
+Learn how to create a report.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12)
 
