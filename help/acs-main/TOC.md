@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard Tutorials
+user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
 breadcrumb-title: Campaign Standard Tutorials
-user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Tutorials
@@ -24,13 +24,13 @@ type: Tutorial
   + [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Manage campaigns](/help/getting-started/managing-campaigns.md)
   + [Understand profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-  + [Create and email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+  + [Create an email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
   + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
   + [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Grow with Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profiles and audiences {#profiles-and-audiences}
-  + [Create profiles and audiences - Overview](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+  + [Creating profiles and audiences - Overview](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
   + [Create a profile](/help/profiles-and-audiences/creating-a-profile.md)
   + [Create a test profile](/help/profiles-and-audiences/test-profiles.md)
   + [Importing profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
@@ -48,7 +48,7 @@ type: Tutorial
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
     + [Adding a control group to a delivery](/help/communication-channels/email/control-groups.md)
     + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-    + [Converting an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
+    + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
     + AI powered emails {#journey-ai}
