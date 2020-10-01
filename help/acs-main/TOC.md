@@ -131,4 +131,4 @@ type: Tutorial
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Executing privacy requests](/help/privacy/execute-privacy-requests.md)
 + [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-  
++ [Control Panel](https://docs-stg.corp.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
