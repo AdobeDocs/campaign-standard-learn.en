@@ -26,7 +26,7 @@ The most common form of **website sign-up** is “single opt-in.” This should 
 * Unconfirmed email addresses can have typos or be malformed, incorrect, or maliciously used. Typos and malformed addresses cause high bounce rates, which can and do provoke blocks issued by ISPs or IP reputation loss.
 * Malicious submission of known spam traps (sometimes called “list poisoning”) can cause huge problems with delivery and reputation if the owner of that trap takes action. It’s impossible to know if the recipient truly wants to be added to a marketing list without a confirmation. This makes it equally impossible to set the recipient's expectations and can lead to increased spam complaints—and sometimes blacklisting if the collected email happens to be a spam-trap.
   
-For guidance on how to minimize the issues presented in both physical store and single opt-in, go to the [Data quality and hygiene section](#data-quality-and-hygiene) in this guide for the details and benefits of double opt-in.
+For guidance on how to minimize the issues presented in both physical store and single opt-in, go to the Data quality and hygiene section in this guide for the details and benefits of double opt-in.
 
 Subscribers often use throw-away addresses, expired addresses, or addresses that aren’t theirs in order to get what they want from a website but also avoid getting added to marketing lists. When this happens, marketers’ lists can result in having a high number of hard bounces, high spam complaint rates, and subscribers who don’t click, open, or positively engage with emails. This can be seen as a red flag for mailbox providers and ISPs.
 
