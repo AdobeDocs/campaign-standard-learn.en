@@ -1,6 +1,6 @@
 ---
 title: Control Panel
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and allow list IP addresses.
+description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -13,9 +13,9 @@ team: PM
 
 >[!NOTE]
 >
->The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allow list]’ and ‘[!UICONTROL block list]’in the Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
+>The terms ‘[!UICONTROL whitelist]’ and ‘[!UICONTROL blacklist]’ have been replaced by ‘[!UICONTROL allowlist]’ and ‘[!UICONTROL denylist]’in the Adobe Campaign documentation. Some occurrences of these terms may still exist in the product UI, option names, internal code, as well as the tutorial videos. They will be replaced in upcoming Control Panel releases.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or [!UICONTROL allow list] IP addresses.
+The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
 
 ## Accessing [!UICONTROL Control Panel]
 
