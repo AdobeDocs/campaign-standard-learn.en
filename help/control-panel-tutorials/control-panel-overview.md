@@ -47,39 +47,6 @@ Administrator rights are required to access to the [!UICONTROL Control Panel].
 The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
-
-## Control Panel Tutorials
-
-* **Managing SFTP Servers**
-
-    *Learn how to monitor the server capacity, allow list IP addresses, and add SSH keys:*
-
-  * [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-  * [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
-  * [Connecting to a SFTP Server](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Delegating Subdomains](/help/administrating/control-panel/subdomain-delegation.md)**
-
-    *Learn how to fully delegate a subdomain to Adobe Campaign* 
-* **[Adding SSL Certificates](/help/administrating/control-panel/adding-ssl-certificates.md)**
-
-    *Learn how you can add a SSL certificates to secure your subdomains.*
-
-* **[Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)**
-
-    *Learn how to add Google TXT site verification record to all your subdomains used to send emails to GMAIL addresses through the Campaign Control Panel.*
-
-* **GPG key management**
-
-    *Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data:*
-
-  * [Generating and installing GPG keys for data encryption](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-  * [Using a GPG key to encrypt data](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-  * [Decrypting data](./gpg-key-management/decrypting-data.md)
-
-* **[Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)**
-
-    *Understand how to troubleshoot the Control Panel*
 
 ## Additional resources
 
