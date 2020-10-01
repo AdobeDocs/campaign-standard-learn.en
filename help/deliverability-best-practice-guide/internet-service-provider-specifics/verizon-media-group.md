@@ -9,7 +9,7 @@ activity: understand
 team: TM
 ---
 
-# [!DNL Verizon Media Group](Yahoo, AOL, Verizon, etc.)
+# [!DNL Verizon Media Group] (Yahoo, AOL, Verizon, etc.)
 
 [!DNL Verizon Media Group] is generally one of the top three domains for most B2C lists. They behave somewhat uniquely, as they’ll generally throttle or bulk mail if reputation issues arise.
 
