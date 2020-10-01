@@ -27,5 +27,3 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 The following video explains how to generate a SSH key using a terminal.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
-
-*How to create a SSH key (2:16 min)*

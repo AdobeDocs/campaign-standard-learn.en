@@ -45,4 +45,4 @@ The logs only include the jobs executed by the administrators of your Org. If th
 
 ## Additional resources
 
-* [Generating a SSH Key](/help/administrating/control-panel/generate-ssh-key.md)
+* [Generating a SSH Key](./generate-ssh-key.md)
