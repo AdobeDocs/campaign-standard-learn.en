@@ -20,6 +20,6 @@ index: no
     + GPG key management {#gpg-key-management}
       + [GPG key management - overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generating and installing GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Using a GPG key to encrypt data](/help/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Using a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Decrypting data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Troubleshooting the Control Panel](/help/control-panel-tutorials/trouble-shooting.md)
