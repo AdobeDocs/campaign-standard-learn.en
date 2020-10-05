@@ -14,7 +14,7 @@ team: TM
 In this part you will create [!DNL Android] App to receive [!UICONTROL Push notifications] sent from Adobe Campaign Standard. To receive the push notifications, the app needs to be registered with Google's [!DNL Firebase Cloud Service].
 
 1. Login to your [!DNL Firebase] account.
-    
+   
     [!DNL Firebase] is Google's mobile platform that helps you quickly develop high-quality apps. If you do not have a [!DNL Firebase] account, please create one [from here](https://firebase.google.com).
 
 2. Launch [!DNL Android Studio]
@@ -35,7 +35,7 @@ In this part you will create [!DNL Android] App to receive [!UICONTROL Push noti
     ![android-project-structure](assets/android-project-structure.PNG)
 
 8. Click **[!UICONTROL Tools]** > **[!UICONTROL Firebase].** (this adds the project to [!DNL Firebase])
-9.  Click **[!UICONTROL Set up Firebase Cloud Messaging].**
+9. Click **[!UICONTROL Set up Firebase Cloud Messaging].**
 
     ![setup firebase](assets/android-project-firebase-messaging.PNG)
 
