@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
-index: no
+index: yes
 ---
 
 # Adobe Campaign Control Panel Tutorials {#control-panel}
