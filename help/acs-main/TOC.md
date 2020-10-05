@@ -18,7 +18,6 @@ type: Tutorial
 + Getting started {#getting-started}
   + [Overview](/help/getting-started/getting-started-overview.md)
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-  + [Functional overview](/help/getting-started/functional-overview.md)
   + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/getting-started/configure-a-list.md)
   + [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
@@ -130,3 +129,5 @@ type: Tutorial
   + [Modifying custom resources for privacy requests](/help/privacy/custom-resources-for-privacy-requests.md)
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Executing privacy requests](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Control Panel](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
