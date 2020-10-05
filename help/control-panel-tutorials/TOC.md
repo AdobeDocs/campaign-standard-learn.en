@@ -16,6 +16,7 @@ index: no
 # Adobe Campaign Control Panel Tutorials {#control-panel}
 
 + [Control Panel Overview](/help/control-panel-tutorials/control-panel-overview.md)
++ [Getting started with the Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP management {#sftp-management}
     + [Connecting to a SFTP Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
     + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
