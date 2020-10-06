@@ -39,6 +39,7 @@ Before you get started, complete the following prerequisites:
 You need to know your [!DNL IMS org ID]. The following video describes where you can lookup your instance's [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Administrator Rights
@@ -47,6 +48,7 @@ Administrator rights are required to access to the [!UICONTROL Control Panel].
 The following video explains how to add an administrator to a Campaign instance
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *How to add an administrator to the product profile "[!UICONTROL Administrators]" to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ## Control Panel Tutorials
