@@ -40,6 +40,7 @@ Before you get started, complete the following prerequisites:
 You need to know your [!DNL IMS org ID]. The following video describes where you can lookup your instance's [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Check [!DNL IMS Org ID] (00:26 min)*
 
 ### Administrator Rights
