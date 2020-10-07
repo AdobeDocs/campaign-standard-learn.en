@@ -18,9 +18,9 @@ index: yes
 + [Control Panel Overview](/help/control-panel-tutorials/control-panel-overview.md)
 + [Getting started with the Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP management {#sftp-management}
+    + [Generating a SSH Key](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
     + [Connecting to a SFTP Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-    + [Generating a SSH Key](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)  
+    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)  
 + Subdomains and certificates {#subdomains-and-certificates}
     + [Delegating Subdomains](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
     + [Adding SSL Certificates](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
