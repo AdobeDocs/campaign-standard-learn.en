@@ -2,7 +2,8 @@
 title: Checking the status of a data ingestion job 
 description: Learn how to check the status and modify the data mapping.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
+topics:
+audience: administrator
 kt: 2831
 doc-type: feature video
 activity: use

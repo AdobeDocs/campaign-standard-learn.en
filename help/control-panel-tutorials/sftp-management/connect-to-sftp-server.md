@@ -3,6 +3,7 @@ title: Connecting to a SFTP server
 description: This video explains how to connect to your SFTP Server using a client SFTP application, using the keys you have stored in the Control Panel.
 feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video

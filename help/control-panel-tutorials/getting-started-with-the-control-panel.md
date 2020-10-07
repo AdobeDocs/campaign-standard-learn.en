@@ -3,6 +3,7 @@ title: Getting started with the Control Panel
 description: The Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
