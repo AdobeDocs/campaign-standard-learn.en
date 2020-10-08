@@ -5,6 +5,7 @@ feature: Control Panel
 topics: 
 kt: 2923
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 ---
