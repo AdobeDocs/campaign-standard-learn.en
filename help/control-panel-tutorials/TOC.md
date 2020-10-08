@@ -10,7 +10,7 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
-index: no
+index: yes
 ---
 
 # Adobe Campaign Control Panel Tutorials {#control-panel}
@@ -27,9 +27,9 @@ index: no
     + [Adding SSL Certificates](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
     + [Google TXT record management](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instance settings {#instance-settings}
-    + GPG key management {#gpg-key-management}
-      + [GPG key management - overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generating and installing GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Using a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Decrypting data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + GPG key management {#gpg-key-management}
+    + [GPG key management - overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+    + [Generating and installing GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+    + [Using a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+    + [Decrypting data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Troubleshooting the Control Panel](/help/control-panel-tutorials/trouble-shooting.md)

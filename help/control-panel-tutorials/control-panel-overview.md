@@ -3,6 +3,7 @@ title: Control Panel - Overview
 description: The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance, managing GPG keys, or subdomains and certificates.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 4696
 doc-type: feature video
 activity: use
