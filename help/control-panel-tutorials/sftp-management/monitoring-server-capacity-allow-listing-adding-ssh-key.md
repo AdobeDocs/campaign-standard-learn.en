@@ -6,6 +6,7 @@ topics:
 audience: administrator
 kt: 3266
 doc-type: feature video
+audience: administrator
 activity: use
 team: PM
 ---
