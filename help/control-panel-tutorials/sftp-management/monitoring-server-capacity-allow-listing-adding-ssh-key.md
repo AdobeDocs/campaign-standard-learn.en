@@ -13,7 +13,7 @@ team: PM
 
 # Monitoring server capacity
 
-The Control Panel allows you to monitor and manage your SFTP storage by instance and add [!UICONTROL allow listing]IP addresses.
+The Control Panel allows you to monitor and manage your SFTP storage by instance.
 
 ## Accessing [!UICONTROL Control Panel] Subdomain Management
 
