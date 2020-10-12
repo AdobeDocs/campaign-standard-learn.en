@@ -19,6 +19,7 @@ Some of the pertinent use cases in this category are:
 * Announcements for new feature releases
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
+
 *Create a Broadcast In-App message using a [!UICONTROL SDKV5 Mobile property]*
 
 ## Additional resources
