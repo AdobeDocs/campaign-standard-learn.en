@@ -1,6 +1,6 @@
 ---
 title: Monitoring server capacity
-description: The Control Panel allows you to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
+description: Learn how to monitor the storage capacity of your SFTP servers.
 feature: SFTP Management
 topics: Control Panel
 audience: administrator
@@ -26,25 +26,6 @@ To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
 ## Monitor server capacity, [!UICONTROL allow list] IP addresses,and add SSH keys
 
-This video explains how to access the [!UICONTROL Adobe Campaign Control Panel] and where you can  monitor the storage of SFTP servers.
+Learn how to monitor the storage capacity of your SFTP servers.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Interface descriptions
-
-**Instances:** Only the instances for which you have administrator rights are listed.
-
-**Job Logs:** Only jobs that were executed in the [!UICONTROL Control Panel] are listed. The jobs that were executed outside of [!UICONTROL Control Panel] are not included (for example workflows being executed, etc.)
-
-The logs only include the jobs executed by the administrators of your Org. If there are several Orgs, you won't see the logs of other Orgs in the Job Logs
-
-**Storage Tab:** The header shows the top three most utilized servers, if you have more than 3 servers you can see the rest in the [!UICONTROL Storage] tab.
-
-**Warning message:**
-
-* Orange - server is 80% utilized
-* Red - server is 90% utilized
-
-## Additional resources
-
-* [Generating a SSH Key](./generate-ssh-key.md)
