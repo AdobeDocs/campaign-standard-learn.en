@@ -1,14 +1,14 @@
 ---
 title: Monitoring server capacity
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
-feature: Control Panel
-topics: 
+feature: SFTP Management
+topics: Control Panel
 audience: administrator
-kt: 3266
+kt: 6239
+thumbnail: 27270.jpg
 doc-type: feature video
-audience: administrator
 activity: use
-team: PM
+team: TM
 ---
 
 # Monitoring server capacity
