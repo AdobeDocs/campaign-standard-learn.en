@@ -46,7 +46,7 @@ The administrator needs to add the user to the Product Profile `Campaign-xxx-Adm
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*How to add an administrator to the [!UICONTROL product profile] *[!DNL administrators]* to be able to use [!UICONTROL Control Panel] (01:03 min)*
+*How to add an administrator to the [!UICONTROL product profile] [!DNL administrators] to be able to use [!UICONTROL Control Panel] (01:03 min)*
 
 ### Helpful Documentation
 
