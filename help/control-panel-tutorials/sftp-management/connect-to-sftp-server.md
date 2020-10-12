@@ -7,7 +7,6 @@ audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
-audience: administrator
 activity: use
 team: PM
 ---

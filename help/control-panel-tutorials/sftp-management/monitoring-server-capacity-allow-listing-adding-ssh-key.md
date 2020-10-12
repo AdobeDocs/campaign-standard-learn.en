@@ -3,7 +3,6 @@ title: Monitoring server capacity, allow listing IP addresses, and adding SSH ke
 description: The Control Panel allows you to monitor and manage your SFTP storage by instance and add IP addresses to allow lists.
 feature: Control Panel
 topics: 
-audience: administrator
 kt: 3266
 doc-type: feature video
 audience: administrator
