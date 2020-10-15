@@ -99,7 +99,7 @@ type: Tutorial
     + [Creating Custom Resources](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administrating {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
-  + [Control Panel] (help/control-panel-tutorials/control-panel-overview.md)
+  + [Control Panel](/help/control-panel-tutorials/control-panel-overview.md)
   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
     + [Mapping custom resources](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
