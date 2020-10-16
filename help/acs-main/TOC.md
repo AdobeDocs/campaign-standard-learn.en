@@ -99,20 +99,7 @@ type: Tutorial
     + [Creating Custom Resources](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administrating {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
-  + Control Panel {#control-panel}
-    + [Control Panel Overview](/help/administrating/control-panel/control-panel-overview.md)
-    + [Monitoring server capacity, allow listing IP addresses, and adding SSH keys](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-    + [Generating a SSH key](/help/administrating/control-panel/generate-ssh-key.md)
-    + [Connecting to a SFTP server](/help/administrating/control-panel/connect-to-sftp-server.md)
-    + [Delegating subdomains](/help/administrating/control-panel/subdomain-delegation.md)
-    + [Adding SSL certificates](/help/administrating/control-panel/adding-ssl-certificates.md)
-    + [Google TXT record management](/help/administrating/control-panel/google-txt-record-management.md)
-    + GPG key management {#gpg-key-management}
-      + [GPG key management - overview](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-      + [Generating and installing GPG keys for data encryption](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Using a GPG key to encrypt data](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Decrypting data](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-    + [Trouble Shooting](/help/administrating/control-panel/trouble-shooting.md)
+  + [Control Panel](https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
     + [Mapping custom resources](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)

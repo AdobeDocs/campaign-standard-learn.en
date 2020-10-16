@@ -40,11 +40,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
       <img alt="Control Panel (videos)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Control Panel (videos)</strong>
     </a>
     </div>

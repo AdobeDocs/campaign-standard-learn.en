@@ -61,7 +61,7 @@ Connecting to SFTP servers requires:
 * Private/public key pair that needs to be registered with Adobe Campaign
 * If connecting to the SFTP server directly you will also need SFTP client software
 
-### Helpful Documentation
+### Helpful Documentation {#helpful-docs}
 
 * [Logging into your SFTP server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
   
