@@ -15,17 +15,9 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 
 ## What's new
 
-* **[Generating and installing GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-    *Learn how to generate a public/private GPG key pair and install the public key into [!UICONTROL Control Panel] to be able to encrypt data before sending it from your instance.*
-
-* **[Using a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-  
-    *Learn how to export data using a GPG key installed on [!UICONTROL Control Panel].*
-
-* **[Decrypting data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-    *Learn how to create a public key and import and install it on a [!UICONTROL Campaign] instance for the decryption of inbound data.*
+    *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
 ## Staff Picks
 

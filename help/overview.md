@@ -10,17 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Adding control groups to a delivery](/help/communication-channels/email/control-groups.md)**
+* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-    *Learn how to create a [!UICONTROL control group] when defining the target of your delivery.*
-
-* **[Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-  
-    *Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.*
-
-* **[Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-    *Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.*
+    *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
 ## Staff Picks
 
