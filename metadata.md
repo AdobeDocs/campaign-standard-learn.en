@@ -1,6 +1,8 @@
 ---
 cloud: experience-cloud
 product: adobe campaign
+type: Tutorial
+solution: Campaign, Campaign Standard
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: yes

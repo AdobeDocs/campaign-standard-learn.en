@@ -9,7 +9,6 @@ tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Documentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
-type: Tutorial
 index: yes
 ---
 
