@@ -17,13 +17,13 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 + Getting started {#getting-started}
   + [Overview](/help/getting-started/getting-started-overview.md)
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-  + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)
+  + [Getting started with the UI](/help/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/getting-started/configure-a-list.md)
   + [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
   + [Manage campaigns](/help/getting-started/managing-campaigns.md)
   + [Understand profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
   + [Create an email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-  + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
+  + [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
   + [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Grow with Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -83,7 +83,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
     + [Creating content using Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
   + [Configure product listings in transactional emails](/help/designing-content/product-listings-in-transactional-email.md)
 + Managing processes and data {#managing-processes-and-data}
-  + [Create a workflow](/help/managing-processes-and-data/create-workflow.md)
+  + [Creating a workflow](/help/managing-processes-and-data/creating-a-workflow.md)
   + Execution Activities {#execution-activities}
     + [External Signal Activity](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Data Management Activities {#data-management-activities}
