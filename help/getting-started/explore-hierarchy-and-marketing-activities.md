@@ -2,8 +2,9 @@
 title: Explore Hierarchy and Marketing Activities
 description: This video explains the hierarchy of programs and campaigns in Adobe Campaign Standard (ACS), how to create a marketing program, and how to create a marketing campaign within a program.
 feature: managing campaigns
-topics: 
+topics: campaigns
 kt: 3892
+thumbnail: 18465.jpg
 doc-type: feature video
 activity: Understand
 team: WWFRE
