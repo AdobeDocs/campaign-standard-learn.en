@@ -27,4 +27,3 @@ When setting up Adobe Campaign Standard to handle privacy requests you need to e
 ## Additional resources
 
 * [General Privacy guidelines for Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
-* [Creating Custom Resources](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)

@@ -42,7 +42,7 @@ Step 4 - [Populating custom resources with data](./populate-custom-resources-wit
 
 ## Start the tutorial
 
-[Creating a custom resource](./create-a-custom-resourc.md)
+[Creating a custom resource](./creating-a-custom-resource.md)
 
 ## Additional resources
 
