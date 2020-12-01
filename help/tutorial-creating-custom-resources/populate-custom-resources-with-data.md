@@ -12,7 +12,7 @@ team: TM
 
 # Populating custom resources with data
 
-Learn how to populate custom resources with dats from a [!DNL CSV] file using a workflow.
+Learn how to populate custom resources with data from a [!DNL CSV] file using a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 

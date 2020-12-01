@@ -35,14 +35,14 @@ For this we will enrich the [!DNL Campaign] data model by extending the out of t
 
 This tutorial will explain you step by step how to:
 
-Step 1 - [Creating a custom resource](./creating-a-custom-resource)
+Step 1 - [Creating a custom resource](./creating-a-custom-resource.md)
 Step 2 - [Configuring a screen definition](./configuring-a-screen-definition-for-a-custom-resource.md)
 Step 3 - [Linking custom resources](./linking-custom-resources.md)
 Step 4 - [Populating custom resources with data](./populate-custom-resources-with-data.md)
 
 ## Start the tutorial
 
-[Creating a custom resource](./create-a-custom-resource)
+[Creating a custom resource](./create-a-custom-resourc.md)
 
 ## Additional resources
 
