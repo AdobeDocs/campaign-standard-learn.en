@@ -4,6 +4,7 @@ description: The Broadcast an In-App message template allows you to target all u
 feature: In-App
 topics: Mobile
 kt: 2497
+thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM

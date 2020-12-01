@@ -6,6 +6,7 @@ seo-description: The In-App delivery activity is generally used to automate send
 feature: In-App
 topics: Mobile
 kt: 2500
+thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM

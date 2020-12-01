@@ -4,6 +4,7 @@ description: This video demonstrates how an existing email, SMS delivery, or a d
 feature: Multi-lingual Deliveries
 topics: Mobile
 kt: 1703
+thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM

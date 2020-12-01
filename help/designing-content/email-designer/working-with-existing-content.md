@@ -4,6 +4,7 @@ description: This video explains how to quickly retrieve your creative content f
 feature: Email Designer 
 topics: Content Creation
 kt: 6295
+thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM

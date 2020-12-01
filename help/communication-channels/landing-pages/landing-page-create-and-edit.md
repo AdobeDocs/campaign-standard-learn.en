@@ -4,6 +4,7 @@ description: Adobe Campaign comes with landing pages which are online forms that
 feature: Landing Pages
 topics: 
 kt: 1808
+thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC

@@ -4,6 +4,7 @@ description: Adobe Campaign Standard (ACS) allows you to simplify the operationa
 feature: Multi-lingual Deliveries
 topics: Mobile Channel, Email Channel
 kt: 1277
+thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM

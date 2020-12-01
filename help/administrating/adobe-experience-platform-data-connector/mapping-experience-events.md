@@ -2,8 +2,9 @@
 title: Mapping Experience Events
 description: Learn how to map Experience Events in Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
+topics: 
 kt: 2832
+thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM

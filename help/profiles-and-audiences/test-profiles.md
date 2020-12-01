@@ -4,6 +4,7 @@ description: The test profiles allow you to target additional recipients who do 
 feature: Profiles and Audiences
 topic: 
 kt: 1810
+thumbnail: 24094.jpg
 doc-type: feature video
 activity: use
 team: DOC

@@ -4,6 +4,7 @@ description: Learn how to create a push notification in Adobe Campaign Standard 
 feature: Push
 topics: Mobile 
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM

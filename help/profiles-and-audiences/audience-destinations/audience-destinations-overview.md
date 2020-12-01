@@ -4,6 +4,7 @@ description: Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaig
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
+thumbnail: 
 doc-type: feature video
 activity: using
 team: TM

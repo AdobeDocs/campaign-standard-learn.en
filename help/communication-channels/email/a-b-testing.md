@@ -4,6 +4,7 @@ description: This video explains how to configure and send an A/B test in Adobe 
 feature: A/B Testing  
 topics: 
 kt: 3907
+thumbnail: 18480.jpg
 doc-type: feature video
 activity: use
 team: TM

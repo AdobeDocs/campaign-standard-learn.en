@@ -4,6 +4,7 @@ description: You can create an email from a campaign, from the Adobe Campaign ho
 feature: Email
 topics: 
 kt: 1807
+thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC

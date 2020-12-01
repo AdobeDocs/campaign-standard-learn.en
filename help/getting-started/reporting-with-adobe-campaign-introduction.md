@@ -1,9 +1,10 @@
 ---
 title: Introduction to reporting
 description: This video gives you an overview over the reporting capabilities of Adobe Campaign Standard
-feature: Dynamic Reports
+feature: reporting
 topics: 
 kt: 3974
+thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM

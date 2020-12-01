@@ -18,5 +18,5 @@ This video gives you an overview over the Adobe Campaign Standard user interface
 
 ## Additional resources
 
-* [About the interface](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [Interface description](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
+* [About the interface](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Interface description](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)

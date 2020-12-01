@@ -4,6 +4,7 @@ description:
 feature: Audience Destinations
 topics: ACOP
 kt: 2754 
+thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM

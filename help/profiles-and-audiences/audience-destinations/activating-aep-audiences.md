@@ -4,6 +4,7 @@ description: This video explains how to activate the Data Services Query Audienc
 feature: Audience Destinations
 topics: ACOP
 kt: 2760
+thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM

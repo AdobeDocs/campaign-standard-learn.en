@@ -5,6 +5,7 @@ feature: Adobe Experience Platform Data Connector
 topics:
 audience: administrator
 kt: 2831
+thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 team: PM

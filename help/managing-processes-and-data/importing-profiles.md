@@ -4,6 +4,7 @@ description: You can collect data from a file to process it and/or to import it 
 feature: Data management Activities
 topics: 
 kt: 1818
+thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC

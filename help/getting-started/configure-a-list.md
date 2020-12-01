@@ -4,6 +4,7 @@ description: This video explains how you can change the displayed columns, the o
 feature: UI
 topics: 
 kt: 1821
+thumbnail: 25288.jpg
 doc-type: feature video
 activity: use
 team: DOC

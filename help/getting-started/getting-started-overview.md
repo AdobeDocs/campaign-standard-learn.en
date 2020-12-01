@@ -23,7 +23,7 @@ There is a set of tutorial videos available to help you get started with Adobe C
 * [Explore Hierarchy and Marketing Activities](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Manage campaigns](/help/getting-started/managing-campaigns.md)
 * [Understand profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
-* [Create an email](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Creating an email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Creating a workflow](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)

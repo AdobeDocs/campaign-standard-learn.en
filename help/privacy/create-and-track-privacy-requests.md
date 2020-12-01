@@ -4,6 +4,7 @@ description: Adobe Campaign allows you to create access and delete requests of P
 feature: GDPR, CCPA
 topic: 
 kt: 1242
+thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM

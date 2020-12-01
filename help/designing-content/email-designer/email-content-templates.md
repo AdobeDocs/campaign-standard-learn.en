@@ -4,6 +4,7 @@ description: Adobe Campaign Standard offers 18 fully customizable out of the box
 feature: Email Designer 
 topics: 
 kt: 1442
+thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM

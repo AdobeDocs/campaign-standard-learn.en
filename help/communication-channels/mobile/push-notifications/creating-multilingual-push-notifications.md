@@ -4,6 +4,7 @@ description: Learn how to create a multilingual push notification in Adobe Campa
 feature: Push
 topics: Mobile
 kt: 1375
+thumbnail: 23304.jpg
 doc-type: feature video
 activity: use
 team: TM

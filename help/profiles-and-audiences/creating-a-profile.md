@@ -4,6 +4,7 @@ description: This video explains how to create a profile and how to add it to an
 feature: Profiles and Audiences
 topic: 
 kt: 1820
+thumbnail: 25277.jpg
 doc-type: feature video
 activity: use
 team: DOC

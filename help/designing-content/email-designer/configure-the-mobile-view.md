@@ -4,6 +4,7 @@ description: This video explains how to fine-tune the responsive design of an em
 feature: Email Designer 
 topics: 
 kt: 2423
+thumbnail: 25919.jpg
 doc-type: feature video
 activity: use
 team: TM

@@ -4,6 +4,7 @@ description: Adobe Campaign allows you to create and manage newsletters and cros
 feature: Subscriptions and Services
 topics: 
 kt: 1815
+thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC

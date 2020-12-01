@@ -4,6 +4,7 @@ description: Adobe Experience Platform Data Connector helps existing customers t
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM

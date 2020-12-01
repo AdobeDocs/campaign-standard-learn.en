@@ -4,6 +4,7 @@ description: In-App Messaging  allows you to present the user with contextually 
 feature: In-App
 topics: Mobile
 kt: 2558
+thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM

@@ -4,6 +4,7 @@ description: This video explains the general functionality of the Email Designer
 feature: Email Designer 
 topics: Content Creation
 kt: 2391
+thumbnail: 25912.jpg
 doc-type: feature video
 activity: use
 team: TM

@@ -4,6 +4,7 @@ description: Reporting on Workflow Segments provides the ability to add workflow
 feature: Reporting on Workflow Segments
 topics: Reporting   
 kt: 3252
+thumbnail: 28262.jpg
 doc-type: feature video
 activity: use
 team: TM

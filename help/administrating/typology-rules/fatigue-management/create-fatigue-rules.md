@@ -4,6 +4,7 @@ description: This video shows you how to set up typology rule.
 feature: Fatigue Management
 topics: 
 kt: 3446
+thumbnail: 28450.jpg
 doc-type: feature video
 activity: setup
 team: TM

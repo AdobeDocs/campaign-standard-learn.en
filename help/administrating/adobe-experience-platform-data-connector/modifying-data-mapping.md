@@ -4,6 +4,7 @@ description: Learn how to check the status and modify the data mapping.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2830
+thumbnail: 27266
 doc-type: feature video
 activity: use
 team: TM

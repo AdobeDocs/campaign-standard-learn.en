@@ -4,6 +4,7 @@ description: The External Signal Activity is used to organize and orchestrate di
 feature: External Signal Activity
 topics: Workflows  
 kt: 2750 
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM

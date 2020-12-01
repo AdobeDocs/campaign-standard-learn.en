@@ -4,6 +4,7 @@ description: A prerequisite to be able to create privacy access and delete reque
 feature: GDPR, CCPA
 topic: 
 kt: 1460
+thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM

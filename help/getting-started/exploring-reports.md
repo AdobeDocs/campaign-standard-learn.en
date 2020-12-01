@@ -4,6 +4,7 @@ description: This video explains the different reports available out of the box 
 feature: Reporting
 topics: Getting Started
 kt: 3906
+thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE

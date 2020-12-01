@@ -4,6 +4,7 @@ description: This video explains how to preview your email and the anti-spam ana
 feature: email designer 
 topics: 
 kt: 2393
+thumbnail: 25921.jpg
 doc-type: feature video
 activity: use
 team: TM

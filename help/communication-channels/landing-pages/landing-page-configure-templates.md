@@ -4,6 +4,7 @@ Description: This video explains how to configure Landing Page templates in Adob
 feature: Landing Pages
 topics: 
 kt: 1817
+thumbnail: 25200.jpg
 doc-type: feature video
 activity: use
 team: DOC

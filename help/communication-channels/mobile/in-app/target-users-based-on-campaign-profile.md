@@ -4,6 +4,7 @@ description: This template allows you to target known mobile app users with mess
 feature: In-App
 topics: Channels
 kt: 1796
+thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM

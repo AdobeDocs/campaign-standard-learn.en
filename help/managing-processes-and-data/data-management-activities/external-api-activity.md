@@ -4,6 +4,7 @@ description: The External API activity is a Data Management activity. It allows 
 feature: External API activity
 topics:   
 kt: 2764
+thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM

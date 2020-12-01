@@ -3,6 +3,7 @@ title: Creating a Dynamic Report
 description: Learn how to create a report.
 feature: Dynamic Reporting
 kt: 2037
+thumbnail: 25264.jpg
 doc-type: feature video
 activity: use
 team: DOC

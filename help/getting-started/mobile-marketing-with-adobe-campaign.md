@@ -1,9 +1,10 @@
 ---
 title: Mobile marketing with Adobe Campaign
 description: This video explains which Adobe Campaign Standard features can support your mobile marketing strategy.
-feature: Mobile
+feature: mobile
 topics: 
 kt: 3976
+thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM

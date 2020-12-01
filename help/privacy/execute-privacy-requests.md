@@ -4,6 +4,7 @@ description: In Adobe Campaign privacy requests are executed by workflows. This 
 feature: GDPR, CCPA
 topic: 
 kt: 1525
+thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM

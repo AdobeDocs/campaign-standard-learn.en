@@ -4,6 +4,7 @@ description: Learn how to map you seed data and how to test profiles with the Ad
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2900
+thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM

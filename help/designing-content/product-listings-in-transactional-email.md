@@ -4,6 +4,7 @@ description: The videos explain the steps that are required to configure product
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
+thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM

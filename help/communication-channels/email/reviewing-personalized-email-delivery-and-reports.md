@@ -4,6 +4,7 @@ description: This video explains how to review a personalized email delivery and
 feature: Reporting
 topics: 
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE

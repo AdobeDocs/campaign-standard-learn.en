@@ -4,6 +4,7 @@ description: When setting up Adobe Campaign Standard (ACS) to handle privacy req
 feature: GDPR, CCPA
 topic: 
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM

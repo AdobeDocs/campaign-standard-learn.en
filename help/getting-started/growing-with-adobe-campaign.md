@@ -1,9 +1,10 @@
 ---
 title: Growing with Adobe Campaign
 description: This video highlights the potential next steps to true cross channel orchestration.
-feature: 
+feature: multi channel orchestration
 topics: 
 kt: 3973
+thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM

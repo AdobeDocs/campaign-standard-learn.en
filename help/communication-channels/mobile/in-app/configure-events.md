@@ -4,6 +4,7 @@ description: When configuring an In-App message in Adobe Campaign Standard (ACS)
 feature: In-App
 topics: Mobile
 kt: 2548
+thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM

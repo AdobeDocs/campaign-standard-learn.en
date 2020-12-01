@@ -4,6 +4,7 @@ description: This video explains you how to define and manage the permissions as
 feature: User Access Rights
 topics: 
 kt: 1814
+thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
 team: DOCS

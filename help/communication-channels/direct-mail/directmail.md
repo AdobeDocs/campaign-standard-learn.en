@@ -3,7 +3,8 @@ title: Create a Direct Mail
 description: Direct mail is still a critical channel for marketers around the world and they can now orchestrate these offline interactions alongside their online ones. The same engine that powers digital communications, such as email and mobile, can now personalize direct mailers as well.
 feature: direct mail 
 topics: 
-kt: 1430  
+kt: 1430
+thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
