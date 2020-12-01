@@ -23,7 +23,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Managing campaigns](/help/getting-started/managing-campaigns.md)
   + [Understanding profiles and audiences](/help/getting-started/understanding-profiles-and-audiences.md)
   + [Creating an email](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-  + [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
+  + [Creating a workflow](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
   + [Introduction to reporting](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
   + [Mobile marketing with Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
   + [Grow with Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
