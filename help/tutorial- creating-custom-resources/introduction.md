@@ -27,7 +27,7 @@ In order to be able to create custom resources, you need to have administration 
 
 ## Tutorial Overview
 
-We would like to be able to use additional information on what a customer ordered, so that it is available for marketing and re-marketing purposes. 
+We would like to be able to use additional information on what a customer ordered, so that it is available for marketing and re-marketing purposes.
 
 For this we will enrich the [!DNL Campaign] data model by extending the out of the box resources and adding our own custom tables. We will add a customer and an orders table.
 
@@ -46,4 +46,4 @@ Step 4 - [Populating custom resources with data](./populate-custom-resources-wit
 
 ## Additional resources
 
-[Custom resources (documenation)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[Custom resources (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
