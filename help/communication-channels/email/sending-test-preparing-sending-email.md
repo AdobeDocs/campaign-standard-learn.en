@@ -4,7 +4,7 @@ description: This video explains how to send a test email, prepare and then send
 feature: Email  
 topics:
 kt: 1812
-thumbnail: 24013
+thumbnail: 24013.jpg
 doc-type: feature video
 activity: use
 team: DOC
