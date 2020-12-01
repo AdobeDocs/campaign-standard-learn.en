@@ -10,7 +10,7 @@ activity: use
 team: TM
 ---
 
-## Configuring a screen definition for a custom resource
+# Configuring a screen definition for a custom resource
 
 Learn how to configure a screen definition for a custom resource.
 

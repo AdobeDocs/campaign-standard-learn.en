@@ -10,7 +10,7 @@ activity: use
 team: TM
 ---
 
-## Creating a custom resource
+# Creating a custom resource
 
 In this video we will create our first custom resource called customers.
 

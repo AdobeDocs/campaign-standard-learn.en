@@ -1,5 +1,5 @@
 ---
-title: Creating custom resources
+title: Creating custom resources - Introduction
 description: Adobe Campaign Standard provides the ability to extend resources or create brand new resources. This multipart tutorial will walk you through the steps needed to create and link custom resources.
 feature: Custom Resources
 topics: 
@@ -10,7 +10,7 @@ activity: use
 team: TM
 ---
 
-# Creating custom resources​
+# Creating custom resources​ - Introduction
 
 [!DNL Adobe Campaign] comes with a pre-defined data model, where data is defined through different resources. [!DNL Campaign] provides the ability to extend resources or create brand new resources.
 
