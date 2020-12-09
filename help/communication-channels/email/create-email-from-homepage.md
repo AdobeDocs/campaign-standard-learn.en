@@ -1,6 +1,7 @@
 ---
 title: Create an email delivery
 description: You can create an email from a campaign, from the Adobe Campaign home page, or in the marketing activity list. You can also create single-send and recurring emails from a workflow. This video explains how to create an email delivery from the homepage. 
+landing-page-description: This video explains how to create an email delivery from the homepage.
 feature: Email
 topics: 
 kt: 1807
