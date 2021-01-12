@@ -5,7 +5,7 @@ feature: Control Panel
 topics: 
 audience: administrator
 kt: 5188
-thumbnail: 33686.jpg
+thumbnail: 36386.jpg
 doc-type: feature video
 activity: use
 team: PM
