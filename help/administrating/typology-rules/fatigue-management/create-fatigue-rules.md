@@ -21,4 +21,4 @@ To create [!UICONTROL fatigue rules], you need to define a maximum number of mes
 
 ## Additional resources
 
-* [Fatigue rules (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/working-with-typology-rules/fatigue-rules.html)
+* [Fatigue rules (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/working-with-typology-rules/fatigue-rules.html)
