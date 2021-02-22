@@ -38,4 +38,4 @@ The following video explains the configuration steps required to:
 
 ## Additional resources
 
-* [External Signal (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [External Signal (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
