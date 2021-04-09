@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
-product: adobe campaign
-solution: Campaign, Campaign Standard
+product: campaign
+solution: Campaign Standard
 version: Standard
 type: Tutorial
 feature-set: Campaign
