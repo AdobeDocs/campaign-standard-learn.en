@@ -5,6 +5,8 @@ feature: Email
 topics:
 kt: 4319
 thumbnail: 31465.jpg
+role: business-practitioner
+level: beginner
 doc-type: feature video
 activity: use
 team: DOC
