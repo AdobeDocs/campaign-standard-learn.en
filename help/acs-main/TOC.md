@@ -94,6 +94,8 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Creating a Dynamic Report](/help/reporting/creating-a-dynamic-report.md)
   + [Creating a report based on custom profile attributes](/help/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Creating a report based on workflow segments](/help/reporting/report-on-workflow-segments.md)
++ Integrations
+  + [Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Administrating {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Creating Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
