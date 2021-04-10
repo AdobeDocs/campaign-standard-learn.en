@@ -10,13 +10,9 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Monitoring databases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
-
-    *Learn how to monitor the database usage of your instances.*
+* **[Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
     
-* **[Delegating subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-    *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
+    *Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.*
 
 ## Staff Picks
 
