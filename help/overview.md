@@ -14,6 +14,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
     
     *Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.*
 
+* ** [Using triggers for transactional messages](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+
+    *Learn how to configure and use triggers for transactional messaging.*
+
 ## Staff Picks
 
 <table>

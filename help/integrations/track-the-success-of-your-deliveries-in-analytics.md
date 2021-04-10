@@ -7,7 +7,6 @@ topics:  Integrations
 kt: 6526
 thumbnail: 332576.jpg
 doc-type: feature video
-activity: use
 team: TM
 ---
 
