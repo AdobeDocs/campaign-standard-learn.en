@@ -1,7 +1,6 @@
 ---
 title: Track the success of your deliveries in Adobe Analytics
 description: Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.
-product
 product: adobe analytics, campaign
 feature: Application Settings
 topics:  Integrations
