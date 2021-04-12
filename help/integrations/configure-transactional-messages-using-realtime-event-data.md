@@ -6,8 +6,8 @@ topics:  Integrations
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
-role: administrator
-level: advanced
+role: Administrator
+level: Experienced
 activity: use
 team: TM
 ---
