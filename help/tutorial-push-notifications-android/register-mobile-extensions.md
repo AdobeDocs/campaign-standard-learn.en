@@ -7,8 +7,8 @@ kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 ---
-
 # Step 3 - Register Extensions with your mobile app
 
 In this part we will add the code to register the User Profile, Identity, Lifecycle and Signal extensions. These extensions are part of [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). We will also need to register the Adobe Campaign Standard extension as shown in the code below.

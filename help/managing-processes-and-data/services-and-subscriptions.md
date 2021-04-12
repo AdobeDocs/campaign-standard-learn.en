@@ -8,8 +8,8 @@ thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 ---
-
 # Manage services and subscriptions{#managing-services-and-subscriptions}
 
 Adobe Campaign allows you to create and manage newsletters and cross-channel communications, through a set of services. Messages can only be sent to profiles who subscribed to the service (opt-in). These profiles are identified using a dedicated filter when creating a message.

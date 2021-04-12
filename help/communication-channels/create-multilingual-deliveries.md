@@ -8,8 +8,8 @@ thumbnail: 23252
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 ---
-
 # Create a multi-lingual email or SMS delivery
 
 Adobe Campaign allows you to simplify the operational complexities of sending multilingual campaigns. Both email deliveries, as well as SMS deliveries can be set up as multilingual, which will allow you to send the email or SMS based on a profile's preferred language.

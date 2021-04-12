@@ -1,5 +1,5 @@
 ---
-title:  Configuring a screen definition for a custom resource
+title: Configuring a screen definition for a custom resource
 description: Learn how to configure a screen definition for a custom resource.
 feature: Custom Resources
 topics: 
@@ -8,8 +8,8 @@ thumbnail: 27713.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 1d1a11c4-6f87-4ee4-bb75-b86228e72042
 ---
-
 # Configuring a screen definition for a custom resource
 
 Learn how to configure a screen definition for a custom resource.

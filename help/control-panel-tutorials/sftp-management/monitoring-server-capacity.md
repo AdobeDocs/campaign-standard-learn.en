@@ -9,8 +9,8 @@ thumbnail: 27270.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 432a1af6-22de-41ff-b733-e086ee14ab7a
 ---
-
 # Monitoring server capacity
 
 The Control Panel allows you to monitor and manage your SFTP storage by instance.

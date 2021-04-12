@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
 ---
-
 # Generating a SSH Key
 
 You need to generate a SSH key so that you can add it to the [!UICONTROL Control Panel].

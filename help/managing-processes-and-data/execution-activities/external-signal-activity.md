@@ -2,14 +2,14 @@
 title: External Signal Activity - Call a workflow with parameters
 description: The External Signal Activity is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.
 feature: External Signal Activity
-topics: Workflows  
-kt: 2750 
+topics: Workflows
+kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
 ---
-
 # [!UICONTROL External Signal activity ]- Call a workflow with parameters
 
 The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. It allows to start one workflow from another, enabling to support more complex customer journeys, while being able to better monitor and react in case of issue.

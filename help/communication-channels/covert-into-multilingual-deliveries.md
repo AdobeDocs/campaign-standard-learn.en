@@ -8,8 +8,8 @@ thumbnail: 23251.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 ---
-
 # Convert an existing email, SMS delivery or template to multilingual 
 
 This video demonstrates how an existing email, SMS delivery, or a delivery template can be easily converted to multilingual.

@@ -7,8 +7,8 @@ kt: 1480
 doc-type: feature video
 activity: use
 team: TM
+exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 ---
-
 # Privacy requests with the Adobe Campaign Standard User Interface
 
 Adobe Campaign offers data controllers three methods for performing Privacy access and delete requests of PII data in compliance with privacy acts such as GDPR (General Data Protection Regulation) and CCPA (California Consumer Privacy Act):

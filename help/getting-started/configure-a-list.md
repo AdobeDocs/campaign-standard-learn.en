@@ -1,6 +1,6 @@
 ---
 title: Configure a list
-description: This video explains how you can change the displayed columns, the order, and the sort order of a list view in Adobe Campaign Standard.  
+description: This video explains how you can change the displayed columns, the order, and the sort order of a list view in Adobe Campaign Standard.
 feature: UI
 topics: 
 kt: 1821
@@ -8,8 +8,8 @@ thumbnail: 25288.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 ---
-
 # Configure a list
 
 This video explains how you can change the displayed columns, the order, and the sort order of a list view in Adobe Campaign Standard.

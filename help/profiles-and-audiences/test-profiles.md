@@ -8,8 +8,8 @@ thumbnail: 24094.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
 ---
-
 # Create a test profile {#creating-a-test-profile}
 
 The test profiles allow you to target additional recipients who do not match the defined targeting criteria. They are added to a message's audience to detect any fraudulent use of your recipient database or to ensure the emails arrive in the inboxes. 

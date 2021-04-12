@@ -1,15 +1,15 @@
 ---
 title: Adding a control group to a delivery
 description: Learn how to define a control group for your delivery and how to extract the profiles assigned to the control group after the delivery has been sent.
-feature: control groups  
+feature: control groups
 topics: 
 kt: 5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 ---
-
 # Adding a [!UICONTROL control group] to a [!UICONTROL delivery]
 
 Working with [!UICONTROL control groups] allows you measure the impact your [!UICONTROL delivery ]has and allows you to optimize your marketing campaign.  

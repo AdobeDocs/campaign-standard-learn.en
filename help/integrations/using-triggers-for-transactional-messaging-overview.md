@@ -2,14 +2,14 @@
 title: Using triggers for transactional messaging - Overview
 description: Learn how to configure and use triggers for transactional messaging.
 feature: Triggers
-topics:  Integrations
+topics: Integrations
 kt: 6525
 doc-type: article
 role: Administrator
 level: Experienced
 team: TM
+exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 ---
-
 # Using triggers for transactional messaging - Overview
 
 In the following tutorials you will learn how to configure and use triggers for transactional messaging.

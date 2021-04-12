@@ -8,8 +8,8 @@ thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
+exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
 ---
-
 # Review an email delivery and reports
 
 This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard.

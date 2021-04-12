@@ -8,8 +8,8 @@ thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 ---
-
 # Mapping seed table data 
 
 >[!NOTE]
@@ -26,4 +26,3 @@ Learn how to map seed data and test profiles with the Adobe Experience Platform.
 
 * [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Mapping activation](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-  

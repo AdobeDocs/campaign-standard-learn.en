@@ -10,8 +10,8 @@ thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 ---
-
 # Create an [!UICONTROL In-App] delivery within a workflow
 
 The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.

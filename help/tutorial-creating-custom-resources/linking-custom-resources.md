@@ -8,8 +8,8 @@ thumbnail: 27712.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
 ---
-
 # Linking custom resources
 
 Learn how to link two custom resources.

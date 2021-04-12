@@ -7,8 +7,8 @@ thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 ---
-
 # Creating content using Adobe Dreamweaver
 
 The Adobe Campaign Standard integration with Adobe Dreamweaver allows you to edit an email's content directly within the Dreamweaver interface:

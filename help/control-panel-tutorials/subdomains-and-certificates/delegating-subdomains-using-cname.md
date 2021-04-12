@@ -8,8 +8,8 @@ thumbnail: 326612.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
 ---
-
 # Delegating subdomains using CNAME (beta)
 
 >[!IMPORTANT]

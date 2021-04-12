@@ -1,5 +1,5 @@
 ---
-title:  Monitoring databases
+title: Monitoring databases
 description: Learn how to monitor the database usage of your instances.
 feature: Database Monitoring
 topics: Control Panel
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+exl-id: a0e56349-4296-4309-8698-bf3c48eb6c58
 ---
-
 # Monitoring databases
 
 All your Campaign instance's assets, workflows, and data are stored in the database. The database reaching its maximum capacity can lead to issues with your instance (inability to login, to send emails etc.). It is therefore essential to monitor you instances' databases regularly to ensure optimal performance.

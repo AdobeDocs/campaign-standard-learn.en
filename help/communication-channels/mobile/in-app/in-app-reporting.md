@@ -8,6 +8,7 @@ thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 ---
 # Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
 

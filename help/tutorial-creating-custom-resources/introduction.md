@@ -8,8 +8,8 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 ---
-
 # Creating custom resources​ - Introduction
 
 [!DNL Adobe Campaign] comes with a pre-defined data model, where data is defined through different resources. [!DNL Campaign] provides the ability to extend resources or create brand new resources.

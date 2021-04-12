@@ -8,8 +8,8 @@ thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 ---
-
 # Modifying custom resources for privacy requests
 
 When setting up Adobe Campaign Standard to handle privacy requests you need to ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.

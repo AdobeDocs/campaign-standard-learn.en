@@ -9,8 +9,8 @@ thumbnail: 31390.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 ---
-
 # Full subdomain delegation
 
 Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.

@@ -8,8 +8,8 @@ thumbnail: 26224.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 ---
-
 # Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
 To send In-App messages or [!UICONTROL push notifications] using the Mobile SDK V5, the mobile app has to be set up in [!UICONTROL Adobe Experience Platform Launch] and configured in Adobe Campaign.

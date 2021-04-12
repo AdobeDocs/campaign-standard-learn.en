@@ -8,8 +8,8 @@ thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 ---
-
 # Create a SMS delivery{#creating-a-sms-delivery}
 
 This video explains how to create a SMS delivery in Adobe Campaign Standard. You can also configure the sending of SMS in a workflow using the SMS delivery activity.

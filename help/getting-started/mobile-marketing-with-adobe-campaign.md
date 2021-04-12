@@ -8,8 +8,8 @@ thumbnail: 29468.jpg
 doc-type: value video
 activity: understand
 team: PMM
+exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 ---
-
 # Mobile Marketing with Adobe Campaign
 
 This video explains which Adobe Campaign Standard features can support your mobile marketing strategy.

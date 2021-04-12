@@ -7,8 +7,8 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 ---
-
 # Trouble shooting the [!UICONTROL Control Panel]
 
 Learn how to troubleshoot issues when using the Control Panel.
@@ -64,4 +64,3 @@ Connecting to SFTP servers requires:
 ### Helpful Documentation {#helpful-docs}
 
 * [Logging into your SFTP server](https://helpx.adobe.com/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
-  

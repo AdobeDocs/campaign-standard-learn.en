@@ -8,8 +8,8 @@ thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
+exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 ---
-
 # Growing with Adobe Campaign
 
 This video highlights the potential next steps to true cross channel orchestration.

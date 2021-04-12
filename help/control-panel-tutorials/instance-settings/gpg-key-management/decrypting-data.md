@@ -9,8 +9,8 @@ thumbnail: 35753.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 ---
-
 # Decrypting data
 
 Control Panel allows you to decrypt external data coming into your Adobe Campaign instances using a public/private key pair.

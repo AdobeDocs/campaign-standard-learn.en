@@ -8,8 +8,8 @@ thumbnail: 24993.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 ---
-
 # Import profiles with a workflow{#import-profiles-with-a-workflow}
 
 You can collect data from a file to process it and/or to import it into the Adobe Campaign database.

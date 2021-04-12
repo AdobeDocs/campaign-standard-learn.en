@@ -5,8 +5,8 @@ feature: Control Panel
 topics: GPG key Management
 audience: administrator
 team: TM
+exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 ---
-
 # GPG key management - Overview
 
 GPG (GnuPG) encrypts messages using asymmetric individual key pairs. To implement GPG encryption with Campaign, GPG keys must be installed and/or generated on a marketing instance by an Administrator user directly from the Control Panel.

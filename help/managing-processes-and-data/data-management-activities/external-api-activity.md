@@ -2,14 +2,14 @@
 title: Configure and run a workflow with the External API activity
 description: The External API activity is a Data Management activity. It allows you to call an external REST API endpoint. The purpose of this activity is to get personalization data from a third party system into your campaign.
 feature: External API activity
-topics:   
+topics: 
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 ---
-
 # Configure and run a workflow with the [!UICONTROL External API activity]
 
 The [!UICONTROL External API activity] is a [!UICONTROL Data Management activity]. It allows you to call an external REST API endpoint. The purpose of this activity is to get personalization data from a third party system into your campaign.
@@ -34,4 +34,3 @@ This video demonstrates the use of the [!UICONTROL External API activity].
 ## Additional resources
 
 * [External API (Documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-  

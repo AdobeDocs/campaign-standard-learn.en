@@ -7,6 +7,7 @@ kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 ---
 # Add Service to send notification
 

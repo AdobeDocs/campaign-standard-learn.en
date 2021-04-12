@@ -8,8 +8,8 @@ thumbnail: 27716.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
 ---
-
 # Creating a custom resource
 
 In this video we will create our first custom resource called customers.

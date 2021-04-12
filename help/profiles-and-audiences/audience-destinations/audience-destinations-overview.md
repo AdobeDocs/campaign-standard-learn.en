@@ -8,8 +8,8 @@ thumbnail:
 doc-type: feature video
 activity: using
 team: TM
+exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 ---
-
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 
 ## Leverage Adobe Experience Platform Audiences in Adobe Campaign Standard
@@ -34,4 +34,3 @@ The following video tutorials will guide you through the different steps:
 ## Additional resources
 
 *[Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-  

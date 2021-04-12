@@ -7,6 +7,7 @@ kt: 4828
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
 ---
 # Step 4 - Set [!DNL pushidentifier]
 

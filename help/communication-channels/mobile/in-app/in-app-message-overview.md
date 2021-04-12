@@ -7,8 +7,8 @@ kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 ---
-
 # Introduction to [!UICONTROL In-App] messages {#introduction}
 
 The [!UICONTROL In-App Messaging] channel allows you to display a message when the user is active within the mobile application. This channel requires mobile applications to be integrated with [!UICONTROL Adobe Experience Platform SDK].

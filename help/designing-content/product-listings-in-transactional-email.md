@@ -8,8 +8,8 @@ thumbnail: 25915
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 ---
-
 # Configure [!UICONTROL product listings] in transactional emails
 
 You can configure a re-targeting email that has a list of products, that are unknown when designing the email. These products can be added from the payload at run time. For example, you can automatically send a cart abandonment email listing all the products, that were in the user's cart before they abandoned it, with an image, price, and link to each product.

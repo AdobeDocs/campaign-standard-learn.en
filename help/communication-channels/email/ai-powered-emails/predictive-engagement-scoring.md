@@ -8,8 +8,8 @@ thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
 team: ACS
+exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 ---
-
 # Predictive engagement scoring
 
 Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predict open rates, optimal send times, and probable churn based on historical engagement metrics.

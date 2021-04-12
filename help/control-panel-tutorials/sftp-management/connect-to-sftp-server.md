@@ -9,8 +9,8 @@ thumbnail: 27263.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 0d32b320-8ecc-4c23-97ef-1d3588e49501
 ---
-
 # Connecting to a SFTP server
 
 Learn how to access SFTP Management and connect to a SFTP server.

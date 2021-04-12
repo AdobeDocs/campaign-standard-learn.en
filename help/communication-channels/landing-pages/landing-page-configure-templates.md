@@ -8,6 +8,7 @@ thumbnail: 25200.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 717e9c30-939e-4560-b358-96f144009105
 ---
 # Configure a [!UICONTROL landing page template]
 

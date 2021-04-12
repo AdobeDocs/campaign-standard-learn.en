@@ -8,8 +8,8 @@ thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
+exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 ---
-
 # Introduction to reporting
 
 This video gives you an overview over the reporting capabilities of Adobe Campaign Standard

@@ -7,8 +7,8 @@ kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 ---
-
 # Getting started with Push Notifications with Android App
 
 Adobe Campaign allows you to send personalized and segmented push notifications to iOS and Android mobile devices.

@@ -1,5 +1,5 @@
 ---
-title: Mapping custom resources 
+title: Mapping custom resources
 description: Learn how to map different data types between Adobe Campaign Standard (ACS) and Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,8 +8,8 @@ thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up
 team: TM
+exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 ---
-
 # Mapping [!UICONTROL custom resources]
 
 >[!NOTE]
@@ -25,4 +25,3 @@ Learn how to map different data types between Adobe Campaign Standard and Adobe 
 ## Additional resources
 
 * [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-  

@@ -8,8 +8,8 @@ thumbnail: 27714.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: afd173f9-4e60-4e78-8f08-5d3894f78949
 ---
-
 # Populating custom resources with data
 
 Learn how to populate custom resources with data from a [!DNL CSV] file using a workflow.

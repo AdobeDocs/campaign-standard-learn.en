@@ -1,15 +1,15 @@
 ---
 title: Profile Substitution - Testing email messages using targeted profiles
 description: This video explains how you can test your email messages using the profile substitution feature.
-feature: Email  
+feature: Email
 topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 ---
-
 # [!UICONTROL Profile Substitution] - Testing email messages using targeted profiles
 
 This video explains how you can test your email messages using [!UICONTROL Profile Substitution]. It covers the following use case:

@@ -8,8 +8,8 @@ thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
+exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
 ---
-
 # Exploring Reports
 
 This video gives you an overview over the reporting capabilities of Adobe Campaign Standard.

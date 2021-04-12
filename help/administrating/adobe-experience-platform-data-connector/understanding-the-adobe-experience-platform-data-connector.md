@@ -8,8 +8,8 @@ thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
+exl-id: 686961f9-5374-4cc6-8b36-7ee0584ea720
 ---
-
 # Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]

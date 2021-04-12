@@ -7,6 +7,7 @@ kt: 4826
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 0fa53536-8330-4e96-be2f-afc078609bcd
 ---
 # STEP 2 - Integrate [!UICONTROL Mobile SDK] with Android App
 

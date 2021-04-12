@@ -7,8 +7,8 @@ kt: 4830
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 ---
-
 # Part 6 - Send [!UICONTROL Push Notification] to test your work
 
 We now need to create and send a [!UICONTROL Push Notification] using Adobe Campaign. . To create a simple push notification for testing purposes, please follow the following steps.

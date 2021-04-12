@@ -9,8 +9,8 @@ thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 ---
-
 # Getting started with the [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
@@ -54,4 +54,3 @@ The following video explains how to add an administrator to a Campaign instance
 ## Additional resources
 
 * [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
-  

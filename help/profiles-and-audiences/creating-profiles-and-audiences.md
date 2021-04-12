@@ -8,8 +8,8 @@ thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
+exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 ---
-
 # Creating profiles and audiences - Overview
 
 Adobe Campaign has two types or profiles:

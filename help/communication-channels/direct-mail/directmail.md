@@ -1,15 +1,15 @@
 ---
 title: Create a Direct Mail
 description: Direct mail is still a critical channel for marketers around the world and they can now orchestrate these offline interactions alongside their online ones. The same engine that powers digital communications, such as email and mobile, can now personalize direct mailers as well.
-feature: direct mail 
+feature: direct mail
 topics: 
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 ---
-
 # Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
 The [!UICONTROL Direct Mail] channel allows you to extract a segmented list of recipients to be sent to an agency or uploaded to a SFTP server.

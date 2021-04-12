@@ -1,5 +1,5 @@
 ---
-title: Adding an IP range to the allow list 
+title: Adding an IP range to the allow list
 description: Learn how you can add an IP address range to the allow list.
 feature: Ip Range
 topics: Control Panel
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+exl-id: b93ff670-a1a7-41d2-923b-c7c09d4d7c37
 ---
-
 # Adding an IP range to the allow list 
 
 In order to connect to a server, either through a client application or an API, you must set up a public SSH key and add the IP address that connects to your SFTP server to the allow list.

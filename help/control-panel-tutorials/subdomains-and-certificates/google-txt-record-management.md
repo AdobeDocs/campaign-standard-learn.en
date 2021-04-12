@@ -8,8 +8,8 @@ kt: 4744
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 ---
-
 # [!DNL Google] TXT record management
 
 To ensure high inbox rates and low spam rates, some services like [!DNL Google] require that you add a TXT record to your domain setting to verify that you own the domain. TXT records are a type of DNS records used to provide text information about a domain, that can be read by external sources.

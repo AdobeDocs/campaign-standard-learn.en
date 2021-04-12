@@ -8,8 +8,8 @@ thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 ---
-
 # Activate Adobe Experience Platform audiences in a workflow [!UICONTROL Adobe Experience Platform Audiences] in a Marketing Workflow 
 
 >[!NOTE]
@@ -34,4 +34,3 @@ Video Resource:
 
 * [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Changing the targeting dimension of a delivery for a Platform Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-  

@@ -8,8 +8,8 @@ thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 ---
-
 # Mapping [!UICONTROL Experience Events]
 
 >[!NOTE]
@@ -26,4 +26,3 @@ Learn how to map [!UICONTROL Experience Events] in Adobe Experience Platform (AE
 
 * [Mapping definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
 * [Mapping activation](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)
-  
