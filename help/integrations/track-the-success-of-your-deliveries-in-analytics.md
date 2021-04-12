@@ -4,6 +4,8 @@ description: Learn how to configure the Campaign Standard and Analytics integrat
 product: adobe analytics, campaign
 feature: Application Settings
 topics:  Integrations
+role: Administrator
+level: Intermediate
 kt: 6526
 thumbnail: 332576.jpg
 doc-type: feature video
