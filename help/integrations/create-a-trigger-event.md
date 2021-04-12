@@ -7,6 +7,7 @@ kt: 7470
 thumbnail: 332625.jpg
 doc-type: feature video
 role: administrator
+level: advanced
 activity: set-up
 team: TM
 ---
