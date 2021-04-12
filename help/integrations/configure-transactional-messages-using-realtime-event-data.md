@@ -7,6 +7,7 @@ kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
 role: administrator
+level: advanced
 activity: use
 team: TM
 ---
