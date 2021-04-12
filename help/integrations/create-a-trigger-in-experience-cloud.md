@@ -6,7 +6,8 @@ topics:  Integrations
 kt: 6524
 thumbnail: 332624.jpg
 doc-type: article
-role: feature video
+role: Administrator
+level: Experienced
 team: TM
 ---
 
