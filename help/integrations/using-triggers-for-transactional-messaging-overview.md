@@ -5,8 +5,8 @@ feature: Triggers
 topics:  Integrations
 kt: 6525
 doc-type: article
-role: administrator
-activity: use
+role: Administrator
+level: Experienced
 team: TM
 ---
 
