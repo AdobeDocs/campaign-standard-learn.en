@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
-role: "Business Practitioner, Developer"
+role: Business Practitioner, Developer
 level: Beginner
 ---
 # Introduction to email content templates {#introduction-to-the-email-content-templates}

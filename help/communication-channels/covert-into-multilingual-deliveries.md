@@ -1,7 +1,7 @@
 ---
 title: Convert an existing email, SMS delivery or template to multilingual
 description: "Learn how to convert and existing email, SMS delivery, or a delivery template to multilingual."
-feature: "Email, SMS"
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg
@@ -10,7 +10,7 @@ activity: use
 team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: Business Practitioner
-level: "Intermediate, Experienced"
+level: Intermediate, Experienced
 ---
 # Convert an existing email, SMS delivery or template to multilingual 
 

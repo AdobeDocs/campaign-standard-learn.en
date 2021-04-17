@@ -9,8 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
-role: "Business Practitioner, Developer"
-level: "Beginner, Intermediate"
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 ---
 # Target users based on their [!DNL Campaign] profile 
 

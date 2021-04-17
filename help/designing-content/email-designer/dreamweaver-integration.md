@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
-role: "Business Practitioner, Developer"
+role: Business Practitioner, Developer
 level: Beginner
 ---
 # Creating content using Adobe Dreamweaver

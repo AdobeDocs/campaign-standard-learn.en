@@ -10,7 +10,7 @@ activity: use
 team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: Business Practitioner
-level: "Intermediate, Experienced"
+level: Intermediate, Experienced
 ---
 # Adding a [!UICONTROL control group] to a [!UICONTROL delivery]
 

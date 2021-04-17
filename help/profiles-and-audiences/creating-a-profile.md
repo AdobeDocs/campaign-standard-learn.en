@@ -1,7 +1,7 @@
 ---
 title: Create a profile 
 description: Learn how to create a profile and how to add it to an audience.
-feature: "Profiles, Audiences"
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

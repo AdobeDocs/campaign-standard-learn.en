@@ -1,8 +1,0 @@
-"filename","title","description","feature","topic","role","level"
-"./metadata.md","","","","","",""
-"./help/tutorial-creating-custom-resources/TOC.md","","","","","",""
-"help/tutorial-creating-custom-resources/./introduction.md","Creating custom resources - Introduction","Adobe Campaign Standard provides the ability to extend resources or create brand new resources. This multipart tutorial will walk you through the steps needed to create and link custom resources.","Custom Resources","","",""
-"help/tutorial-creating-custom-resources/./creating-a-custom-resource.md","Creating a custom resource","Learn how to create a custom resource called customers.","Custom Resources","","",""
-"help/tutorial-creating-custom-resources/./configuring-a-screen-definition-for-a-custom-resource.md","Configuring a screen definition for a custom resource","Learn how to configure a screen definition for a custom resource.","Custom Resources","","",""
-"help/tutorial-creating-custom-resources/./linking-custom-resources.md","Linking custom resources","Learn how to link two custom resources.","custom resources","","",""
-"help/tutorial-creating-custom-resources/./populate-custom-resources-with-data.md","Populating custom resources with data","Learn how to populate custom resources with dat from a CSV file using a workflow.","custom resources","","",""

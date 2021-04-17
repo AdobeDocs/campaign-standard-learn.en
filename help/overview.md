@@ -4,7 +4,7 @@ description: Adobe Campaign provides a platform for designing cross-channel cust
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
-role: "Business Practitioner, Administrator, Developer"
+role: Business Practitioner, Administrator, Developer
 level: Beginner
 ---
 # Adobe Campaign Standard -  Overview

@@ -11,8 +11,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
-role: "Business Practitioner, Developer"
-level: "Beginner, Intermediate"
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 ---
 # Create an [!UICONTROL In-App] delivery within a workflow
 

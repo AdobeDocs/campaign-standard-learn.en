@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
-role: "Business Practitioner, Developer, Administrator"
+role: Business Practitioner, Developer, Administrator
 level: Beginner
 ---
 # Creating a workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}

@@ -9,8 +9,8 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
-role: "Business Practitioner, Developer"
-level: "Beginner, Intermediate, Experienced"
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 

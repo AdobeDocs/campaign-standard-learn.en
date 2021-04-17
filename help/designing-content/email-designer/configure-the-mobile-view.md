@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 6b1f8b62-fff0-4ef4-8537-a88658e28ab2
-role: "Business Practitioner, Developer"
+role: Business Practitioner, Developer
 level: Beginner
 ---
 # Configure the mobile view in the [!UICONTROL Email Designer] {#configure-the-mobile-view}

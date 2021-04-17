@@ -9,8 +9,8 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
-role: "Business Practitioner, Developer"
-level: "Beginner, Intermediate, Experienced"
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 ---
 # Change the targeting dimension [!UICONTROL Platform Audience]
 

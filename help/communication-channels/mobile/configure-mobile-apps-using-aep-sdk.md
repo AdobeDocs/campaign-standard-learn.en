@@ -1,7 +1,7 @@
 ---
 title: Configure a mobile application using Adobe Experience Platform SDK
 description: Learn how to set up a mobile app in Adobe Experience Platform Launch and how to configure it in Adobe Campaign.
-feature: "In App, Push, Channel Configuration, Mobile SDK Integration"
+feature: In App, Push, Channel Configuration, Mobile SDK Integration
 topics: 
 kt: 2501
 thumbnail: 26224.jpg

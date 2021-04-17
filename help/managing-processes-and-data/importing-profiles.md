@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
-role: "Business Practitioner, Developer, Administrator"
+role: Business Practitioner, Developer, Administrator
 level: Beginner
 ---
 # Import profiles with a workflow{#import-profiles-with-a-workflow}

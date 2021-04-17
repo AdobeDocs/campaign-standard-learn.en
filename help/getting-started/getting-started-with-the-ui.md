@@ -9,7 +9,7 @@ doc-type: feature video
 activity: understand
 team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
-role: "Business Practitioner, Administrator, Developer"
+role: Business Practitioner, Administrator, Developer
 level: Beginner
 ---
 # Getting Started with the UI

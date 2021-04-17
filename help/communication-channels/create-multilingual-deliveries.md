@@ -1,7 +1,7 @@
 ---
 title: Create a multi-lingual email or SMS delivery
 description: Learn how to simplify the operational complexities of sending multilingual campaigns. 
-feature: "Email, SMS"
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
@@ -10,7 +10,7 @@ activity: use
 team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
 role: Business Practitioner
-level: "Intermediate, Experienced"
+level: Intermediate, Experienced
 ---
 # Create a multi-lingual email or SMS delivery
 

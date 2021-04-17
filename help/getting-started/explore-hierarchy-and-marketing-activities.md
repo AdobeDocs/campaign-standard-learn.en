@@ -1,7 +1,7 @@
 ---
 title: Explore Hierarchy and Marketing Activities
 description: "Understand the hierarchy of programs and campaigns, how to create a marketing program, and how to create a marketing campaign within a program."
-feature: "Campaigns, Programs"
+feature: Campaigns, Programs
 topics: 
 kt: 3892
 thumbnail: 18465.jpg

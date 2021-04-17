@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
-role: "Business Practitioner, Developer"
+role: Business Practitioner, Developer
 level: Experienced
 ---
 # Configure and run a workflow with the [!UICONTROL External API activity]

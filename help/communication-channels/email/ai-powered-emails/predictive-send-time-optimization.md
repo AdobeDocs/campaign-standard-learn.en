@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: "Business Practitoner, Developer, Administrator"
+role: Business Practitoner, Developer, Administrator
 level: Experienced
 ---
 # Predictive send time optimization
