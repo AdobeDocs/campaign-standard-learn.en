@@ -1,6 +1,5 @@
 ---
 title: Create a new audience using the Unified Segment Builder
-description: 
 feature: Audience Destinations
 topics: ACOP
 kt: 2754

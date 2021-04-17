@@ -2,7 +2,6 @@
 title: Creating namespaces for privacy requests in Adobe Campaign Standard (ACS)
 description: A prerequisite to be able to create privacy access and delete requests, as required by GDPR or CCPA, is the definition of the namespace that will be used to identify the data subject within the Adobe Campaign database. This videos explains how to create namespaces for privacy requests.
 feature: GDPR, CCPA
-topic: 
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video

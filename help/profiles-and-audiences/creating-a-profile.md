@@ -2,7 +2,6 @@
 title: Create a profile
 description: This video explains how to create a profile and how to add it to an audience in Adobe Campaign Standard (ACS)
 feature: Profiles and Audiences
-topic: 
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video
