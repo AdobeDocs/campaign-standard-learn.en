@@ -1,6 +1,6 @@
 ---
 title: Create a SMS delivery
-description: This video explains how to create a SMS delivery in Adobe Campaign Standard (ACS).
+description: Learn  how to create a SMS delivery.
 feature: SMS
 topics: 
 kt: 1819
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
+role: Business Practitioner
+level: Beginner
 ---
 # Create a SMS delivery{#creating-a-sms-delivery}
 

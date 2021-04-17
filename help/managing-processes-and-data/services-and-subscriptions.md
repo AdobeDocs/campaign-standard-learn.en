@@ -1,7 +1,7 @@
 ---
 title: Manage services and subscriptions
-description: Adobe Campaign allows you to create and manage newsletters and cross-channel communications, through a set of services. This video will show you how to create a service and manage its subscriptions in Adobe Campaign Standard (ACS.
-feature: Subscriptions and Services
+description: Learn how to create a service and manage  subscriptions.
+feature: Subscriptions
 topics: 
 kt: 1815
 thumbnail: 24673.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: "Business Practitioner, Developer"
+level: "Beginner, Intermediate"
 ---
 # Manage services and subscriptions{#managing-services-and-subscriptions}
 

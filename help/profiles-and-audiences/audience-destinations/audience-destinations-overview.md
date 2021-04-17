@@ -1,7 +1,7 @@
 ---
 title: Audience Destinations - Overview
-description: Leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS)
-feature: Audience Destinations
+description: Learn how to leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS)
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: 
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
+role: "Business Practitioner, Developer"
+level: "Beginner, Intermediate, Experienced"
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 

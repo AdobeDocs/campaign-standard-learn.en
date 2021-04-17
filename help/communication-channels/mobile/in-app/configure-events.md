@@ -1,7 +1,7 @@
 ---
 title: Configure Events
-description: When configuring an In-App message in Adobe Campaign Standard (ACS) events define which user initiated action will trigger the message to be displayed.
-feature: In-App
+description: "Understand how events define which user initiated action will trigger an in-app message to be displayed. "
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: "Business Practitioner, Developer"
+level: "Beginner, Intermediate"
 ---
 # Configure [!UICONTROL Events] {#configuring-events}
 

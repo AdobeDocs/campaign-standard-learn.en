@@ -1,12 +1,12 @@
 ---
 title: Create and send emails via a workflow
-description: You can create an email from a campaign, from the Adobe Campaign home page, or in the marketing activity list. You can also create single-send and recurring emails from a workflow. This video explains how to create an email delivery from the homepage.
+description: Learn  how to create a one time email delivery from the homepage. 
 feature: Email
 topics: 
 kt: 4319
 thumbnail: 31465.jpg
-role: business-practitioner
-level: beginner
+role: Business Practitioner
+level: Beginner
 doc-type: feature video
 activity: use
 team: DOC

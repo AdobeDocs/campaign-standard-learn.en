@@ -1,9 +1,9 @@
 ---
 title: Create an In-App delivery within a workflow
 seo-title: Creating aN In-App delivery within a workflow
-description: The In-App delivery activity is generally used to automate sending an In-App message to a target audience calculated in the same workflow.
+description: "Learn how to use the In-App delivery activity to automate sending an In-App message to a target audience calculated in a workflow."
 seo-description: The In-App delivery activity is generally used to automate sending an In-App message to a target audience calculated in the same workflow.
-feature: In-App
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
@@ -11,6 +11,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: "Business Practitioner, Developer"
+level: "Beginner, Intermediate"
 ---
 # Create an [!UICONTROL In-App] delivery within a workflow
 

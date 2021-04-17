@@ -1,13 +1,15 @@
 ---
 title: Getting Started with Adobe Campaign Standard
 description: This video gives you an overview over the Adobe Campaign Standard user interface and the key features and core functionality.
-feature: User Interface
+feature: Overview
 topics: 
 kt: 
 doc-type: 
 activity: understand
 team: TM
 exl-id: ce78f9ed-b2d4-4166-9f6f-1b9639dbf5ce
+role: "Business Practitioner, Administrator, Developer"
+level: Beginner
 ---
 # Getting Started with Adobe Campaign Standard
 

@@ -1,13 +1,15 @@
 ---
 title: Introduction to In-App messages
-description: The Adobe Campaign Standard (ACS) In-App Messaging channel allows you to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
-feature: In-App
+description: "Learn how to present the user with contextually relevant in-app messages in response to a customer's real-time behavior within the mobile application."
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 ---
 # Introduction to [!UICONTROL In-App] messages {#introduction}
 

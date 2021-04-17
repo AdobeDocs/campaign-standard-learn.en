@@ -1,7 +1,7 @@
 ---
-title: Managing campaigns
-description: Adobe Campaign allows you to plan marketing campaigns in which you can create and manage different types of activities. This video will show you how to create and manage campaigns in Adobe Campaign.
-feature: campaigns
+title: Manage campaigns
+description: Learn  how to create and manage campaigns.
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: USE
 team: DOC
 exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
+role: Business Practitioner
+level: Beginner
 ---
 # Managing campaigns
 

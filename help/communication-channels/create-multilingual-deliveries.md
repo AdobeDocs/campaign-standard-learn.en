@@ -1,7 +1,7 @@
 ---
 title: Create a multi-lingual email or SMS delivery
-description: Adobe Campaign Standard (ACS) allows you to simplify the operational complexities of sending multilingual campaigns. Both email deliveries, as well as SMS deliveries can be set up as multi-lingual, which will allow you to send the email or SMS based on a profile's preferred language. The approach demonstrated in the videos applies to both email, as well as SMS deliveries.
-feature: Multi-lingual Deliveries
+description: Learn how to simplify the operational complexities of sending multilingual campaigns. 
+feature: "Email, SMS"
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
+role: Business Practitioner
+level: "Intermediate, Experienced"
 ---
 # Create a multi-lingual email or SMS delivery
 

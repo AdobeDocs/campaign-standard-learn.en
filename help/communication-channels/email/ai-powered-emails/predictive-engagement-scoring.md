@@ -1,7 +1,7 @@
 ---
 title: Predictive engagement scoring
 description: Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.
-feature: predictive engagement scoring
+feature: Predictive Engagement Scoring
 topics: 
 kt: 6275
 thumbnail: 40470.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
+role: "Business Practitoner, Developer, Administrator"
+level: Experienced
 ---
 # Predictive engagement scoring
 
