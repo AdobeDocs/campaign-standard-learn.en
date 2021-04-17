@@ -1,7 +1,7 @@
 ---
-title: Broadcast an In-App message
-description: The Broadcast an In-App message template allows you to target all users of your mobile app with Adobe Campaign Standard (ACS)
-feature: In-App
+title: "Broadcast an In-App message "
+description: Learn how the Broadcast  template allows you to target all users of your mobile app.
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 ---
 # Broadcast an In-App message
 

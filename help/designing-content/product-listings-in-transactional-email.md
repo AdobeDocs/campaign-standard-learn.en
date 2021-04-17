@@ -1,7 +1,7 @@
 ---
 title: Configure product listings in transactional emails
-description: The videos explain the steps that are required to configure product listings in transactional emails in Adobe Campaign Standard (ACS).
-feature: Transactional Emails
+description: Learn which steps that are required to configure product listings in transactional emails.
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
+role: Business Practitioner, Developer
+level: Experienced
 ---
 # Configure [!UICONTROL product listings] in transactional emails
 

@@ -1,6 +1,6 @@
 ---
 title: Exploring Reports
-description: This video explains the different reports available out of the box for an email delivery.
+description: Understand the different reports that are available out of the box for an email delivery.
 feature: Reporting
 topics: Getting Started
 kt: 3906
@@ -9,6 +9,8 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
+role: Business Practitioner
+level: Beginner
 ---
 # Exploring Reports
 

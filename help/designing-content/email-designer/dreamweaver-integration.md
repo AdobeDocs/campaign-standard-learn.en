@@ -1,13 +1,15 @@
 ---
 title: Creating content using Adobe Dreamweaver
-description: The video explains what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
-feature: Email Designer
+description: Understand what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
+role: Business Practitioner, Developer
+level: Beginner
 ---
 # Creating content using Adobe Dreamweaver
 

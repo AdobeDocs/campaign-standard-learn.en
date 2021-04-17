@@ -1,6 +1,6 @@
 ---
 title: Create a push notification
-description: Learn how to create a push notification in Adobe Campaign Standard (ACS).
+description: Learn how to create a push notification. 
 feature: Push
 topics: Mobile
 kt: 1401
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
+role: Business Practitioner
+level: Beginner
 ---
 # Create a [!UICONTROL push notification]
 

@@ -1,7 +1,7 @@
 ---
 title: Change the targeting dimension
 description: This video explains how to change the targeting dimension of a delivery for a Platform Audience outside of the primary profile table in Adobe Campaign Standard.
-feature: Audience Destinations
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 ---
 # Change the targeting dimension [!UICONTROL Platform Audience]
 

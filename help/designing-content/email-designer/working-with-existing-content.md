@@ -1,7 +1,7 @@
 ---
 title: Working with existing content
 description: This video explains how to quickly retrieve your creative content from a website and load it into the Email Designer.
-feature: Email Designer
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
+role: Business Practitioner, Developer
+level: Beginner
 ---
 # Working with existing content{#working-with-existing-content}
 

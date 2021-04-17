@@ -1,7 +1,7 @@
 ---
 title: Predictive send time optimization
 description: Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.
-feature: predictive send time
+feature: Send Time Optimization
 topics: 
 kt: 6274
 thumbnail: 40469.jpg
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
+role: Business Practitoner, Developer, Administrator
+level: Experienced
 ---
 # Predictive send time optimization
 

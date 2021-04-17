@@ -1,6 +1,6 @@
 ---
 title: Create a multilingual push notification
-description: Learn how to create a multilingual push notification in Adobe Campaign Standard (ACS).
+description: Learn how to create a multilingual push notification. 
 feature: Push
 topics: Mobile
 kt: 1375
@@ -9,6 +9,8 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
+role: Business Practitioner
+level: Beginner
 ---
 # Create a multilingual push notification [!UICONTROL push notification]
 
