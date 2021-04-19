@@ -1,5 +1,4 @@
 ---
-product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard - Getting started with Push Notifications for Android
 user-guide-description: This tutorial will walk you through the steps involved in sending push notifications from Adobe Campaign and receiving these notifications in your Android app.
 ---
