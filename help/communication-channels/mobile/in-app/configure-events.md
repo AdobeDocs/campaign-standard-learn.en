@@ -2,7 +2,6 @@
 title: Configure Events
 description: "Understand how events define which user initiated action will trigger an in-app message to be displayed. "
 feature: In App
-topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video

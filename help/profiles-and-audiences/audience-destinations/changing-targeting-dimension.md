@@ -2,7 +2,6 @@
 title: Change the targeting dimension
 description: This video explains how to change the targeting dimension of a delivery for a Platform Audience outside of the primary profile table in Adobe Campaign Standard.
 feature: People Core Service Integration
-topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video

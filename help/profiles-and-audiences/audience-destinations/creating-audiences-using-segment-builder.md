@@ -1,14 +1,13 @@
 ---
 title: Create a new audience using the Unified Segment Builder
+description: Learn how to create a new audience using the Unified Segment Builder
 feature: People Core Service Integration
-topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-description: Learn how to create a new audience using the Unified Segment Builder.
 role: Business Practitioner, Developer
 level: Beginner, Intermediate, Experienced
 ---

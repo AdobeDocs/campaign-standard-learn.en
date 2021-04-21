@@ -2,7 +2,6 @@
 title: Step 3 - Register Extensions with your mobile app
 description: In this part we will add the code to register the UserProfile,Identity,Lifecycle and Signal extensions.
 feature: Push
-topics: Mobile
 kt: 4827
 doc-type: tutorial
 activity: use

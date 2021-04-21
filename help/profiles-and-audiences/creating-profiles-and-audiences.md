@@ -2,7 +2,6 @@
 title: Creating profiles and audiences - Overview
 description: Learn how to navigate to existing profiles and how to create profiles and audiences.
 feature: Profiles, Audiences
-topics: 
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video

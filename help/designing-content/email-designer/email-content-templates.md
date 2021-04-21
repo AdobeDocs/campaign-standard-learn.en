@@ -2,7 +2,6 @@
 title: Introduction to email content templates
 description: Learn how to create an email content template.
 feature: Email Design
-topics: 
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video

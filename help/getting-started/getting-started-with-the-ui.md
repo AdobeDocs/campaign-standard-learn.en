@@ -2,7 +2,6 @@
 title: Get Started with the UI 
 description: This video gives you an overview over the Adobe Campaign Standard user interface and the key features and core functionality.
 feature: Overview
-topics: Getting started
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video

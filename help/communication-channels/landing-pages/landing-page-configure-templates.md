@@ -2,7 +2,6 @@
 title: Configure a landing page template
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
 feature: Landing Pages
-topics: 
 kt: 1817
 thumbnail: 25200.jpg
 doc-type: feature video

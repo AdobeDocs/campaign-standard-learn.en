@@ -2,7 +2,6 @@
 title: Getting started with the Control Panel
 description: This article explains how to access the Control Panel and what the prerequisites are to be able to work with the control panel.
 feature: Control Panel
-topics: Control Panel
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg

@@ -2,7 +2,6 @@
 title: Create and send emails via a workflow
 description: Learn  how to create a one time email delivery from the homepage. 
 feature: Email
-topics: 
 kt: 4319
 thumbnail: 31465.jpg
 role: Business Practitioner

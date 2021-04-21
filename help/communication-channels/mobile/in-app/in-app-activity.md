@@ -4,7 +4,6 @@ seo-title: Creating aN In-App delivery within a workflow
 description: "Learn how to use the In-App delivery activity to automate sending an In-App message to a target audience calculated in a workflow."
 seo-description: The In-App delivery activity is generally used to automate sending an In-App message to a target audience calculated in the same workflow.
 feature: In App
-topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video

@@ -2,7 +2,6 @@
 title: Populating custom resources with data
 description: Learn how to populate custom resources with dat from a CSV file using a workflow.
 feature: custom resources
-topics: 
 kt: 3003
 thumbnail: 27714.jpg
 doc-type: feature video

@@ -1,8 +1,7 @@
 ---
 title: Report on your In-App delivery
-description: "Learn how to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application."
+description: Learn how to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
 feature: In App
-topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video

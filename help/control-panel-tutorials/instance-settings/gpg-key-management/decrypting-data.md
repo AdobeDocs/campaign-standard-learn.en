@@ -2,7 +2,6 @@
 title: Decrypting data
 description: The video below explains how to create a public key and import and install it on a Campaign instance for the decryption of data.
 feature: Control Panel
-topics: 
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg

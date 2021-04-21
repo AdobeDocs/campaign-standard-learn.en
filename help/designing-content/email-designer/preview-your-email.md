@@ -2,7 +2,6 @@
 title: Preview your email and anti spam analysis
 description: "Learn how to preview your email and the anti-spam analysis."
 feature: Email Design
-topics: 
 kt: 2393
 thumbnail: 25921.jpg
 doc-type: feature video

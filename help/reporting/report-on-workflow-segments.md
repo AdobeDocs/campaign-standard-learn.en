@@ -2,7 +2,6 @@
 title: Creating a report based on workflow segments
 description: Reporting on Workflow Segments provides the ability to add workflow segment code in dynamic reporting.
 feature: Reporting
-topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video

@@ -2,7 +2,6 @@
 title: Send a test, prepare and send an email
 description: "Learn how to send a test email, prepare and then send the email delivery. "
 feature: Email  
-topics: 
 kt: 1812
 thumbnail: 24013.jpg
 doc-type: feature video

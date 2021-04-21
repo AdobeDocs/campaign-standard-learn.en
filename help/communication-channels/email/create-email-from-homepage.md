@@ -2,8 +2,7 @@
 title: Create an email delivery
 description: Learn  how to create an email delivery from the homepage. 
 landing-page-description: This video explains how to create an email delivery from the homepage.
-feature: Email
-topics: 
+feature: Email 
 kt: 1807
 thumbnail: 23721.jpg
 doc-type: feature video

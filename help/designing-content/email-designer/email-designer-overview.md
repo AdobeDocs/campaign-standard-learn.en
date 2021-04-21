@@ -2,7 +2,6 @@
 title: Email Designer overview
 description: Understand the general functionality of the Email Designer and how to design an email from scratch.
 feature: Email Design
-topics: Content Creation
 kt: 1402
 thumbnail: 22771.jpg
 doc-type: feature video

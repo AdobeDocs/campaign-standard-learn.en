@@ -14,7 +14,6 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
 
 + [Overview](/help/overview.md)
 + Getting started {#getting-started}
-  + [Overview](/help/getting-started/getting-started-overview.md)
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Getting started with the UI](/help/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/getting-started/configure-a-list.md)

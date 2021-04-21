@@ -2,7 +2,6 @@
 title: Create a workflow
 description: Learn how to create and edit a workflow.
 feature: Workflows
-topics: 
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video

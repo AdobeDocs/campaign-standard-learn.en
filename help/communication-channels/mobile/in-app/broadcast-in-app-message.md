@@ -2,7 +2,6 @@
 title: "Broadcast an In-App message "
 description: Learn how the Broadcast  template allows you to target all users of your mobile app.
 feature: In App
-topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video

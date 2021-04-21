@@ -1,8 +1,7 @@
 ---
 title: Monitoring server capacity
 description: Learn how to monitor the storage capacity of your SFTP servers.
-feature: SFTP Management
-topics: Control Panel
+feature: Control Panel
 audience: administrator
 kt: 6239
 thumbnail: 27270.jpg

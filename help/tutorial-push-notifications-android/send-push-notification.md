@@ -2,7 +2,6 @@
 title: Part 6 - Send Push notification to test your work
 description: Part 6 - Send Push notification to test your work
 feature: Push
-topics: Mobile
 kt: 4830
 doc-type: tutorial
 activity: use

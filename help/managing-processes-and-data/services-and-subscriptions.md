@@ -2,7 +2,6 @@
 title: Manage services and subscriptions
 description: Learn how to create a service and manage  subscriptions.
 feature: Subscriptions
-topics: 
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video

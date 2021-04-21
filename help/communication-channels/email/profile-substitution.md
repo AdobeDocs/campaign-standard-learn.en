@@ -2,7 +2,6 @@
 title: Profile Substitution - Testing email messages using targeted profiles
 description: Learn how you can test your email messages using the profile substitution feature.
 feature: Email  
-topics: Channels
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video

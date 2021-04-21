@@ -2,7 +2,6 @@
 title: Create a push notification
 description: Learn how to create a push notification. 
 feature: Push
-topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg
 doc-type: feature video

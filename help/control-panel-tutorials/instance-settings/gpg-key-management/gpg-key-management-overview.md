@@ -2,7 +2,6 @@
 title: GPG key management - Overview
 description: The following videos explain how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data, as well as import and install a public key on a Campaign instance for the decryption of inbound data.
 feature: Control Panel
-topics: GPG key Management
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f

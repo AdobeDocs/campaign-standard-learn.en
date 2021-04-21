@@ -2,7 +2,6 @@
 title: Configure transactional messages using realtime event data
 description: Learn how to configure transactional messages using realtime event data coming from triggers.
 feature: Triggers
-topics: Integrations
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video

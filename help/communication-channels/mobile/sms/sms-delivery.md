@@ -2,7 +2,6 @@
 title: Create a SMS delivery
 description: Learn  how to create a SMS delivery.
 feature: SMS
-topics: 
 kt: 1819
 thumbnail: 25265.jpg
 doc-type: feature video

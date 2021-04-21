@@ -2,7 +2,6 @@
 title: Understanding the Adobe Experience Platform Data Connector
 description: Adobe Experience Platform Data Connector helps existing customers to make their data available on Adobe Experience Platform by mapping XTK data (data ingested in Campaign) to Experience Data Model (XDM) data on Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
 kt: 2826
 thumbnail: 27304.jpg
 doc-type: feature video

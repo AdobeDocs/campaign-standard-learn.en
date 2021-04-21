@@ -2,7 +2,6 @@
 title: A/B testing
 description: "Learn how to configure and send an A/B test, which tests  the subject line. "
 feature: A/B Testing  
-topics: 
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video

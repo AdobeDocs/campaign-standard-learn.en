@@ -1,8 +1,7 @@
 ---
 title: Introduction to In-App messages
-description: "Learn how to present the user with contextually relevant in-app messages in response to a customer's real-time behavior within the mobile application."
+description: Learn how to present the user with contextually relevant in-app messages in response to a customer's real-time behavior within the mobile application.
 feature: In App
-topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use

@@ -1,8 +1,7 @@
 ---
 title: Manage campaigns
 description: Learn  how to create and manage campaigns.
-feature: Campaigns 
-topics: Getting Started
+feature: Campaigns
 kt: 1816
 thumbnail: 24672.jpg
 doc-type: feature video

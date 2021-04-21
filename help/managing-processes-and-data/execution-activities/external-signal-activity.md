@@ -1,8 +1,7 @@
 ---
 title: External Signal Activity - Call a workflow with parameters
-description: "Learn how to start one workflow from another to support more complex customer journeys, while being able to better monitor and react to issues."
+description: Learn how to start one workflow from another to support more complex customer journeys, while being able to better monitor and react to issues.
 feature: Execution Activity
-topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video

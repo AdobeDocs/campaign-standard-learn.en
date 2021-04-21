@@ -2,7 +2,6 @@
 title: Exploring Reports
 description: Understand the different reports that are available out of the box for an email delivery.
 feature: Reporting
-topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg
 doc-type: tutorial

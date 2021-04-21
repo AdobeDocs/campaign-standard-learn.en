@@ -2,7 +2,6 @@
 title: Create and edit a landing page
 description: "Learn how to can create, edit and test landing pages in Adobe Campaign Standard."
 feature: Landing Pages
-topics: 
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
