@@ -16,7 +16,7 @@ In the following tutorials you will learn how to configure and use triggers for 
 
 Before you can use a trigger in a transactional message, you need to:
 
-1. Configure Launch for triggers
+1. [Configure Launch for triggers](/help/integrations/configure-launch-for-triggers.md)
 2. [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 

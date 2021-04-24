@@ -96,6 +96,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
   + Using triggers for transactional messages {#triggers}
     + [Overview](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+    + [Configure Launch for triggers](/help/integrations/configure-launch-for-triggers.md)
     + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
     + [Configure transactional messages using realtime event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
