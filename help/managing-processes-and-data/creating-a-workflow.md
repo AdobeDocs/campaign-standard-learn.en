@@ -26,4 +26,4 @@ This video will show you how to create and edit a workflow in Adobe Campaign Sta
 
 ## Additional resources
 
-* [Building a Workflow (Documenatation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+* [Building a Workflow (Documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
