@@ -11,7 +11,7 @@ exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: Business Practitioner, Developer, Administrator
 level: Beginner
 ---
-# Creating a workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
+# Create a workflow {#how-to-create-a-workflow-in-adobe-campaign-standard}
 
 Workflows can be used in different contexts, as for example:
 
@@ -26,4 +26,4 @@ This video will show you how to create and edit a workflow in Adobe Campaign Sta
 
 ## Additional resources
 
-* [About Workflows and Data Management](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+* [Building a Workflow (Documenatation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
