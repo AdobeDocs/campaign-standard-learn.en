@@ -21,4 +21,4 @@ This video explains how to create test profiles
 
 ## Additional resources
 
-* [Manage test profiles (Documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)
+* [Managing test profiles (Documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)
