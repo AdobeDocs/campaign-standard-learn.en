@@ -21,5 +21,8 @@ This video explains how to use the [!UICONTROL Data Management] activities in a 
 
 ## Additional resources
 
-* [Importing data step by step tutorial](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/workflow-general-operation/importing-data.html#example--import-workflow-template)
-* [Adobe Campaign Standard - Managing processes and data](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/about-workflows-and-data-management/discovering-workflows.html)
+**Product documentation:**
+* [Transfer file](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
+* [Load file](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
+* [Update data](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
+* [Get started with processes and data management](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)
