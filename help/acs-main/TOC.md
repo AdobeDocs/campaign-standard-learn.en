@@ -13,7 +13,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
 # Adobe Campaign Standard Tutorials {#tutorials}
 
 + [Overview](/help/overview.md)
-+ Getting started {#getting-started}
++ Get started {#getting-started}
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Getting started with the UI](/help/getting-started/getting-started-with-the-ui.md)
   + [Configure a list](/help/getting-started/configure-a-list.md)
@@ -71,7 +71,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
     + [Create and edit a landing page](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
     + [Test and publish a landing page](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
     + [Configure a landing page template](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Designing and personalizing content {#designing-content}
++ Design and personalize content {#designing-content}
   + Email Designer{#email-designer}
     + [Overview](/help/designing-content/email-designer/email-designer-overview.md)
     + [Getting started with the Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -81,27 +81,27 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
     + [Working with existing content](/help/designing-content/email-designer/working-with-existing-content.md)
     + [Creating content using Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
   + [Configure product listings in transactional emails](/help/designing-content/product-listings-in-transactional-email.md)
-+ Managing processes and data {#managing-processes-and-data}
++ Process and data management {#managing-processes-and-data}
   + [Creating a workflow](/help/managing-processes-and-data/creating-a-workflow.md)
   + Execution Activities {#execution-activities}
     + [External Signal Activity](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Data Management Activities {#data-management-activities}
     + [External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Reporting {#reporting}
++ Report {#reporting}
   + [Exploring Reports](/help/getting-started/exploring-reports.md)
   + [Creating a Dynamic Report](/help/reporting/creating-a-dynamic-report.md)
   + [Creating a report based on custom profile attributes](/help/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Creating a report based on workflow segments](/help/reporting/report-on-workflow-segments.md)
-+ Integrating with other solutions {#integrations}
++ Integrate with other solutions {#integrations}
   + [Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-  + Using triggers for transactional messages {#triggers}
+  + Use triggers for transactional messages {#triggers}
     + [Overview](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
     + [Configure Launch for triggers](/help/integrations/configure-launch-for-triggers.md)
     + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
     + [Configure transactional messages using realtime event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
   + [Configure Microsoft® Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
-+ Administrating {#administrating}
++ Administrate {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Creating Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html)
