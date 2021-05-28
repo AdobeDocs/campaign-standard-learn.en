@@ -100,6 +100,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
     + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
     + [Configure transactional messages using realtime event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+  + [Configure Microsoft® Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrating {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Creating Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
