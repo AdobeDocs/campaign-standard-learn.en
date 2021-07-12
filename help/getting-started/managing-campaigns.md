@@ -8,7 +8,7 @@ doc-type: feature video
 activity: USE
 team: DOC
 exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Managing campaigns

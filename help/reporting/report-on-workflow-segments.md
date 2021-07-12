@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Creating a report based on workflow segments

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 4b7e4602-6d4f-4a16-bbe7-070a95511ebb
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
 ---
 # Create a multi-lingual email or SMS delivery

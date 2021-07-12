@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
-role: Administrator
+role: Admin
 level: Experienced
 ---
 # Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}

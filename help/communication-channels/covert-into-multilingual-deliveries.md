@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
 ---
 # Convert an existing email, SMS delivery or template to multilingual 

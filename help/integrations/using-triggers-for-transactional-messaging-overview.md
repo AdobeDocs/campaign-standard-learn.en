@@ -5,7 +5,7 @@ feature: Triggers
 topic: Integrations
 kt: 6525
 doc-type: article
-role: Administrator
+role: Admin
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4

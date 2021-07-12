@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create a [!UICONTROL push notification]

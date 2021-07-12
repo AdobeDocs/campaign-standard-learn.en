@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 544587f3-c273-4b1c-b5fd-65213d0c0ea3
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Test and publish a landing page

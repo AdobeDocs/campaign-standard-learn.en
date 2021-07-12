@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Creating profiles and audiences - Overview

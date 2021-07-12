@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d3996185-681c-4906-85f0-0543ab767519
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
 ---
 # [!UICONTROL External Signal activity ]- Call a workflow with parameters

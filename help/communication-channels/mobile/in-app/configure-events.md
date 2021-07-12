@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
 ---
 # Configure [!UICONTROL Events] {#configuring-events}

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create and edit a landing page {#create-and-edit-a-landing-page}

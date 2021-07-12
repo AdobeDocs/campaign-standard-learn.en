@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
-role: Business Practitioner, Developer
+role: User, Developer
 level: Experienced
 ---
 # Configure [!UICONTROL product listings] in transactional emails

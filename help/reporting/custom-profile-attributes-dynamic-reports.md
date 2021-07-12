@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Creating a report based on custom profile attributes

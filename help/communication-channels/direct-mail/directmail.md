@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}

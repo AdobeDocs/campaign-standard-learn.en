@@ -5,7 +5,7 @@ feature: Triggers
 kt: 7471
 thumbnail: 332602.jpg
 doc-type: feature video
-role: Administrator
+role: Admin
 level: Experienced
 activity: use
 team: TM

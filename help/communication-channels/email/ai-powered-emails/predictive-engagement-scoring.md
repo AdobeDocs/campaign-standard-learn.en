@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
-role: Business Practitoner, Developer, Administrator
+role: Business Practitoner, Developer, Admin
 level: Experienced
 ---
 # Predictive engagement scoring

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create a multilingual push notification [!UICONTROL push notification]

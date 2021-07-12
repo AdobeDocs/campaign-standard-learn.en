@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Creating a [!UICONTROL Dynamic Report]{#creating-a-report}

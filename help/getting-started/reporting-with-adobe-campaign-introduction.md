@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
 ---
 # Introduction to reporting

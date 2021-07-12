@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create an email delivery {#create-an-email-delivery}

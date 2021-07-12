@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
 ---
 # Working with existing content{#working-with-existing-content}

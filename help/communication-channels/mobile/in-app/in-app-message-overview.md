@@ -7,7 +7,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Introduction to [!UICONTROL In-App] messages {#introduction}

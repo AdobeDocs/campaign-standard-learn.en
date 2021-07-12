@@ -8,7 +8,7 @@ doc-type: feature video
 activity: Understand
 team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Explore Hierarchy and Marketing Activities

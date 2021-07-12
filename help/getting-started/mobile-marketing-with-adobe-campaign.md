@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
 ---
 # Mobile Marketing with Adobe Campaign

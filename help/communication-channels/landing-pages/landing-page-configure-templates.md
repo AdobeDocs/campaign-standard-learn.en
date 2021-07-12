@@ -9,7 +9,7 @@ activity: use
 team: DOC
 exl-id: 717e9c30-939e-4560-b358-96f144009105
 description: Learn how to configure a landing page template
-role: Administrator, Business Practitioner
+role: Admin, User
 level: Beginner
 ---
 # Configure a [!UICONTROL landing page template]

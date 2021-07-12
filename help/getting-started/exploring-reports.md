@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: fef1b535-8055-4d6b-a099-5e04340ce6e9
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Exploring Reports

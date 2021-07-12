@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: PMM
 exl-id: 8058722e-27e2-43e2-bf60-e3d99ce90a5d
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 ---
 # Introduction to [!UICONTROL Adobe Campaign Standard]

@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2cb70be4-cd27-4da3-828a-be4c07d4c951
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Send a test, prepare, and send an email

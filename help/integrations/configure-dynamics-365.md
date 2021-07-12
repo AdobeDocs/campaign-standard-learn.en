@@ -4,7 +4,7 @@ description: Learn how to configure Microsoft® Dynamics 365 for use in the Dyna
 feature: Microsoft Dynamics 365 Connector
 kt: 2927
 doc-type: feature video
-role: Administrator
+role: Admin
 level: Experienced
 activity: setup
 team: PM

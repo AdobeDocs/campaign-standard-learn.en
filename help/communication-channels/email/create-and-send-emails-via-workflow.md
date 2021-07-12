@@ -4,7 +4,7 @@ description: Learn  how to create a one time email delivery from the homepage.
 feature: Email
 kt: 4319
 thumbnail: 31465.jpg
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 activity: use

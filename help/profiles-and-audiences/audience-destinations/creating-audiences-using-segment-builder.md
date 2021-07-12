@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate, Experienced
 ---
 # Create a new audience using the Unified Segment Builder

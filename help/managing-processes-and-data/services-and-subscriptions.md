@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
 ---
 # Manage services and subscriptions{#managing-services-and-subscriptions}

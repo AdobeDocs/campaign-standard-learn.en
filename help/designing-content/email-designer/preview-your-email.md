@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 45c6fc1b-1276-4f21-97f6-1af3929e0514
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
 ---
 # Preview your email and anti spam analysis{#preview-your-email}

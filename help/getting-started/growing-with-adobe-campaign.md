@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Growing with Adobe Campaign

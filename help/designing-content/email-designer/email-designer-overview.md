@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner
 ---
 # [!UICONTROL Email Designer] overview

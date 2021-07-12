@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: fb138b50-5022-4320-8d45-a9ac6405a44e
-role: Business Practitioner
+role: User
 level: Beginner, Intermediate
 ---
 # Create a test profile {#creating-a-test-profile}

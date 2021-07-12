@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Review an email delivery and reports

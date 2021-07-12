@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
-role: Business Practitioner
+role: User
 level: Intermediate, Experienced
 ---
 # [!UICONTROL Profile Substitution] - Testing email messages using targeted profiles

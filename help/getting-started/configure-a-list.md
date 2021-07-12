@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
-role: Business Practitioner, Administrator, Developer
+role: User, Admin, Developer
 level: Beginner
 ---
 # Configure a list

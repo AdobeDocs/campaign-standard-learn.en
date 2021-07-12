@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # A/B testing 

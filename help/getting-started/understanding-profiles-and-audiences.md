@@ -8,7 +8,7 @@ doc-type: feature video
 activity: understand
 team: WWFRE
 exl-id: 8a11b35f-ac6b-4f63-a72e-4e676ea3d69d
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Beginner
 ---
 # Understanding profiles and audiences in Adobe Campaign Standard

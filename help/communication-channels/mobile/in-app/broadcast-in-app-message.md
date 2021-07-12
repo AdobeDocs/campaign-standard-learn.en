@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
 ---
 # Broadcast an In-App message

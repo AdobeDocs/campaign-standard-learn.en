@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: DOC
 exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
-role: Business Practitioner
+role: User
 level: Beginner
 ---
 # Create a SMS delivery{#creating-a-sms-delivery}
