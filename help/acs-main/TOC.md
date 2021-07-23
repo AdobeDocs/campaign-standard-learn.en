@@ -105,7 +105,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Creating Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
   + [Control Panel](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html)
-  + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
+  + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
     + [Mapping custom resources](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
     + [Mapping Experience Events](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
