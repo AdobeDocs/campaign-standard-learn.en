@@ -1,7 +1,7 @@
 ---
 title: Linking custom resources
 description: Learn how to link two custom resources.
-feature: custom resources
+feature: Custom Resources
 kt: 3002
 thumbnail: 27712.jpg
 doc-type: feature video
