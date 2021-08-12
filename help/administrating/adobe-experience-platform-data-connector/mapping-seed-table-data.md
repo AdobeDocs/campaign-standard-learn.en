@@ -1,7 +1,7 @@
 ---
 title: Mapping seed table data
 description: Learn how to map you seed data and how to test profiles with the Adobe Experience Platform (AEP)
-feature: Adobe Experience Platform Data Connector
+People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video

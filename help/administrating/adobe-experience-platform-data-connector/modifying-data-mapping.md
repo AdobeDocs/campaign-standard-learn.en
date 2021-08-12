@@ -1,7 +1,7 @@
 ---
 title: Modifying data mapping
 description: Learn how to check the status and modify the data mapping.
-feature: Adobe Experience Platform Data Connector
+People Core Service Integration
 kt: 2830
 thumbnail: 27266
 doc-type: feature video

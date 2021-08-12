@@ -1,7 +1,7 @@
 ---
 title: Managing user access rights
 description: This video explains you how to define and manage the permissions assigned to different users in Adobe Campaign.
-feature: User Access Rights
+feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
@@ -17,4 +17,4 @@ This video explains you how to define and manage the permissions assigned to dif
 
 ## Additional resources
 
-* [About access management](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/users-and-security/about-access-management.html)
+* [About access management](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/about-access-management.html?lang=en)

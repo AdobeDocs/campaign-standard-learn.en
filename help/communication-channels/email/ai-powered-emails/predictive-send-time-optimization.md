@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
 ---
 # Predictive send time optimization
@@ -16,7 +16,7 @@ level: Experienced
 Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predict open rates, optimal send times, and probable churn based on historical engagement metrics.
 
 >[!CAUTION]
->This capability is not available out of the box as part of the product. The implementation requires Adobe Consulting to be engaged. Please reach out to your Adobe representative to find out more.
+>This capability is not available out of the box as part of the product. The implementation requires Adobe Consulting to be engaged. To find out more, please reach out to your Adobe representative. 
 
 [!UICONTROL Predictive send time optimization] predicts which is the best send time for each recipient profile for email opens or clicks. For each recipient profile, the scores indicate the best send time for each weekday and which weekday is the best to send for best results.
 
@@ -32,4 +32,4 @@ Tutorials:
   
 Documentation:
 
-* [Optimizing design and delivery with AI-powered emails](https://docs.adobe.com/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimizing design and delivery with AI-powered emails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

@@ -1,7 +1,7 @@
 ---
 title: Configure Microsoft® Dynamics 365 for the integration with Campaign Standard
 description: Learn how to configure Microsoft® Dynamics 365 for use in the Dynamics and Campaign Standard integration.
-feature: Microsoft Dynamics 365 Connector
+feature: Microsoft CRM Integration
 kt: 2927
 doc-type: feature video
 role: Admin
