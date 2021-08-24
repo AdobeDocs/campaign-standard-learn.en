@@ -11,9 +11,9 @@ exl-id: d2d50689-9153-4074-a046-0701bb6017cf
 role: User
 level: Beginner
 ---
-# Create a multilingual push notification [!UICONTROL push notification]
+# Create a multilingual push notification
 
-Learn how to create a multilingual [!UICONTROL push notifications] in Adobe Campaign Standard.
+Learn how to create a multilingual push notification in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
@@ -21,8 +21,8 @@ Learn how to create a multilingual [!UICONTROL push notifications] in Adobe Camp
 
 Documentation:
 
-* [About Push Notifications](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparing and sending a push notification](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [About Push Notifications](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Preparing and sending a push notification](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 Tutorials:
 

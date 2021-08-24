@@ -30,11 +30,11 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 <tr>
   <td>
     <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
-      <img alt="Delegating subdomains to Adobe Campaign (video)" src="./assets/31390.jpg"/>
+      <img alt="Delegate subdomains to Adobe Campaign (video)" src="./assets/31390.jpg"/>
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Delegating subdomains to Adobe Campaign (video)</strong>
+    <strong>Delegate subdomains to Adobe Campaign (video)</strong>
     </a>
     </div>
     <p>
@@ -60,7 +60,7 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Connecting to a SFTP Server</strong>
+    <strong>Connecting to an SFTP Server</strong>
     </a>
     </div>
     <p>
@@ -72,4 +72,4 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 
 ## Additional resources
 
-* [Control Panel Help Center](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Control Panel Help Center](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)

@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 ---
 # Target users based on their [!DNL Campaign] profile 
 
-You can target known mobile app users (those who have logged into the app with PII) with messages personalized with CRM profile attributes available in Adobe Campaign Standard. This template is most useful to support cross-channel orchestration use cases, where you have already targeted users on other channels like Email or Push and based on their response, you want to engage them with an [!UICONTROL In-App] message.
+You can target users who have logged into the app with PII (known mobile app users) with personalized messages, using  CRM profile attributes available in Adobe Campaign Standard. This template supports cross-channel orchestration use cases, where you have already targeted customers on other channels, like Email or Push, based on their response, and you want to engage these customers again with an in-app message.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
@@ -21,5 +21,5 @@ You can target known mobile app users (those who have logged into the app with P
 
 ## Additional resources
 
-* [Preparing and sending an In-App message (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [Customizing an In-App message (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [Preparing and sending an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [Customizing an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

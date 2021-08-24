@@ -8,7 +8,7 @@ index: yes
 # Adobe Campaign Control Panel Tutorials {#control-panel}
 
 + [Control Panel Overview](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Getting started with the Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Get started with the Control Panel](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP management {#sftp-management}
     + [Monitoring server capacity](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
     + [Adding an IP range to the allow list](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -22,9 +22,9 @@ index: yes
 + Instance settings {#instance-settings}
    + GPG key management {#gpg-key-management}
      + [GPG key management - overview](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-     + [Generating and installing GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+     + [Generate and install GPG keys for data encryption](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Using a GPG key to encrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Decrypting data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Decrypt data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Performance monitoring {#performance-monitoring}
     + [Monitoring databases](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Troubleshooting the Control Panel](/help/control-panel-tutorials/trouble-shooting.md)

@@ -15,7 +15,7 @@ level: Beginner
 
 Learn how to create a [!UICONTROL push notification] in Adobe Campaign Standard (ACS):
 
-Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android mobile devices. You have two options:
+Adobe Campaign allows you to send personalized and segmented [!UICONTROL push notifications] to iOS and Android™ mobile devices. You have two options:
 
 * **[!UICONTROL Send push notification to Campaign profiles]**: Allows you to target the Adobe Campaign CRM profiles who have subscribed to your mobile application and have opted in to receive [!UICONTROL push notifications]. You can insert personalization fields into your [!UICONTROL push notification], such as the recipient's first name.
 
@@ -29,8 +29,8 @@ The video describes how to send a [!DNL push notification to app subscribers].
 
 Documentation:
 
-* [About Push Notifications](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparing and sending a push notification](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
+* [About Push Notifications](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
+* [Preparing and sending a push notification](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
 Tutorials:
 

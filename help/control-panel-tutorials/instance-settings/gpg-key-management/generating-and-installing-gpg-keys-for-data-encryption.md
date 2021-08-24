@@ -1,6 +1,6 @@
 ---
-title: Generating and installing GPG keys for data encryption
-description: Control Panel allows you to encrypt data coming out from your Adobe Campaign instance. Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data.
+title: Generate and install GPG keys for data encryption
+description: Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data.
 feature: Control Panel
 audience: administrator
 kt: 5188
@@ -10,13 +10,13 @@ activity: use
 team: PM
 exl-id: ff5a2d83-d38c-47d2-a3ae-e07d8cab13eb
 ---
-# Generating and installing GPG keys for data encryption
+# Generate and install GPG keys for data encryption
 
-Control Panel allows you to encrypt data coming out from your Adobe Campaign instance. Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data.
+Learn how to generate and install a public/private key pair on a specified Campaign instance for the encryption of outbound data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
 
 ## Additional resources
 
 * [GPG key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

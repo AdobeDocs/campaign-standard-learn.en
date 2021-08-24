@@ -1,6 +1,6 @@
 ---
 title: Adding SSL certificates
-description: Adobe Campaign Control Panel allows you to add SSL certificates to secure your subdomains.
+description:  Learn how to add SSL certificates to secure your subdomains.
 feature: Control Panel
 audience: administrator
 kt: 4219
@@ -10,11 +10,11 @@ activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 ---
-# Adding SSL certificates
+# Add SSL certificates
 
-[!UICONTROL Adobe Campaign Control Panel] allows you to add SSL certificates to secure your subdomains.
+Learn how to add SSL certificates to secure your subdomains.
 
-## Accessing [!UICONTROL Control Panel] Subdomain Management
+## Access [!UICONTROL Control Panel] Subdomain Management
 
 To access the Subdomain Management in [!UICONTROL Control Panel], go to:
 
@@ -29,7 +29,7 @@ Adding SSL certificates requires three steps:
 
 ### Step 1: Generate [!UICONTROL Certificate Signing Requests]
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. It needs to be generated for the instance and the subdomains you are planning to secure.
+A [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of an SSL certificate. It must be generated for the instance and the subdomains you are planning to secure.
 
 The video below describes how to generate a [!UICONTROL Certificate Signing Request] in [!UICONTROL Control Panel].
 
@@ -43,7 +43,7 @@ After obtaining the CSR, purchase the SSL certificate from a certificate authori
 
 ### Step 3: Install SSL Certificates
 
-After you have obtained the SSL certificate it must be installed for the subdomains you are planning to secure.
+After you have obtained the SSL certificate, it must be installed for the subdomains you are planning to secure.
 
 The video below explains how to install SSL certificates in [!UICONTROL Control Panel].  
 
@@ -54,4 +54,4 @@ The video below explains how to install SSL certificates in [!UICONTROL Control 
 ## Additional resources
 
 * [Full subdomain delegation (video)](./subdomain-delegation.md)
-* [Subdomains and certificates - Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Subdomains and certificates - Documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)

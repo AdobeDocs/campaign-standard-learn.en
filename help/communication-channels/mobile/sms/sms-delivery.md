@@ -1,6 +1,6 @@
 ---
-title: Create a SMS delivery
-description: Learn  how to create a SMS delivery.
+title: Create an SMS delivery
+description: Learn how to create an SMS delivery.
 feature: SMS
 kt: 1819
 thumbnail: 25265.jpg
@@ -11,14 +11,14 @@ exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
 role: User
 level: Beginner
 ---
-# Create a SMS delivery{#creating-a-sms-delivery}
+# Create an SMS delivery{#creating-a-sms-delivery}
 
-This video explains how to create a SMS delivery in Adobe Campaign Standard. You can also configure the sending of SMS in a workflow using the SMS delivery activity.
+Learn how to create an SMS delivery in Adobe Campaign Standard. You can also configure the sending of SMS in a workflow using the SMS delivery activity.
 
-The SMS delivery activity is generally used to automate sending of SMS. The configuration of this activity is the same as the configuration of the one time delivery described in the video.
+The SMS delivery activity is used to automate sending of SMS. The configuration of this activity is the same as the configuration of the one time delivery described in the video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12)
 
 ## Additional resources
 
-* [SMS Delivery](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/channel-activities/sms-delivery.html#configuration)
+* [SMS Delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/sms-delivery.html?lang=en)

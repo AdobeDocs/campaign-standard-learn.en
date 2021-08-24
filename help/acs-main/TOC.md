@@ -33,18 +33,18 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Manage services and subscriptions](/help/managing-processes-and-data/services-and-subscriptions.md)
   + Audience Destinations (BETA){#audience-destinations}
     + [Overview](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-    + [Create a new audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+    + [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
     + [Activate Adobe Experience Platform audiences in a workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
     + [Change the targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
-    + [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+    + [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
     + [Add a control group to a delivery](/help/communication-channels/email/control-groups.md)
     + [Create a multilingual email or SMS delivery](/help/communication-channels/create-multilingual-deliveries.md)
-    + [Convert an existing email, SMS delivery or template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
+    + [Convert an existing email, SMS delivery, or delivery template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
     + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
@@ -53,11 +53,11 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
       + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
   + Mobile {#mobile}
     + SMS{#sms}
-      + [Create a SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)
+      + [Create an SMS delivery](/help/communication-channels/mobile/sms/sms-delivery.md)
     + Push Notifications {#push}
       + [Create a Push Notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-      + [Tutorial: Getting Started with Push Notifications for Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+      + [Tutorial: Getting Started with Push Notifications for Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
     + In-App Messages {#in-app}
       + [Introduction to In-App messages](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -99,7 +99,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
     + [Configure Launch for triggers](/help/integrations/configure-launch-for-triggers.md)
     + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
-    + [Configure transactional messages using realtime event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+    + [Configure transactional messages using real-time event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
   + [Configure Microsoft® Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrate {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
@@ -111,7 +111,7 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
     + [Map Experience Events](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
     + [Map seed table data](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
     + [Modify the data mapping](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-    + [Check the status of a data ingestion jobs](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+    + [Check the status of a data ingestion job](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
   + Typology Rules{#typology-rules}
     + Fatigue Management{#fatigue-management}
       + [Create Fatigue Rules](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)

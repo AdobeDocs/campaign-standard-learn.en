@@ -43,7 +43,7 @@ The following tutorials describe the key steps to perform a data mapping between
 2. [Mapping Experience Events](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mapping Seed Table Data](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifying the Data Mapping](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Checking the status of a data ingestion jobs](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Check the status of a data ingestion jobs](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Additional resources
 

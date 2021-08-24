@@ -1,5 +1,5 @@
 ---
-title: Using a GPG key to encrypt data
+title: Use a GPG key to encrypt data
 description: Learn how to export data using a GPG key installed on Control Panel.
 feature: Control Panel
 audience: administrator
@@ -10,7 +10,7 @@ activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
 ---
-# Using a GPG key to encrypt data 
+# Use a GPG key to encrypt data 
 
 Learn how to export data using a GPG key installed on Control Panel.
 
@@ -19,4 +19,4 @@ Learn how to export data using a GPG key installed on Control Panel.
 ## Additional resources
 
 * [GPG key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

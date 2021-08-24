@@ -1,5 +1,5 @@
 ---
-title: Checking the status of a data ingestion job
+title: Check the status of a data ingestion job
 description: Learn how to check the status and modify the data mapping.
 People Core Service Integration
 audience: administrator
@@ -10,7 +10,7 @@ activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 ---
-# Checking the status of a data ingestion job 
+# Check the status of a data ingestion job 
 
 >[!NOTE]
 >

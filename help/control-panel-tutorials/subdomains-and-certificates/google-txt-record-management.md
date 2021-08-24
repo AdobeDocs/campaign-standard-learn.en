@@ -19,4 +19,4 @@ The video below describes how you can add [!DNL Google] TXT site verification re
 
 ## Additional resources
 
-* [Documentation](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/managing-txt-records.html)
+* [Documentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/managing-txt-records.html?lang=en)

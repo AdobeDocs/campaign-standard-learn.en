@@ -13,13 +13,13 @@ level: Experienced
 ---
 # Configure [!UICONTROL product listings] in transactional emails
 
-You can configure a re-targeting email that has a list of products, that are unknown when designing the email. These products can be added from the payload at run time. For example, you can automatically send a cart abandonment email listing all the products, that were in the user's cart before they abandoned it, with an image, price, and link to each product.
+You can configure a retargeting email that has a list of products, that are unknown when designing the email. These products can be added from the payload at run time. For example, you can automatically send a cart abandonment email listing all the products, that were in the user's cart before they abandoned it, with an image, price, and link to each product.
 
 The following videos explain the steps that are required to configure [!UICONTROL product listings] in [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->This feature is currently referred to as Loop within the videos.
+>This feature is referred to as Loop in the videos.
 
 ## Step 1 - Create an event and publish it
 
@@ -35,5 +35,5 @@ The following videos explain the steps that are required to configure [!UICONTRO
 
 ## Additional resources
 
-* [Using Product Listings in a transactional message (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [Defining Data Collections (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [Using Product Listings in a transactional message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [Defining Data Collections (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)
