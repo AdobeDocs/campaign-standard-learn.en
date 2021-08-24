@@ -1,7 +1,7 @@
 ---
 title: Mapping custom resources
 description: Learn how to map different data types between Adobe Campaign Standard (ACS) and Adobe Experience Platform (AEP)
-People Core Service Integration
+feature: People Core Service Integration
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
@@ -23,4 +23,4 @@ Learn how to map different data types between Adobe Campaign Standard and Adobe 
 
 ## Additional resources
 
-* [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
+* [Mapping definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
