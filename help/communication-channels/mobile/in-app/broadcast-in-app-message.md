@@ -24,7 +24,7 @@ Learn how to configure and use the broadcast template to target all users of you
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Create a Broadcast In-App message using an SDKV5 Mobile property]*
+*Create a Broadcast In-App message using an SDKV5 Mobile property*
 
 ## Additional resources
 
