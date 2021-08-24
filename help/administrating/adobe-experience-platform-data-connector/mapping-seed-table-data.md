@@ -1,7 +1,7 @@
 ---
 title: Mapping seed table data
 description: Learn how to map you seed data and how to test profiles with the Adobe Experience Platform (AEP)
-People Core Service Integration
+feature: People Core Service Integration
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
@@ -23,5 +23,5 @@ Learn how to map seed data and test profiles with the Adobe Experience Platform.
 
 ## Additional resources
 
-* [Mapping definition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
-* [Mapping activation](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
+* [Mapping definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)
+* [Mapping activation](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

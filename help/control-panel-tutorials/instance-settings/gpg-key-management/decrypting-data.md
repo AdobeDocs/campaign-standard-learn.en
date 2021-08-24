@@ -20,4 +20,4 @@ Learn how to create a public key and import and install it on a Campaign instanc
 ## Additional resources
 
 * [GPG key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://docs.adobe.com/content/help/en/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
