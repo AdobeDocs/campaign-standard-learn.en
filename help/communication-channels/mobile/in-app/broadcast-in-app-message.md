@@ -1,6 +1,6 @@
 ---
 title: Broadcast an In-App message
-description: Learn how the configure and use the broadcast template to target all users of your mobile app.
+description: Learn how to configure and use the broadcast template to target all users of your mobile app.
 feature: In App
 kt: 2497
 thumbnail: 26199.jpg
@@ -13,20 +13,20 @@ level: Beginner, Intermediate
 ---
 # Broadcast an In-App message
 
-You can broadcast an In-App message, targeting all users of a mobile app whether or not Adobe Campaign has their profile information. 
+You can broadcast an In-App message, targeting all users of a mobile app whether Adobe Campaign has their profile information. 
 
 Some of the pertinent use cases in this category are:
 
-* Send a mobile app tutorials to first time app launchers or
+* Send a mobile app tutorial to first-time app launchers or
 * Announcements for new feature releases
 
-Learn how the configure and use the broadcast template to target all users of your mobile app.
+Learn how to configure and use the broadcast template to target all users of your mobile app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
-*Create a Broadcast In-App message using a [!UICONTROL SDKV5 Mobile property]*
+*Create a Broadcast In-App message using an SDKV5 Mobile property]*
 
 ## Additional resources
 
-* [Preparing and sending an In-App message (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html)
-* [Customizing an In-App message (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html)
+* [Preparing and sending an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
+* [Customizing an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

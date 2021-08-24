@@ -13,7 +13,7 @@ level: Beginner, Intermediate
 ---
 # Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
 
-You can review your [!UICONTROL In-App] delivery-related data either in the delivery summary by adding [!UICONTROL In-App-specific metrics. Alternatively, you can use the out of the box [In-App Report](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+You can review your [!UICONTROL In-App] delivery-related data either in the delivery summary by adding [!UICONTROL In-App]-specific metrics. Alternatively, you can use the out of the box [In-App Report](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
