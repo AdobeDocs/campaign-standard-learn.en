@@ -7,7 +7,7 @@ user-guide-description: This tutorial will walk you through the steps involved i
 
 + [Introduction](./introduction.md)
 + [Step 1 - Create Android App](./create-android-app.md)
-+ [Step 2 - Integrating the Mobile SDK](./integrating-with-mobile-sdk.md)
++ [Step 2 - Integrate the Mobile SDK](./integrating-with-mobile-sdk.md)
 + [Step 3 - Register Mobile Extensions](./register-mobile-extensions.md)
 + [Step 4 - Set Push Identifier](./set-push-identifier.md)
 + [Step 5 - Propagate Notifications](./propagate-notification.md)
