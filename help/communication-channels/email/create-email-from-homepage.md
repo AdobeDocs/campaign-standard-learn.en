@@ -1,7 +1,6 @@
 ---
 title: Create an email delivery
-description: Learn  how to create an email delivery from the homepage. 
-landing-page-description: This video explains how to create an email delivery from the homepage.
+description: Learn how to create an email delivery from the homepage. 
 feature: Email 
 kt: 1807
 thumbnail: 23721.jpg
@@ -14,14 +13,13 @@ level: Beginner
 ---
 # Create an email delivery {#create-an-email-delivery}
 
-You can create a stand alone email delivery from a campaign, from the Adobe Campaign home page, or in the [!UICONTROL Marketing Activity] list. You can also create and send single-send and recurring emails from a workflow.
+You can create a stand-alone email delivery from a campaign, from the Adobe Campaign home page, or in the [!UICONTROL Marketing Activity] list. You can also create and send single-send and recurring emails from a workflow.
 
-This video explains how to create a stand alone email delivery from the homepage.
+Learn how to create an email delivery from the homepage. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
 
 ## Additional resources
 
 * [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-* [Creating an email (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Delivery best practices](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
+* [Creating an email (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)

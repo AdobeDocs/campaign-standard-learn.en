@@ -13,7 +13,7 @@ level: Beginner
 ---
 # Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-The [!UICONTROL Direct Mail] channel allows you to extract a segmented list of recipients to be sent to an agency or uploaded to a SFTP server.
+The [!UICONTROL Direct Mail] channel allows you to extract a segmented list of recipients to be sent to an agency or uploaded to an SFTP server.
 
 This video explains how to configure a [!UICONTROL Direct Mail] delivery and what settings are required in order to be able to add a profile to a [!UICONTROL Direct Mail] delivery.
 
@@ -27,4 +27,4 @@ The channel is available from the home page and within the workflow view to defi
 
 ## Additional resources
 
-* [About Direct Mail](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+* [About Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)

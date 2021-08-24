@@ -1,5 +1,5 @@
 ---
-title: Profile Substitution - Testing email messages using targeted profiles
+title: Profile Substitution - Test email messages using targeted profiles
 description: Learn how you can test your email messages using the profile substitution feature.
 feature: Email  
 kt: 4667
@@ -11,7 +11,7 @@ exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
 ---
-# [!UICONTROL Profile Substitution] - Testing email messages using targeted profiles
+# [!UICONTROL Profile Substitution] - Test email messages using targeted profiles
 
 This video explains how you can test your email messages using [!UICONTROL Profile Substitution]. It covers the following use case:
 
@@ -19,7 +19,7 @@ Suppose you want to send a personalized email newsletter. Before sending the new
 
 >[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
 
-For more information, see the detailed [product documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html).
+For more information, see the detailed [product documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 
 >[!IMPORTANT]
 >
@@ -27,6 +27,6 @@ For more information, see the detailed [product documentation](https://docs.adob
 
 ## Additional resources
 
-* [Testing messages using target profiles (documentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testing messages using target profiles (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Designing an A/B test email](/help/communication-channels/email/a-b-testing.md)
-* [Send a test, prepare and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)

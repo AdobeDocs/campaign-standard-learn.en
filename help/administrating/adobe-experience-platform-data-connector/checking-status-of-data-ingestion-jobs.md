@@ -14,7 +14,7 @@ exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice.
+>This capability is in beta, and subject to frequent updates and modifications without notice.
 >
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 

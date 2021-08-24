@@ -1,6 +1,6 @@
 ---
 title: A/B testing
-description: "Learn how to configure and send an A/B test, which tests  the subject line. "
+description: Learn how to configure and send an A/B test, which tests  the subject line.
 feature: A/B Testing  
 kt: 3907
 thumbnail: 18480.jpg
@@ -15,10 +15,10 @@ level: Beginner
 
 The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define two to three email variants. Each variant is sent to population samples in order to determine which has the best result. Once determined, the winning variant is then sent to the remaining population. You can choose to vary the email's content, subject, or sender.
 
-This video explains how to configure and send an A/B test, testing the subject line.
+Learn how to configure and send an A/B test, which tests  the subject line.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
 ## Additional resources
 
-* [Designing an A/B test email](https://docs.adobe.com/help/en/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)
+* [Designing an A/B test email](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)

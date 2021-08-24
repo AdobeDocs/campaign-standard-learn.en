@@ -1,6 +1,6 @@
 ---
-title: "Broadcast an In-App message "
-description: Learn how the Broadcast  template allows you to target all users of your mobile app.
+title: Broadcast an In-App message
+description: Learn how the configure and use the broadcast template to target all users of your mobile app.
 feature: In App
 kt: 2497
 thumbnail: 26199.jpg
@@ -13,12 +13,14 @@ level: Beginner, Intermediate
 ---
 # Broadcast an In-App message
 
-You can broadcast an In-App message, targeting all users of a mobile app whether or not Adobe Campaign has their profile information. To broadcast a message you need to use the **[!UICONTROL Target all users of a mobile app template]** when configuring the In-App message.
+You can broadcast an In-App message, targeting all users of a mobile app whether or not Adobe Campaign has their profile information. 
 
 Some of the pertinent use cases in this category are:
 
 * Send a mobile app tutorials to first time app launchers or
 * Announcements for new feature releases
+
+Learn how the configure and use the broadcast template to target all users of your mobile app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
