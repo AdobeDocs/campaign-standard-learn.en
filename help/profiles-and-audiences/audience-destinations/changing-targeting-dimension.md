@@ -15,7 +15,7 @@ level: Beginner, Intermediate, Experienced
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
+>This capability is in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
 >
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
@@ -27,11 +27,11 @@ This video explains how to change the targeting dimension of a delivery for a [!
 
 Documentation:
 
-* [About the Audience Destinations service](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
-* [How to create a target mapping](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
-* [How to create a delivery template](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
+* [Audience Destinations (BETA) (documentation)](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
+* [How to create a target mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
+* [How to create a delivery template](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
 
 Video Resources:
 
-* [Create a new audience  using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Activate Adobe Experience Platform audiences in a marketing workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

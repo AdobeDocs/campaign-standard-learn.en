@@ -1,6 +1,6 @@
 ---
 title: Audience Destinations - Overview
-description: Learn how to leverage Adobe Experience Platform (AEP) Audiences in Adobe Campaign Standard (ACS)
+description: Learn how to use Adobe Experience Platform Audiences in Adobe Campaign Standard
 feature: People Core Service Integration
 kt: 2755
 thumbnail: 
@@ -13,23 +13,23 @@ level: Beginner, Intermediate, Experienced
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 
-## Leverage Adobe Experience Platform Audiences in Adobe Campaign Standard
+## Use Adobe Experience Platform Audiences in Adobe Campaign Standard
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
+>This capability is in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
 >
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 >
 
-This tutorial explains how to leverage centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
+This tutorial explains how to use the centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
 
-The [!UICONTROL Audiences] module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+The [!UICONTROL Audiences] module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
-The following video tutorials will guide you through the different steps:
+The following video tutorials guides you through the different steps:
 
-1. [Create a new audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Activate AEP audiences in a marketing workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+1. [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Activate Experience Platform audiences in a marketing workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Change the targeting dimension of a delivery for a Platform Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Additional resources

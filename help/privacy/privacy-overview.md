@@ -1,7 +1,7 @@
 ---
 title: Privacy requests with the Adobe Campaign Standard (ACS) - Overview
 description: The tutorial explains how the create privacy requests via the Adobe Campaign Standard interface.
-feature: Privacy
+feature: Privacy Tools
 kt: 1480
 doc-type: feature video
 activity: use

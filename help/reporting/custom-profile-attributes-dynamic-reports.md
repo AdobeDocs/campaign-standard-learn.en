@@ -1,5 +1,5 @@
 ---
-title: Creating a report based custom profile attributes
+title: Creating a report-based custom profile attributes
 description: Learn how to create a report based on custom profile attributes.
 feature: Reporting
 kt: 1444
@@ -13,7 +13,7 @@ level: Beginner
 ---
 # Creating a report based on custom profile attributes
 
-Adobe Campaign's [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data by including custom profile attributes. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons.
+Adobe Campaign's [!UICONTROL Dynamic Reports] is a flexible freeform environment where you can explore data by including custom profile attributes. It allows you to combine dimensions, metrics, and time range in any combination, with unlimited breakdowns and comparisons.
 
 This video explains how to create a report based on custom profile attributes.
 
@@ -21,4 +21,4 @@ This video explains how to create a report based on custom profile attributes.
 
 ## Additional resources
 
-* [About reporting](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [About reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

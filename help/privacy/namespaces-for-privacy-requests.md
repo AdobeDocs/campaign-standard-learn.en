@@ -1,7 +1,7 @@
 ---
 title: Creating namespaces for privacy requests in Adobe Campaign Standard (ACS)
 description: Learn to create namespaces for privacy requests.
-feature: Privacy
+feature: Privacy Tools
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video

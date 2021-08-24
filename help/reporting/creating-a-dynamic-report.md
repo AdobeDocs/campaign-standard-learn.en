@@ -1,5 +1,5 @@
 ---
-title: Creating a Dynamic Report
+title: Create a Dynamic Report
 description: Learn how to create a report.
 feature: Reporting
 kt: 2037
@@ -11,9 +11,9 @@ exl-id: a2b93d8b-0d3e-4525-a334-a01701d34d85
 role: User
 level: Beginner
 ---
-# Creating a [!UICONTROL Dynamic Report]{#creating-a-report}
+# Create a [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign's [!UICONTROL Dynamic Reports] are designed to be a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics and time range in any combination, with unlimited breakdowns and comparisons.
+Adobe Campaign's [!UICONTROL Dynamic Reports] are a flexible freeform environment where you can explore data. It allows you to combine dimensions, metrics, and time range in any combination, with unlimited breakdowns and comparisons.
 
 Learn how to create a report.
 
@@ -21,4 +21,4 @@ Learn how to create a report.
 
 ## Additional resources
 
-* [About reporting](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [About reporting](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)

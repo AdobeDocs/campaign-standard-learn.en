@@ -1,7 +1,7 @@
 ---
 title: Creating custom resources - Introduction
 description: This multipart tutorial walks you through the required steps to create and link custom resources.
-feature: Custom Resources 
+feature: Data Model 
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video

@@ -15,7 +15,7 @@ level: Beginner, Intermediate, Experienced
 
 >[!NOTE]
 >
->This capability is currently in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
+>This capability is in beta, and subject to frequent updates and modifications without notice. [!UICONTROL Audience Destinations] is based on Adobe Experience Platform and requires a specific configuration.
 >
 >Please reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 
@@ -29,9 +29,9 @@ This video explains how to activate the [!UICONTROL Data Services Query Audience
 
 Documentation:
 
-* [Activating Experience Platform audiences within Campaign - Documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Ingest Adobe Experience Platform audiences into Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Video Resource:
+Video Resources:
 
-* [Creating a new audience in Adobe Campaign Standard using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Changing the targeting dimension of a delivery for a Platform Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Create an audience in Adobe Campaign Standard using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Change the targeting dimension of a delivery for a Platform Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
