@@ -1,6 +1,6 @@
 ---
 title: Explore Hierarchy and Marketing Activities
-description: "Understand the hierarchy of programs and campaigns, how to create a marketing program, and how to create a marketing campaign within a program."
+description: Understand the hierarchy of programs and campaigns, how to create a marketing program, and how to create a marketing campaign within a program.
 feature: Campaigns, Programs
 kt: 3892
 thumbnail: 18465.jpg
@@ -19,4 +19,4 @@ This video explains the hierarchy of programs and campaigns, how to create a mar
 
 ## Additional resources
 
-* [Programs and campaigns](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/programs-and-campaigns.htm)
+* [Marketing Activities](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)
