@@ -121,4 +121,4 @@ getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/u
   + [Modify custom resources for privacy requests](/help/privacy/custom-resources-for-privacy-requests.md)
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Execute privacy requests](/help/privacy/execute-privacy-requests.md)
-+ [Troubleshoot Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Troubleshoot Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
