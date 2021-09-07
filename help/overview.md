@@ -13,14 +13,10 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Troubleshoot](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
     
-    *Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.*
-
-* **[Using triggers for transactional messages](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
-
-    *Learn how to configure and use triggers for transactional messaging.*
-
+    *Find help troubleshooting known issues with Adobe Campaign Standard.*
+    
 ## Staff Picks
 
 <table>
