@@ -12,8 +12,8 @@ level: Experienced
 # Troubleshoot Adobe Campaign Standard {#troubleshooting}
 
 + [Overview](/help/troubleshoot/overview.md)
-+ [Troubleshoot a technical error while viewing a profile](/help/troubleshoot/technical-error-while-viewing-profile.md)
-+ [Error while connecting to Experience Manager](/help/troubleshoot/error-aem-connection.md)
-+ [Steps to change public resource URL from http to https](/help/troubleshoot/change-public-resource-url.md)
-+ [How to get a decrypted event ID and delivery ID](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
++ [Technical error while viewing a profile](/help/troubleshoot/technical-error-while-viewing-profile.md)
++ [Error connecting to Experience Manager](/help/troubleshoot/error-aem-connection.md)
++ [Change public resource URL from http to https](/help/troubleshoot/change-public-resource-url.md)
++ [Get a decrypted event ID and delivery ID](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
   
