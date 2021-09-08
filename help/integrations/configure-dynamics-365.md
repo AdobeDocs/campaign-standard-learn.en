@@ -8,8 +8,8 @@ role: Admin
 level: Experienced
 activity: setup
 team: PM
+exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 ---
-
 # Configure [!DNL Microsoft® Dynamics 365] for the integration with Campaign Standard {#configure-microsoft-dynamics-365}
 
 Learn how to configure Microsoft® Dynamics 365 for use in the Dynamics and Campaign Standard integration.
