@@ -4,7 +4,7 @@ description: Learn how to troubleshoot a technical error that occurs when viewin
 feature: Profiles
 role: Admin
 level: Beginner, Experienced
-topic: Development
+type: Troubleshooting
 kt: 8385
 exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
 ---

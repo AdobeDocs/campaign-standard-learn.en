@@ -3,6 +3,7 @@ title: Troubleshoot Adobe Campaign - Overview
 description: Find help on how to troubleshoot issues with Adobe Campaign.
 sub-product: Campaign Classic
 feature: Overview
+type: Troubleshooting
 role: User, Admin, Developer
 level: Beginner, Experienced
 exl-id: e098f0b1-16ec-408c-89f6-634b7bde97f1
