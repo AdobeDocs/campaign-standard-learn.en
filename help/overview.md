@@ -15,7 +15,7 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 * **[Troubleshoot](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
     
-    *Find help troubleshooting known issues with Adobe Campaign Standard.*
+ *Find help troubleshooting known issues with Adobe Campaign Standard.*
     
 ## Staff Picks
 
