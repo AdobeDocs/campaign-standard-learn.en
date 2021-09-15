@@ -1,7 +1,7 @@
 ---
 cloud: Experience Cloud
 product: campaign
-solution: Campaign Standard
+solution: Campaign, Campaign Standard
 version: Standard
 type: Tutorial
 feature-set: Campaign
