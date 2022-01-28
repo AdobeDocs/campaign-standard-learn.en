@@ -17,6 +17,3 @@ This video explains the hierarchy of programs and campaigns, how to create a mar
 
 >[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
 
-## Additional resources
-
-* [Marketing Activities](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activities.html?lang=en)

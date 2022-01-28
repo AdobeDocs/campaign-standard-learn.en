@@ -16,8 +16,3 @@ level: Beginner
 This video gives you an overview over the Adobe Campaign Standard user interface and explains how to navigate to key features and core functionality.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
-
-## Additional resources
-
-* [About the interface](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
-* [Interface description](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
