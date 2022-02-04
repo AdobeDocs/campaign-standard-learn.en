@@ -44,8 +44,4 @@ The following tutorials describe the key steps to perform a data mapping between
 3. [Mapping Seed Table Data](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Modifying the Data Mapping](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
 5. [Check the status of a data ingestion job](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-
-## Additional resources
-
-* [About Adobe Experience Platform Data Connector](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-about-data-connector.html)
   

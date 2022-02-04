@@ -1,7 +1,7 @@
 ---
 title: Create and send emails via a workflow
 description: Learn how to create and send emails via a workflow.
-feature: Email
+feature: Email,Workflows
 kt: 4319
 thumbnail: 31465.jpg
 role: User
@@ -18,8 +18,3 @@ You can create an email from a campaign, from the Adobe Campaign home page, or i
 Learn how to create and send emails via a workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31465?quality=12)
-
-## Additional resources
-
-* [Create an email delivery](/help/communication-channels/email/create-email-from-homepage.md)
-* [Creating an email (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)

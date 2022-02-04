@@ -14,7 +14,3 @@ exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 This video explains you how to define and manage the permissions assigned to different users in Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24671?quality=12)
-
-## Additional resources
-
-* [About access management](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/users-and-security/about-access-management.html?lang=en)

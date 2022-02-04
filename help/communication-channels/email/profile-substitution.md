@@ -1,7 +1,7 @@
 ---
 title: Profile Substitution - Test email messages using targeted profiles
 description: Learn how you can test your email messages using the profile substitution feature.
-feature: Email  
+feature: Personalization, Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -25,8 +25,4 @@ For more information, see the detailed [product documentation](https://experienc
 >
 >This feature allows you to send profile personal information to external email addresses. Keep in mind that executing privacy requests (GDPR & CCPA) in Campaign Standard WILL NOT execute that request externally.
 
-## Additional resources
-
-* [Testing messages using target profiles (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
-* [Designing an A/B test email](/help/communication-channels/email/a-b-testing.md)
-* [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+See the product documentation to learn more about [testing messages using target profiles](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)

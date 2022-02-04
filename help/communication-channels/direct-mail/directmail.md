@@ -25,6 +25,4 @@ The channel is available from the home page and within the workflow view to defi
 
 ![Workflow Image](/help/assets/direct_mail_examplewf.png)
 
-## Additional resources
-
-* [About Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
+See the product documentation to learn more [about Direct Mail](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/direct-mail/about-direct-mail.html)
