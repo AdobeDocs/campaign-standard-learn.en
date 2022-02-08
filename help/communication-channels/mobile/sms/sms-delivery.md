@@ -18,7 +18,3 @@ Learn how to create an SMS delivery in Adobe Campaign Standard. You can also con
 The SMS delivery activity is used to automate sending of SMS. The configuration of this activity is the same as the configuration of the one time delivery described in the video.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12)
-
-## Additional resources
-
-* [SMS Delivery](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/sms-delivery.html?lang=en)
