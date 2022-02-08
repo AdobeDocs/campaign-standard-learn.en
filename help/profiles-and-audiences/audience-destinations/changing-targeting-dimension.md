@@ -22,16 +22,3 @@ level: Beginner, Intermediate, Experienced
 This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
-
-## Additional resources
-
-Documentation:
-
-* [Audience Destinations (BETA) (documentation)](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/profiles-and-audiences/audience-destinations/audience-destinations-overview.html?lang=en)
-* [How to create a target mapping](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html?lang=en)
-* [How to create a delivery template](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html?lang=en)
-
-Video Resources:
-
-* [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Activate Adobe Experience Platform audiences in a marketing workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
