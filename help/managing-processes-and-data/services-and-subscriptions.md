@@ -26,9 +26,3 @@ Each service comes with:
 This video shows you how to create a service and manage its subscriptions.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
-
-## Additional resources
-
-* [Subscription services](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en)
-* [Creating a service](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html?lang=en)
-* [Monitoring subscriptions](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html?lang=en)
