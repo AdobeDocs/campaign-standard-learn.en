@@ -23,13 +23,3 @@ Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predic
 Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.
 
 >[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12)
-
-## Additional resources
-
-Tutorials:
-
-* [Predictive send time optimization](predictive-send-time-optimization.md)
-  
-Documentation:
-
-* [Optimizing design and delivery with AI-powered emails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
