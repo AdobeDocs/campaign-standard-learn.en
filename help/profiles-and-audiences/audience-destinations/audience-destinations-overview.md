@@ -31,7 +31,3 @@ The following video tutorials guides you through the different steps:
 1. [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Activate Experience Platform audiences in a marketing workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Change the targeting dimension of a delivery for a Platform Audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
-## Additional resources
-
-*[Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
