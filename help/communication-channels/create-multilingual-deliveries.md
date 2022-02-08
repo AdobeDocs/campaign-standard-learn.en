@@ -18,7 +18,3 @@ Adobe Campaign allows you to simplify the operational complexities of sending mu
 This video explains how to create a multi-lingual delivery based on a template on the example of an email newsletter. The approach demonstrated in the videos applies to both email, and SMS deliveries.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23252?quality=12)
-
-## Additional resources
-
-* [Creating a multilingual email (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html)
