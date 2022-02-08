@@ -25,4 +25,4 @@ This video explains how to activate the [!UICONTROL Data Services Query Audience
 
 *Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 
-See the product documentation on how to [Ingest Adobe Experience Platform audiences into Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
+See the product documentation on how to [ingest Adobe Experience Platform audiences into Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
