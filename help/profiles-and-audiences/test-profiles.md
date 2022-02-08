@@ -18,7 +18,3 @@ The test profiles allow you to target additional recipients who do not match the
 This video explains how to create test profiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
-
-## Additional resources
-
-* [Managing test profiles (Documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-profiles/managing-test-profiles.html)
