@@ -24,14 +24,3 @@ Adobe Campaign allows you to send personalized and segmented [!UICONTROL push no
 The video describes how to send a [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
-
-## Additional resources
-
-Documentation:
-
-* [About Push Notifications](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparing and sending a push notification](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-Tutorials:
-
-* [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
