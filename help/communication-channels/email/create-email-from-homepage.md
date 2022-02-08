@@ -18,8 +18,3 @@ You can create a stand-alone email delivery from a campaign, from the Adobe Camp
 Learn how to create an email delivery from the homepage. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12)
-
-## Additional resources
-
-* [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-* [Creating an email (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-an-email.html?lang=en)
