@@ -19,4 +19,4 @@ Learn how to configure and send an A/B test, which tests  the subject line.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12)
 
-Also see the product documentation on [Designing an A/B test email](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html)
+See the product documentation on [Designing an A/B test email](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) for more details.
