@@ -29,14 +29,9 @@ The video below explains how a new audience is created using [!UICONTROL Unified
 
 *How to create an audience in Adobe Campaign Standard using the Unified Segment Builder (min 02:47)*
 
-## Additional resources
-
-Documentation:
+For more information see the product documentation:
 
 * [Real-Time Customer Profile Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Segment Builder user guide](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Video Resources:
 
-* [Activate Experience Platform audiences in a workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Change the targeting dimension of a delivery for a Platform audience](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
