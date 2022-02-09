@@ -18,6 +18,4 @@ Learn how to monitor your instances' database usage with the [!DNL Control Pane
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
-## Additional resources
-
-* [Database monitoring (guide)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
+See the product documentation for more information about [Database monitoring](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)

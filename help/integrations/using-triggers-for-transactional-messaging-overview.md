@@ -21,7 +21,3 @@ Before you can use a trigger in a transactional message, you need to:
 3. [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
 Once the trigger has been configured, it allows you to [configure transactional messages using realtime event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md).
-
-## Additional resources
-
-* [About Adobe Experience Cloud Trigger](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en#integrating-with-adobe-cloud)

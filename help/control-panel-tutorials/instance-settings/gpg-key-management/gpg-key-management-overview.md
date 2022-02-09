@@ -4,6 +4,7 @@ description: Learn how to generate and install a public/private key pair on a sp
 feature: Control Panel
 audience: administrator
 team: TM
+recommendations: noDisplay
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 ---
 # GPG key management - Overview
@@ -16,6 +17,4 @@ Learn how to generate and install a public/private key pair on a specified Campa
 * [Using a GPG key to encrypt data](./using-a-gpg-key-to-encrypt-data.md)
 * [Decrypt data](./decrypting-data.md)
 
-## Additional resources
-
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
+See the product documentation for more information on [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)

@@ -6,6 +6,7 @@ kt: 1480
 doc-type: feature video
 activity: use
 team: TM
+recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 ---
 # Privacy requests with the Adobe Campaign Standard User Interface

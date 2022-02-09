@@ -6,6 +6,7 @@ kt: 4825
 doc-type: tutorial
 activity: use
 team: TM
+recommendations: noDisplay
 exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 ---
 # Step 1 - Creating [!DNL Android] App and configuring to use [!DNL Firebase Cloud Messaging]

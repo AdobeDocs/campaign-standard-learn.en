@@ -18,8 +18,3 @@ You can target users who have logged into the app with PII (known mobile app use
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
 *Create an In-App message using a [!UICONTROL Campaign profile template]*
-
-## Additional resources
-
-* [Preparing and sending an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Customizing an In-App message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

@@ -7,6 +7,7 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
+recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 ---
 # Creating custom resources​ - Introduction

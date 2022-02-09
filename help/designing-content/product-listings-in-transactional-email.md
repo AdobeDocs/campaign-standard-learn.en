@@ -32,8 +32,3 @@ The following videos explain the steps that are required to configure [!UICONTRO
 ## Step 3 - Test the transactional message
 
 >[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12)
-
-## Additional resources
-
-* [Using Product Listings in a transactional message (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
-* [Defining Data Collections (documentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)

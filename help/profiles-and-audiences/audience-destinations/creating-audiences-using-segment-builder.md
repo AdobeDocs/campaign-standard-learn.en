@@ -28,10 +28,3 @@ The video below explains how a new audience is created using [!UICONTROL Unified
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *How to create an audience in Adobe Campaign Standard using the Unified Segment Builder (min 02:47)*
-
-For more information see the product documentation:
-
-* [Real-Time Customer Profile Overview](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [Segment Builder user guide](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

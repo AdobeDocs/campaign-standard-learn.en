@@ -17,7 +17,4 @@ Learn how to manually create privacy requests and track their evolution in the A
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-## Additional resources
-
-* [General Privacy guidelines for Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html)
-* [CCPA for ACS](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=en#privacy-requests)
+Refer to the product documentation for more information on the [General Privacy guidelines for Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html).

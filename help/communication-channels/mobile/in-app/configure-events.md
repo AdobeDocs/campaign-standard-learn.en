@@ -55,7 +55,3 @@ The following three categories are supported depending on what is instrumented i
 >[!NOTE]
 >
 >[!UICONTROL Analytics events] require an Adobe Analytics license. Once you have the [[!DNL Analytics] extension configured](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) and have added [Analytics to your App](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), these events become available in the [!UICONTROL In-App] configuration in ACS.
-
-## Additional resources
-
-* [Enable Lifecycle Metrics (documentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

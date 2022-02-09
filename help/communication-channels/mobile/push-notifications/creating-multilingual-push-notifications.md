@@ -16,14 +16,3 @@ level: Beginner
 Learn how to create a multilingual push notification in Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
-
-## Additional resources
-
-Documentation:
-
-* [About Push Notifications](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Preparing and sending a push notification](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-Tutorials:
-
-* [Create a push notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)

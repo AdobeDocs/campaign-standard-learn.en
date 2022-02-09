@@ -17,7 +17,3 @@ To connect to a server, through a client application or an API, you must set up 
 Learn how to add an IP address range to the allowlist.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
-
-## Additional resources
-
-[Documentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=en)

@@ -62,13 +62,3 @@ This template is useful to support cross-channel orchestration use cases, where 
 ## Report on your In-App deliveries {#report}
 
 Once your delivery has been published, you can [report on your In-App delivery](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## Additional resources
-
-* [In-App Report](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [Set up a mobile property](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Configuring a mobile application using Adobe Experience Platform SDKs](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [Preparing and sending an In-App message](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Customizing an In-App message](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [Sending an In-App message within a workflow](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [Enable Lifecycle Metrics](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

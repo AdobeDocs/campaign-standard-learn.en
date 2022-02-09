@@ -17,6 +17,4 @@ Learn how to configure the Campaign Standard and Analytics integration. Understa
 
 >[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12)
 
-## Additional Resources
-
-[Understanding and Creating Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics)
+Refer to the Adobe Analytics product guide for more information on [Understanding and Creating Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics).

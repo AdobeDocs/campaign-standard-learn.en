@@ -6,6 +6,7 @@ exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
+recommendations: noDisplay, noCatalog
 ---
 # Adobe Campaign Standard -  Overview
 

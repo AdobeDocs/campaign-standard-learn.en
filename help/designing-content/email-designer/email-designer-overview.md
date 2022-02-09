@@ -9,6 +9,7 @@ activity: use
 team: TM
 exl-id: 17813cda-50a1-406b-b4ae-9267671a6910
 role: User, Developer
+recommendations: noDisplay
 level: Beginner
 ---
 # [!UICONTROL Email Designer] overview

@@ -6,6 +6,7 @@ kt: 2938
 doc-type: article
 activity: use
 team: PM
+recommendations: noDisplay
 exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 ---
 # Trouble shooting the [!UICONTROL Control Panel]

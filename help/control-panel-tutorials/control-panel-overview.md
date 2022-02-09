@@ -8,6 +8,7 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
+recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 ---
 # Control Panel -  Overview

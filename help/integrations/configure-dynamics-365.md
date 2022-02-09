@@ -16,6 +16,4 @@ Learn how to configure Microsoft® Dynamics 365 for use in the Dynamics and Camp
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
-## Additional resources
-
-[Get Started with Microsoft® Dynamics 365 integration](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html)
+Refer to the product documentation for more information on how [Get Started with Microsoft® Dynamics 365 integration](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html)

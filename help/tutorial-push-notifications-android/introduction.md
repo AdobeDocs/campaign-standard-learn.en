@@ -6,6 +6,7 @@ kt: 3846
 doc-type: tutorial
 activity: use
 team: TM
+recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 ---
 # Getting started with Push Notifications with Android™ App

@@ -16,8 +16,3 @@ Control Panel allows you to decrypt external data coming into your Adobe Campaig
 Learn how to create a public key and import and install it on a Campaign instance for the decryption of inbound data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
-
-## Additional resources
-
-* [GPG key management (videos)](./gpg-key-management-overview.md)
-* [GPG key management (documentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)

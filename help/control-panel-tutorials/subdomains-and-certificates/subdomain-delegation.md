@@ -27,8 +27,3 @@ To access the [!UICONTROL Subdomain Management] in [!UICONTROL Control Panel], g
 Learn how to delegate a subdomain to Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-
-## Additional resources
-
-* [Adding SSL certificated](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
-* [Subdomains and certificates](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)
