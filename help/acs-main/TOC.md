@@ -6,7 +6,7 @@ breadcrumb-title: Campaign Standard Tutorials
 
 # Adobe Campaign Standard Tutorials {#tutorials}
 
-+ [Overview](/help/overview.md)
++ [Adobe Campaign Standard](/help/overview.md)
 + Get started {#getting-started}
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)

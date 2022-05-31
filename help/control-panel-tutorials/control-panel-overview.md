@@ -25,6 +25,8 @@ The Adobe Campaign Control Panel allows Adobe Campaign administrators to monitor
 
     *Learn how to set up and submit a subdomain using CNAMEs in the Control Panel.*
 
+See the [Release Notes](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html) for more information on the latest product releases.
+
 ## Staff Picks
 
 <table>
