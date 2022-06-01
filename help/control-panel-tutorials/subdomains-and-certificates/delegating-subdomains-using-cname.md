@@ -9,11 +9,7 @@ activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
 ---
-# Delegate subdomains using CNAME (beta)
-
->[!IMPORTANT]
->
-> The use of CNAMEs for subdomain delegation is in beta and subject to frequent updates and modifications without notice.
+# Delegate subdomains using CNAME
 
 To be able to start sending emails or publish landing pages with Adobe Campaign, you must set up a new subdomain.
 
