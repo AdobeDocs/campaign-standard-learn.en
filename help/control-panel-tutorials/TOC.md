@@ -15,8 +15,8 @@ index: yes
     + [Generating a SSH Key](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)  
     + [Connecting to a SFTP Server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdomains and certificates {#subdomains-and-certificates}
-    + [Full subdomain delegation (beta)](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
-    + [Delegating Subdomains using CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
+    + [Full subdomain delegation](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
+    + [Delegating Subdomains using CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)
     + [Adding SSL Certificates](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
     + [Google TXT record management](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instance settings {#instance-settings}
