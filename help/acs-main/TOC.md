@@ -41,7 +41,6 @@ breadcrumb-title: Campaign Standard Tutorials
     + [Convert an existing email, SMS delivery, or delivery template to multilingual](/help/communication-channels/covert-into-multilingual-deliveries.md)
     + [Review an email delivery and reports](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
     + [Create and send emails via a workflow](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-    + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
     + AI powered emails {#journey-ai}
       + [Predictive send time optimization](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
       + [Predictive engagement scoring](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -116,3 +115,6 @@ breadcrumb-title: Campaign Standard Tutorials
   + [Manually creating and tracking privacy requests](/help/privacy/create-and-track-privacy-requests.md)
   + [Execute privacy requests](/help/privacy/execute-privacy-requests.md)
 + [Troubleshoot Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ Strategy & thought leadership{#strategy}
+  + [Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+  + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
