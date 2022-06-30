@@ -14,13 +14,14 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Maximize your email ROI & learn best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
-  *Learn how to maximize email ROI and learn best practices for subscriber re-engagement. Discover the strategies to improve your subscribers engagement and understand the overall success of your email campaigns.*
+* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html){target="_blank"}**
   
-* **[Troubleshoot](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=en)**
-    
- *Find help troubleshooting known issues with Adobe Campaign Standard.*
-    
+  *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
+
+* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-throughputs-and-latency.html){target="_blank"}**
+
+  *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
+
 ## Staff Picks
 
 <table>
