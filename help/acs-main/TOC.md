@@ -98,7 +98,6 @@ breadcrumb-title: Campaign Standard Tutorials
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Create Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
   + [Control Panel](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target="_blank"}
-  + [Set up SMS for Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
     + [Understanding the Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
     + [Map custom resources](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
