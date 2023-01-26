@@ -50,7 +50,7 @@ breadcrumb-title: Campaign Standard Tutorials
     + Push Notifications {#push}
       + [Create a Push Notification](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-      + [Tutorial: Getting Started with Push Notifications for Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+      + [Tutorial: Getting Started with Push Notifications for Android&trade;](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
     + In-App Messages {#in-app}
       + [Introduction to In-App messages](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -93,7 +93,7 @@ breadcrumb-title: Campaign Standard Tutorials
     + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
     + [Configure transactional messages using real-time event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-  + [Configure Microsoft® Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
+  + [Configure Microsoft&reg; Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrate {#administrating}
   + [Managing user access rights](/help/administrating/managing-user-access-rights.md)
   + [Create Custom Resources](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
@@ -116,5 +116,6 @@ breadcrumb-title: Campaign Standard Tutorials
   + [Execute privacy requests](/help/privacy/execute-privacy-requests.md)
 + [Troubleshoot Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
 + Strategy & thought leadership{#strategy}
+  + [10 Best Practices to Adobe Campaign Success for Marketers](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
   + [Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
   + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
