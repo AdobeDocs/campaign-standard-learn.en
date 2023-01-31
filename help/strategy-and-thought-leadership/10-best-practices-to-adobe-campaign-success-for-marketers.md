@@ -4,7 +4,8 @@ description: Learn the ten best practices to help Adobe Campaign practitioners u
 doc-type: article
 role: User
 level: Beginner
-kt: 11772
+kt: 11779
+last-update-author: 20230130
 ---
 
 # Ten best practices for [!DNL Adobe Campaign] success for marketers
