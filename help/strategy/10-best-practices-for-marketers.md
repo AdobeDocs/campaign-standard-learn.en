@@ -5,7 +5,7 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11779
-last-update-author: 20230130
+last-substantial-update: 20230131
 ---
 
 # Ten best practices for [!DNL Adobe Campaign] success for marketers
@@ -22,14 +22,6 @@ The first step to ensure your success with [!DNL Adobe Campaign] is to understan
 Adobe Campaign is a flexible tool allowing you to execute and orchestrate communications in many ways. [Half of customers engage with three to five channels during each buying journey](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). So, understanding and having a plan for how to use these channels upfront are critical to realizing the full potential of your platform and resonating with your customers. 
 
 ## 2. Document and understand your customer data  
-
-<!-- Sandra, this paragraph opens as if it's going to discuss the advantages of segmentation, but it left me hanging. So, I hit the Hubspot link and dug into it a bit, and it seemed to me like the juicy information is this quote: 
-
-"A study by Hubspot revealed that 30% of the marketers who participated in it used market segmentation techniques to improve email engagement. Segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns.
-
-"Email marketers who segmented their audience before campaigning stated that the revenue generated increased to up to 760%. Targeted and segmented emails bring in 58% of all revenue." [Link](https://www.notifyvisitors.com/blog/segmentation-statistics/) 
-
-I added that second paragraph about 760% revenue and broke up the rest of the section, touched it up to help make the Hubspot example a little more impactful. If I altered this section too much, you can reject the change. It didn't have mistakes, but it felt like it didn't tie the segment example strongly enough to the point about data design. See if this is okay...-->
 
 According to a [Hubspot study](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen), segmented campaigns had 14.31% higher open rates and saw 101% more clicks than non-segmented campaigns. Email marketers who segmented their audience before campaigning stated that the revenue generated increased up to 760%. 
 
