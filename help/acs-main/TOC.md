@@ -34,6 +34,7 @@ breadcrumb-title: Campaign Standard Tutorials
   + Email {#email}
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
     + [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+    + [Send a proof](/help/communication-channels/email/send-a-proof.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
     + [Test email messages using targeted profiles](/help/communication-channels/email/profile-substitution.md)
     + [Add a control group to a delivery](/help/communication-channels/email/control-groups.md)
