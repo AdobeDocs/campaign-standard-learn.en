@@ -14,13 +14,17 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 ## What's new
 
-* **[Control Panel - Monitor workflows](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=en){target="_blank"}**
+* **[Schedule messages](/help/communication-channels/email/schedule-messages.md)**
   
-  *Learn how to monitor your workflows' temporary storage usage and where to configure workflow settings to avoid database or workflow issues on your instance.*
+  *Learn how to schedule an email delivery.*
 
-* **[Control Panel - Monitor throughputs and latency](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=en){target="_blank"}**
+* **[Send a proof](/help/communication-channels/email/send-a-proof.md)**
+  
+  *Learn how to test an email message before sending it to the final recipients.*
 
-  *Learn how to monitor delivery throughputs and transactional message latencies of your campaign instance.*
+* **[Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)**
+
+  *Learn about ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.*
 
 ## Staff Picks
 
