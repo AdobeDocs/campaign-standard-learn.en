@@ -12,6 +12,8 @@ recommendations: noDisplay, noCatalog
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 
+<div id="whats-new-section">
+
 ## What's new
 
 * **[Schedule messages](/help/communication-channels/email/schedule-messages.md)**
@@ -25,6 +27,11 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 * **[Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)**
 
   *Learn about ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.*
+
+</div>
+
+
+<div id="events-section">
 
 ## Staff Picks
 
@@ -72,6 +79,4 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 </tr>
 </table>
 
-## Additional resources
-
-* [Documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+ </div>
