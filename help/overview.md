@@ -30,8 +30,14 @@ Adobe Campaign provides a platform for designing cross-channel customer experien
 
 </div>
 
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 
-<div id="events-section">
+<div id="staff-picks-section">
 
 ## Staff Picks
 
