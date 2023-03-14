@@ -119,5 +119,5 @@ breadcrumb-title: Campaign Standard Tutorials
 + [Troubleshoot Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
 + Strategy & thought leadership{#strategy}
   + [Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)
-  + [Maximize email ROI and best practices for subscriber re-engagement](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+  + [Maximize email ROI and best practices for subscriber re-engagement](/help/strategy/campaign-maximize-email-best-practices.md)
   + [Deliverability best practice guide](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
