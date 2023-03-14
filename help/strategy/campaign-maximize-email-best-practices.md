@@ -98,7 +98,7 @@ The status of your subscribers (active, lapsed, or inactive) depends on how ofte
 
 Here is a simple table to help you during your audit:
 
-![subscriber status](assets/subscriber-status.png)
+![subscriber status](/help/assets/subscriber-status.png)
 
 For example, if you are emailing customers daily, they should have interacted with one of those emails within the last month to be considered active and engaged. Conversely, if you are emailing customers monthly and they have not interacted within 9-14 months, they can be considered inactive.
 
