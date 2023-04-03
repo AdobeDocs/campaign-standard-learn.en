@@ -15,4 +15,4 @@ exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 
 Learn how to configure triggers in the Experience cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)

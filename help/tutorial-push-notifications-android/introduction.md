@@ -18,7 +18,7 @@ This tutorial walks you through the steps involved in sending push notifications
 ## Prerequisites
 
 * You should have launch property configured with Adobe Campaign Standard Extension. Please follow the online help listed below.
-  * [Video Tutorial](https://video.tv.adobe.com/v/26224?quality=12)
+  * [Video Tutorial](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
   * [Documentation](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=en)
 
 * Make sure the corresponding property's status in Adobe Campaign Standard is set to configured.

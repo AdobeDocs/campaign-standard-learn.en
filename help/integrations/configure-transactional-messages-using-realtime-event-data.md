@@ -15,4 +15,4 @@ exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
 
 Learn how to configure transactional messages using realtime event data coming from triggers.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)

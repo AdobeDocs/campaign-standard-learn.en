@@ -18,7 +18,7 @@ The [!UICONTROL Email Designer] enables the quick and effortless visual creation
 
 This video gives you a high level overview over the functionality and usage of the Adobe Campaign Standard [!UICONTROL Email Designer].
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&learn=on)
 
 ## Tutorials
 

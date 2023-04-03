@@ -24,7 +24,7 @@ Example use cases include:
 
 This video demonstrates the use of the [!UICONTROL External API activity].
   
-  >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
+  >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12&learn=on)
   
   *[!UICONTROL External API activity] (06:48 min)*
 

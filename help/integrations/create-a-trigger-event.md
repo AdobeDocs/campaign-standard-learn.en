@@ -15,4 +15,4 @@ exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
 
 Learn how to create a trigger event in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)

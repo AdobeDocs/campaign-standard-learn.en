@@ -13,4 +13,4 @@ exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
 
 In Adobe Campaign privacy requests are executed by workflows. This video describes which workflows access and delete requests and what happens when they are executed.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&learn=on)

@@ -13,7 +13,7 @@ exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 
 When setting up Adobe Campaign Standard to handle privacy requests, you must ensure that any custom data that is linked to a profile is deleted when the profile is deleted. This video explains how to modify your custom resources in order to fulfill this requirement.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&learn=on)
 
 >[!NOTE]
 >

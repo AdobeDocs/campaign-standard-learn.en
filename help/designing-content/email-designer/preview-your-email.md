@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how to preview your email and the anti-spam analysis.
 
->[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)

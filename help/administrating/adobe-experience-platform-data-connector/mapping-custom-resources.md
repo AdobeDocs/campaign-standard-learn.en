@@ -19,6 +19,6 @@ exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 
 Learn how to map different data types between Adobe Campaign Standard and Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27231?quality=12&learn=on)
 
 See the product documentation for more information on the [Mapping definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html)

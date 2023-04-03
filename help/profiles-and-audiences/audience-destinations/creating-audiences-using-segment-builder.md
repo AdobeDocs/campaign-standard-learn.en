@@ -25,6 +25,6 @@ You can access the [!UICONTROL Unified Segment Builder] directly within Adobe Ca
 
 The video below explains how a new audience is created using [!UICONTROL Unified Segment Builder] within Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
 
 *How to create an audience in Adobe Campaign Standard using the Unified Segment Builder (min 02:47)*

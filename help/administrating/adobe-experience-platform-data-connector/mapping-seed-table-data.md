@@ -19,6 +19,6 @@ exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 
 Learn how to map seed data and test profiles with the Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27264?quality=12&learn=on)
 
 See the product documentation for more information on the [mapping definition](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-definition.html) and the [mapping activation](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/data-connector/aep-mapping-activation.html)

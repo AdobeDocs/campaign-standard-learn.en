@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains the general functionality of the [!UICONTROL Email Designer] and how to design an email from scratch.
 
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12&learn=on)

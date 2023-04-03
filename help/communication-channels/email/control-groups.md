@@ -19,4 +19,4 @@ Working with [!UICONTROL control groups] allows you measure the impact your [!UI
 
 Learn how to define a [!UICONTROL control group] for your [!UICONTROL delivery] and how to extract the profiles assigned to the [!UICONTROL control group] after the [!UICONTROL delivery] has been sent.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&learn=on)

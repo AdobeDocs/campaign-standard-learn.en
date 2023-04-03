@@ -17,7 +17,7 @@ Adobe Campaign's [!UICONTROL Dynamic Reports] is a flexible freeform environment
 
 This video explains how to create a report based on custom profile attributes.
 
->[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28204?quality=12&learn=on)
 
 ## Additional resources
 

@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains the concept and how to create profiles and audiences.
 
->[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18464?quality=12&learn=on)

@@ -15,4 +15,4 @@ level: Beginner
 
 Learn how to create a multilingual push notification in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12&learn=on)

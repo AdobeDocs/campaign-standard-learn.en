@@ -15,6 +15,6 @@ level: Beginner, Intermediate
 
 You can target users who have logged into the app with PII (known mobile app users) with personalized messages, using  CRM profile attributes available in Adobe Campaign Standard. This template supports cross-channel orchestration use cases, where you have already targeted customers on other channels, like Email or Push, based on their response, and you want to engage these customers again with an in-app message.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 
 *Create an In-App message using a [!UICONTROL Campaign profile template]*

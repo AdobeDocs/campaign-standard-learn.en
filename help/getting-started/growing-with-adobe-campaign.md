@@ -15,4 +15,4 @@ level: Beginner
 
 This video highlights the potential next steps to true cross channel orchestration.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29460?quality=12&learn=on)

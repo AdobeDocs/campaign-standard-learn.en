@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how to review a personalized email delivery and explores different reports that are available in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

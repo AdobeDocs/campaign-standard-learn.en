@@ -22,6 +22,6 @@ Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predic
 
 Understand which workflows are required to sync data between Adobe Campaign and the Journey AI model. Learn how to view send time scores at individual profile level and how to execute email deliveries using a send time formula.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
 
 See the product documentation to learn more about this [optimizing design and delivery with AI-powered emails](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

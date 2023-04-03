@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains which Adobe Campaign Standard features can support your mobile marketing strategy.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12&learn=on)

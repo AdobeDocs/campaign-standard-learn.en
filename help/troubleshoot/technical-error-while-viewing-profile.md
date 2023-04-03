@@ -12,4 +12,4 @@ exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
 
 Learn how to troubleshoot a technical error that occurs when viewing a profile in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335890?quality=12&learn=on)

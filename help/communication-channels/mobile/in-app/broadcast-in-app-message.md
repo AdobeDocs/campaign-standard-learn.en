@@ -22,6 +22,6 @@ Some of the pertinent use cases in this category are:
 
 Learn how to configure and use the broadcast template to target all users of your mobile app.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
 
 *Create a Broadcast In-App message using an SDKV5 Mobile property*

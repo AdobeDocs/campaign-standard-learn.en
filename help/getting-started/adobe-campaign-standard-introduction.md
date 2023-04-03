@@ -15,4 +15,4 @@ level: Beginner
 
 This video introduces [!UICONTROL Adobe Campaign Standard] and gives a high level overview over the key functionality.
 
->[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12&learn=on)

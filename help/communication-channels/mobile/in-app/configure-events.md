@@ -28,7 +28,7 @@ Examples are:
 
 You must configure these [!UICONTROL events] in Adobe Campaign. The following video describes how to do this.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 

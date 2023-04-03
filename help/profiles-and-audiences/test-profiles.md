@@ -17,4 +17,4 @@ The test profiles allow you to target additional recipients who do not match the
 
 This video explains how to create test profiles
 
->[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24094?quality=12&learn=on)

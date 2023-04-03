@@ -18,4 +18,4 @@ The [!UICONTROL External Signal activity] is used to organize and orchestrate di
 
 Learn how to configure [!UICONTROL External Signal activity] to receive parameters** from an external system, customize a workflow with external parameters, and configure an end activity to call a workflow with the external parameters
 
->[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27249/?quality=12&learn=on)

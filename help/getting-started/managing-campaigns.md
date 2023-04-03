@@ -15,4 +15,4 @@ level: Beginner
 
 Adobe Campaign allows you to plan marketing campaigns in which you can create and manage different types of activities: emails, SMS messages, [!UICONTROL push notifications], workflows, landing pages. These campaigns and their contents can be gathered into programs. This video will show you how to create and manage campaigns in Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24672?quality=12&learn=on)

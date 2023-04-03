@@ -17,7 +17,7 @@ level: Beginner
 
 Learn how to retrieve your creative content from a website and load it into the Email Designer.
 
->[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12&learn=on)
 
 ## Making existing HTML content compatible {#making-existing-html-content-compatible}
 

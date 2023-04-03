@@ -17,7 +17,7 @@ This video explains how you can test your email messages using [!UICONTROL Profi
 
 Suppose you want to send a personalized email newsletter. Before sending the newsletter, however, a colleague wants to review it and has asked for proofs. You can use the [!UICONTROL Profile Substitution] features to send a proof, as it allows you to send an exact representation of the message that the targeted profile receives.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 For more information, see the detailed [product documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en).
 

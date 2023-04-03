@@ -15,7 +15,7 @@ level: Beginner
 
 This video gives you an overview over the reporting capabilities of Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12&learn=on)
 
 ## Additional resources
 

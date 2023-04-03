@@ -20,7 +20,7 @@ exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 
 Learn how to check the status of a data ingestion job and if the data has been ingested from Adobe Campaign Standard into Adobe Experience Platform.
 
->[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27268?quality=12&learn=on)
 
 ## Additional resources
 

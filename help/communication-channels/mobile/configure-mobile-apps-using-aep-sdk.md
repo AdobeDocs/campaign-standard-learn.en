@@ -18,7 +18,7 @@ To send In-App messages or [!UICONTROL push notifications] using the Mobile SDK 
 
 The videos below demonstrates the required steps to configure a mobile app in Experience Platform Launch:
 
->[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12&learn=on)
 
 >[!NOTE]
 >

@@ -14,4 +14,4 @@ exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 
 Learn how to configure configure Launch and add the required properties to your website in order to test you configuration.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)

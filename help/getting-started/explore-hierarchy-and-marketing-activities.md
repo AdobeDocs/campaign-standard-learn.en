@@ -15,5 +15,5 @@ level: Beginner
 
 This video explains the hierarchy of programs and campaigns, how to create a marketing program, and how to create a marketing campaign within a program.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18465?quality=12&learn=on)
 

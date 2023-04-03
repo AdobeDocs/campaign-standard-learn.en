@@ -17,7 +17,7 @@ The [!UICONTROL Direct Mail] channel allows you to extract a segmented list of r
 
 This video explains how to configure a [!UICONTROL Direct Mail] delivery and what settings are required in order to be able to add a profile to a [!UICONTROL Direct Mail] delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## Create a [!UICONTROL Direct Mail] within a workflow
 

@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how to create a profile and how to add it to an audience.
 
->[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25277/?quality=12&learn=on)

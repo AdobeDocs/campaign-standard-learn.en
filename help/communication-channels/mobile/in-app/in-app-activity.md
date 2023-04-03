@@ -17,4 +17,4 @@ The In-App delivery activity is used to automate sending an [!UICONTROL In-App] 
 
 Learn how to use the In-App delivery activity to automate sending an In-App message to a target audience calculated in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12&learn=on)

@@ -12,4 +12,4 @@ last-substantial-update: 2023-03-10
 
 Learn how to schedule an email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415919/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415919/?quality=12&learn=on)
