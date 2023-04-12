@@ -6,8 +6,8 @@ feature: Email
 role: User
 level: Beginner
 last-substantial-update: 2023-03-10
+exl-id: 0de2ff46-8663-462f-9e98-2e274bf13bda
 ---
-
 # Schedule messages
 
 Learn how to schedule an email delivery.
