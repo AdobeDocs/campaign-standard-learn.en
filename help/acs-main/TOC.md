@@ -82,11 +82,12 @@ breadcrumb-title: Campaign Standard Tutorials
     + [External Signal Activity](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
   + Data Management Activities {#data-management-activities}
     + [External API Activity](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Report {#reporting}
++ Report and monitor {#reporting}
   + [Exploring Reports](/help/getting-started/exploring-reports.md)
   + [Create a Dynamic Report](/help/reporting/creating-a-dynamic-report.md)
   + [Create a report based on custom profile attributes](/help/reporting/custom-profile-attributes-dynamic-reports.md)
   + [Create a report based on workflow segments](/help/reporting/report-on-workflow-segments.md)
+  + [Monitor a delivery](/help/reporting/monitor-a-delivery.md)
 + Integrate with other solutions {#integrations}
   + [Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
   + Use triggers for transactional messages {#triggers}
