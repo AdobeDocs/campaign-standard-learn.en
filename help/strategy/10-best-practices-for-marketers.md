@@ -1,13 +1,13 @@
 ---
-title: Ten best practices for Adobe Campaign success for marketers 
-description: Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.  
+title: Ten best practices for Adobe Campaign success for marketers
+description: Learn the ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.
 doc-type: article
 role: User
 level: Beginner
 kt: 11779
 last-substantial-update: 2023-01-31
+exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
 ---
-
 # Ten best practices for [!DNL Adobe Campaign] success for marketers
 
 Christian Klimczyk is a self-described "Adobe Nerd" with seven years of [!DNL Adobe Experience Cloud] expertise, mainly focused on [!DNL Adobe Campaign]. As an Adobe Platform Owner for a large CPG company, Christian and his team use [!DNL Campaign] for all consumer communications and interactions. They seamlessly coordinate and manage high-regulatory requirements and multi-channel consumer marketing campaigns across direct mail, email, and SMS/MMS.

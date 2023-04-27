@@ -8,6 +8,7 @@ activity: use
 role: User
 level: Beginner
 last-substantial-update: 2023-03-06
+exl-id: 97d499e4-8bb9-4c68-8dd1-80a7d9162626
 ---
 # Send a proof for an email delivery
 
