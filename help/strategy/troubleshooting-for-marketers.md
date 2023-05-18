@@ -15,7 +15,7 @@ thumbnail: KT-13256.jpeg
 
 By: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer 
 
-As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past 5 years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex and marketing and transactional campaigns with ACS. A few projects I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
+As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex and marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
 
 
 In my time using ACS, I've run into errors which can be time consuming and frustrating to solve. Knowing the most common errors can help with faster problem-solving and boost your productivity. Below are my troubleshooting tips to help you effectively resolve similar errors as they occur. 
@@ -49,7 +49,7 @@ Use the reconciliation activity as shown below:
 ![workflow with reconciliation activity](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution:**
-A common ID must exist from the loaded file with the recipient table. This common key will join the load file to the recipient table within the reconciliation activity. Emails may not be sent to records that do not exist in the recipient table which requires this reconciliation step within the workflow. In doing so, you would reconcile the incoming load file activity with an identifier like email ID from the profile. The "nms:recipient" schema refers to the profile table and reconciling the incoming records with profile makes it available during email preparation. 
+A common ID must exist from the loaded file with the recipient table. This common key joins the load file to the recipient table within the reconciliation activity. Emails may not be sent to records that do not exist in the recipient table which requires this reconciliation step within the workflow. In doing so, you would reconcile the incoming load file activity with an identifier like email ID from the profile. The `nms:recipient` schema refers to the profile table and reconciling the incoming records with profile makes it available during email preparation. 
 
 Refer to the screenshot for reconciliation activity as shown below. 
 
@@ -63,7 +63,7 @@ Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campai
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause:** 
-This issue occurs while using the "Exclusion" activity in ACS workflows. When performing exclusion based on the ID, when the Primary set and the excluded set don't have the same field names, this error will occur. 
+This issue occurs while using the **exclusion activity** in ACS workflows. The error occurs, when performing and exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
 
 
 ![Common Field Dataset Error](/help/assets/kt-13256/dataset-error.png)
@@ -87,17 +87,19 @@ OR
 
 **Cause:** 
 
-Failure points may occur in "Enrichment" activity. One of the most common is below. This happens when you manually edit an expression name in the activity. The image below shows the expression was modified from name to i__name. 
+Failure points may occur in an **enrichment activity**. One of the most common is displayed below. 
 
 ![Field Name Dropped Error](/help/assets/kt-13256/field-name-dropped-error.png)
 
+This happens when you manually edit an expression name in the activity. The image shows that the expression was modified from `name `to `i__name`. 
+
 **Solution:**
 
-You can resolve this in 3 ways: 
+You can resolve this error in three ways: 
 
 1. Change the name back to the expression that was originally present. 
 
-2. If you want to use a new name, change the values in the activities prior to "Enrichment Activity". 
+2. If you want to use a new name, change the values in the activities  the **enrichment activity**. 
 
 3. If you don't remember what has changed, your best bet would be to recreate the activity. 
 
@@ -107,9 +109,9 @@ You can resolve this in 3 ways:
 `XTK-170024 The temporary schema "temp:deliveryEmail1" is not defined in the current context.`
 
 **Cause:** 
-This is a common error in complicated workflows involving enrichment or other activity. This probably means some of the activity workflows are not correctly saved during multiple changes to the workflow. 
+This is a common error in complicated workflows involving enrichment or other activity. It probably means some of the activity workflows are not correctly saved during multiple changes to the workflow. 
 
-[Temporary Table Dropped Error ](/help/assets/kt-13256/temp-table-dropped-error.png)
+![Temporary Table Dropped Error ](/help/assets/kt-13256/temp-table-dropped-error.png)
 
 **Solution:**
-There are many ways this error can occur, so there is not a simple fix. If it is a simple workflow, then it would better to just reconfigure the activity. In a complicated workflow, it is better to copy the workflow activities to a new workflow, save, and rerun it.
+There are many ways that this error can occur, so there is not a simple fix. If it is a simple workflow, then it would better to reconfigure the activity. In a complicated workflow, it is better to copy the workflow activities to a new workflow, save, and rerun it.
