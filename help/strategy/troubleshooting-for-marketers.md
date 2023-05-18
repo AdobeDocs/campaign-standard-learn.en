@@ -74,9 +74,9 @@ There are two ways to resolve this error:
 
 1. Use the same field name in both the primary and excluded and use that field as ID 
 
-OR 
+    OR 
 
-2. Use the JOINS exclusion method to select the field based on which you want to exclude the records. 
+1. Use the JOINS exclusion method to select the field based on which you want to exclude the records. 
 
 ![Common Field Dataset Error - Solution ](/help/assets/kt-13256/dataset-error-solution.png)
 
