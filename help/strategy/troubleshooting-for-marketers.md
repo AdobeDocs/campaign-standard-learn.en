@@ -99,7 +99,7 @@ You can resolve this error in three ways:
 
 1. Change the name back to the expression that was originally present. 
 
-2. If you want to use a new name, change the values in the activities  the **enrichment activity**. 
+2. If you want to use a new name, change the values in the **enrichment activity**. 
 
 3. If you don't remember what has changed, your best bet would be to recreate the activity. 
 
