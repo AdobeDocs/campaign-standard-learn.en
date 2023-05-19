@@ -15,7 +15,7 @@ thumbnail: KT-13256.jpeg
 
 By: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer 
 
-As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex and marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
+As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
 
 
 In my time using ACS, I've run into errors which can be time consuming and frustrating to solve. Knowing the most common errors can help with faster problem-solving and boost your productivity. Below are my troubleshooting tips to help you effectively resolve similar errors as they occur. 
@@ -44,8 +44,6 @@ These types of errors appear in a workflow when you try to reconcile using field
 **Cause:** 
 This error appears when you are sending an email to an address, but the email or any other identifier is not reconciled with a profile. To send an email communication, the email or the identifier should be always linked to a profile.  
 
-Use the reconciliation activity as shown below:
-
 ![workflow with reconciliation activity](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution:**
@@ -63,7 +61,7 @@ Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campai
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause:** 
-This issue occurs while using the **exclusion activity** in ACS workflows. The error occurs, when performing and exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
+This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
 
 
 ![Common Field Dataset Error](/help/assets/kt-13256/dataset-error.png)
@@ -76,7 +74,7 @@ There are two ways to resolve this error:
 
     OR 
 
-1. Use the JOINS exclusion method to select the field based on which you want to exclude the records. 
+2. Use the JOINS exclusion method to select the field based on which you want to exclude the records. 
 
 ![Common Field Dataset Error - Solution ](/help/assets/kt-13256/dataset-error-solution.png)
 
