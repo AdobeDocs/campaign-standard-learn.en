@@ -89,6 +89,7 @@ breadcrumb-title: Campaign Standard Tutorials
   + [Create a report based on workflow segments](/help/reporting/report-on-workflow-segments.md)
   + [Monitor a delivery](/help/reporting/monitor-a-delivery.md)
 + Integrate with other solutions {#integrations}
+  + [Integrate Target with Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=en)
   + [Track the success of your deliveries in Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
   + Use triggers for transactional messages {#triggers}
     + [Overview](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
