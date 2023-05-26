@@ -9,8 +9,8 @@ doc-type: Article
 last-substantial-update: 2023-05-18
 jira: KT-13256
 thumbnail: KT-13256.jpeg
+exl-id: 040e2e14-1e97-4deb-991c-978e89cc6bf7
 ---
-
 # Troubleshooting for Marketers: 5 Common Workflow and Delivery Errors 
 
 By: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer 
