@@ -54,7 +54,6 @@ breadcrumb-title: Campaign Standard Tutorials
       + [Create a multilingual push notification](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
       + [Tutorial: Getting Started with Push Notifications for Android&trade;](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
     + In-App Messages {#in-app}
-      + [Introduction to In-App messages](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
       + [Configure Events](/help/communication-channels/mobile/in-app/configure-events.md)
       + [Broadcast an In-App message](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
       + [Target users based on their Campaign profile](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)

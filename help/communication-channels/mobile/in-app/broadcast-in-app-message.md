@@ -13,15 +13,6 @@ level: Beginner, Intermediate
 ---
 # Broadcast an In-App message
 
-You can broadcast an In-App message, targeting all users of a mobile app whether Adobe Campaign has their profile information. 
-
-Some of the pertinent use cases in this category are:
-
-* Send a mobile app tutorial to first-time app launchers or
-* Announcements for new feature releases
-
 Learn how to configure and use the broadcast template to target all users of your mobile app.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
-
-*Create a Broadcast In-App message using an SDKV5 Mobile property*

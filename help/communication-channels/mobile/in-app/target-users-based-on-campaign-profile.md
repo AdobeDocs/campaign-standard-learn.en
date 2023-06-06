@@ -13,8 +13,6 @@ level: Beginner, Intermediate
 ---
 # Target users based on their [!DNL Campaign] profile 
 
-You can target users who have logged into the app with PII (known mobile app users) with personalized messages, using  CRM profile attributes available in Adobe Campaign Standard. This template supports cross-channel orchestration use cases, where you have already targeted customers on other channels, like Email or Push, based on their response, and you want to engage these customers again with an in-app message.
+Learn how to target known mobile app users with messages personalized with CRM profile attributes..
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
-
-*Create an In-App message using a [!UICONTROL Campaign profile template]*
