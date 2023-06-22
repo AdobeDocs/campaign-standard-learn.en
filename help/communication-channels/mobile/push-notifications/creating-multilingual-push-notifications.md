@@ -2,7 +2,7 @@
 title: Create a multilingual push notification
 description: Learn how to create a multilingual push notification. 
 feature: Push
-kt: 1375
+jira: KT-1375
 thumbnail: 23304.jpg
 doc-type: feature video
 activity: use

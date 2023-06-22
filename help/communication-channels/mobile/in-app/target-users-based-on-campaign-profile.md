@@ -2,7 +2,7 @@
 title: Target users based on their Campaign profile
 description: Learn how to target known mobile app users with messages personalized with CRM profile attributes.
 feature: In App
-kt: 1796
+jira: KT-1796
 thumbnail: 26200.jpg
 doc-type: feature video
 activity: use

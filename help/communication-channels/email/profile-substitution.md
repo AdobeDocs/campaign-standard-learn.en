@@ -2,7 +2,7 @@
 title: Profile Substitution - Test email messages using targeted profiles
 description: Learn how you can test your email messages using the profile substitution feature.
 feature: Personalization, Email
-kt: 4667
+jira: KT-4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use

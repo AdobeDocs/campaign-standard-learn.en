@@ -2,7 +2,7 @@
 title: Working with existing content
 description: Learn how to retrieve your creative content from a website and load it into the Email Designer.
 feature: Email Design
-kt: 6295
+jira: KT-6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use

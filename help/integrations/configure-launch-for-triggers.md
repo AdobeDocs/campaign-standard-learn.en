@@ -2,7 +2,7 @@
 title: Configure Launch for triggers
 description: Learn how to configure configure Launch and add the required properties to your website in order to test you configuration.
 feature: Triggers
-kt: 7434
+jira: KT-7434
 thumbnail: 332908.jpg
 doc-type: feature video
 role: Admin

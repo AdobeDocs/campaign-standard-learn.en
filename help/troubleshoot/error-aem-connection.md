@@ -4,7 +4,7 @@ description: Learn how to resolve error 'GetAEMContentList' of service 'nms:deli
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8393
+jira: KT-8393
 exl-id: 85632ab3-3d07-4737-84e9-d265a769c37d
 ---
 # Error while connecting to Experience Manager

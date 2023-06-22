@@ -2,7 +2,7 @@
 title: Creating content using Adobe Dreamweaver
 description: Understand what is required to enable the Dreamweaver integration and how to create and edit content for Adobe Campaign Standard using Dreamweaver.
 feature: Email Design
-kt: 1420
+jira: KT-1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use

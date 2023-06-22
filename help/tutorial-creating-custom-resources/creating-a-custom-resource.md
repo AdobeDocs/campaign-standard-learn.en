@@ -2,7 +2,7 @@
 title: Creating a custom resource
 description: Learn how to create a custom resource called customers.
 feature: Data Model
-kt: 3000
+jira: KT-3000
 thumbnail: 27716.jpg
 doc-type: feature video
 activity: use

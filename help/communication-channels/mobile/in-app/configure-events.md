@@ -2,7 +2,7 @@
 title: Configure Events
 description: Understand which user initiated action triggers an in-app message and learn how to configure these events.
 feature: In App
-kt: 2548
+jira: KT-2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use

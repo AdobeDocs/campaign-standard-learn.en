@@ -2,7 +2,7 @@
 title: Configure a list
 description: Learn how you can change the displayed columns, the order, and the sort order of a list view in Adobe Campaign Standard.
 feature: Audiences
-kt: 1821
+jira: KT-1821
 thumbnail: 25288.jpg
 doc-type: feature video
 activity: use

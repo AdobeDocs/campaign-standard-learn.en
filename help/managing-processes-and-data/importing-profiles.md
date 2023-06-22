@@ -2,7 +2,7 @@
 title: Import profiles with a workflow
 description: Learn  how to import profile data using a workflow.
 feature: Data Management
-kt: 1818
+jira: KT-1818
 thumbnail: 24993.jpg
 doc-type: feature video
 activity: use

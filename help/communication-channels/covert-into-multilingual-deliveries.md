@@ -2,7 +2,7 @@
 title: Convert an existing email, SMS delivery, or delivery template to multilingual
 description: Learn how to convert an existing email, SMS delivery, or a delivery template to multilingual.
 feature: Email, SMS
-kt: 1703
+jira: KT-1703
 thumbnail: 23251.jpg
 doc-type: feature video
 activity: use

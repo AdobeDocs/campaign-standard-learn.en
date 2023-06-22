@@ -2,7 +2,7 @@
 title: Step 2 - Integrating the Mobile SDK
 description: In this part, we will integrate the Android app with Mobile SDK. To integrate mobile SDK with the Android app
 feature: Push
-kt: 4826
+jira: KT-4826
 doc-type: tutorial
 activity: use
 team: TM

@@ -2,7 +2,7 @@
 title: Configure and run a workflow with the External API activity
 description: Learn you how to call an external REST API endpoint to pull personalization data from a third-party system into your campaign.
 feature: Data Management Activity
-kt: 2764
+jira: KT-2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use

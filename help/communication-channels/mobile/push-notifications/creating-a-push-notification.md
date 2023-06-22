@@ -2,7 +2,7 @@
 title: Create a push notification
 description: Learn how to create a push notification. 
 feature: Push
-kt: 1401
+jira: KT-1401
 thumbnail: 31499.jpg
 doc-type: feature video
 activity: use

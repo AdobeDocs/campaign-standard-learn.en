@@ -2,7 +2,7 @@
 title: Create and send emails via a workflow
 description: Learn how to create and send emails via a workflow.
 feature: Email,Workflows
-kt: 4319
+jira: KT-4319
 thumbnail: 31465.jpg
 role: User
 level: Beginner

@@ -2,7 +2,7 @@
 title: Predictive engagement scoring
 description: Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.
 feature: Predictive Engagement Scoring
-kt: 6275
+jira: KT-6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use

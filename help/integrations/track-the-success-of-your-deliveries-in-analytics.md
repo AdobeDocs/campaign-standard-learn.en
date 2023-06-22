@@ -5,7 +5,7 @@ feature: Application Settings
 topic: Integrations
 role: Admin
 level: Intermediate
-kt: 6526
+jira: KT-6526
 thumbnail: 332576.jpg
 doc-type: feature video
 team: TM

@@ -2,7 +2,7 @@
 title: STEP 4 - Set pushidentifier
 description: The **pushIdentifier** is a string that contains the device token for push notifications. It is the same token that is sent by Firebase and is passed  to the SDK using the MobileCore.setPushIdentifier method.
 feature: Push
-kt: 4828
+jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM

@@ -2,7 +2,7 @@
 title: Broadcast an In-App message
 description: Learn how to configure and use the broadcast template to target all users of your mobile app.
 feature: In App
-kt: 2497
+jira: KT-2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use

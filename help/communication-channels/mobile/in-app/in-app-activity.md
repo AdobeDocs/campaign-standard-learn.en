@@ -2,7 +2,7 @@
 title: Create an In-App delivery within a workflow
 description: Learn how to use the In-App delivery activity to automate sending an In-App message to a target audience calculated in a workflow.
 feature: In App
-kt: 2500
+jira: KT-2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use

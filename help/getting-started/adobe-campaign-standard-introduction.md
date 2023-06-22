@@ -2,7 +2,7 @@
 title: Introduction to Adobe Campaign Standard
 description: This video gives you a high level introduction to Adobe Campaign Standard.
 feature: Overview
-kt: 3971
+jira: KT-3971
 thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand

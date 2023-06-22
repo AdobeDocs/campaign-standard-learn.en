@@ -2,7 +2,7 @@
 title: Send a test, prepare, and send an email
 description: "Learn how to send a test email, prepare, and then send the email delivery. "
 feature: Email, Test Profiles
-kt: 1812
+jira: KT-1812
 thumbnail: 24013.jpg
 doc-type: feature video
 activity: use

@@ -2,7 +2,7 @@
 title: Understand profiles and audiences in Adobe Campaign Standard
 description: Understand the concept of profiles and audiences and learn how to create profiles and audiences.
 feature: Profiles, Audiences
-kt: 3893
+jira: KT-3893
 thumbnail: 18464.jpg
 doc-type: feature video
 activity: understand

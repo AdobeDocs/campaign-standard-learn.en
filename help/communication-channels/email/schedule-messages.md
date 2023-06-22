@@ -1,7 +1,7 @@
 ---
 title: Schedule messages
 description: Learn how to schedule an email delivery.
-kt: 11915
+jira: KT-11915
 feature: Email
 role: User
 level: Beginner

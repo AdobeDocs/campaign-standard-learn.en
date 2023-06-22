@@ -2,7 +2,7 @@
 title: Create an SMS delivery
 description: Learn how to create an SMS delivery.
 feature: SMS
-kt: 1819
+jira: KT-1819
 thumbnail: 25265.jpg
 doc-type: feature video
 activity: use

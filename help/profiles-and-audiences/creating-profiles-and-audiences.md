@@ -2,7 +2,7 @@
 title: Creating profiles and audiences - Overview
 description: Learn how to navigate to existing profiles and how to create profiles and audiences.
 feature: Profiles, Audiences
-kt: 3899
+jira: KT-3899
 thumbnail: 18463.jpg
 doc-type: feature video
 activity: understand

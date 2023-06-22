@@ -3,7 +3,7 @@ title: Using triggers for transactional messaging - Overview
 description: Learn how to configure and use triggers for transactional messaging.
 feature: Triggers
 topic: Integrations
-kt: 6525
+jira: KT-6525
 doc-type: article
 role: Admin
 level: Experienced

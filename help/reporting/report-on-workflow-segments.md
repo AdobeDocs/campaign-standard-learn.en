@@ -2,7 +2,7 @@
 title: Create a report based on workflow segments
 description: Learn how to define segments in your workflow and them to dynamic reports.
 feature: Reporting
-kt: 3252
+jira: KT-3252
 thumbnail: 28262.jpg
 doc-type: feature video
 activity: use

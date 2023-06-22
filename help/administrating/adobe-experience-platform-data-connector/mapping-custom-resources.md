@@ -2,7 +2,7 @@
 title: Mapping custom resources
 description: Learn how to map different data types between Adobe Campaign Standard (ACS) and Adobe Experience Platform (AEP)
 feature: People Core Service Integration, Profiles
-kt: 2828
+jira: KT-2828
 thumbnail: 27231.jpg
 doc-type: feature video
 activity: set-up

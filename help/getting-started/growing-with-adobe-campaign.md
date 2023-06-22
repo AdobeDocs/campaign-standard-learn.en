@@ -2,7 +2,7 @@
 title: Growing with Adobe Campaign
 description: Understand the potential next steps to true cross channel orchestration.
 feature: Cross Channel Orchestration
-kt: 3973
+jira: KT-3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand

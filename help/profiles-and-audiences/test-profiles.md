@@ -2,7 +2,7 @@
 title: Create a test profile
 description: Learn how to target recipients who do not match the defined targeting criteria to detect any fraudulent use of your recipient database or to ensure that the emails arrive in the inboxes.
 feature: Test Profiles
-kt: 1810
+jira: KT-1810
 thumbnail: 24094.jpg
 doc-type: feature video
 activity: use

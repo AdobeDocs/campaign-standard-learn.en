@@ -2,7 +2,7 @@
 title: Configure transactional messages using realtime event data
 description: Learn how to configure transactional messages using realtime event data coming from triggers.
 feature: Triggers
-kt: 7471
+jira: KT-7471
 thumbnail: 332602.jpg
 doc-type: feature video
 role: Admin

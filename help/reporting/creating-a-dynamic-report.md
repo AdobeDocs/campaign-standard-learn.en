@@ -2,7 +2,7 @@
 title: Create a Dynamic Report
 description: Learn how to create a report.
 feature: Reporting
-kt: 2037
+jira: KT-2037
 thumbnail: 25264.jpg
 doc-type: feature video
 activity: use

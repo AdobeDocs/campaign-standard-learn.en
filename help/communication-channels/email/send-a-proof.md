@@ -2,7 +2,7 @@
 title: Send a proof for an email delivery
 description: Learn how to test an email message before sending it to the final recipients.
 feature: Email Rendering, Proofs
-kt: 11932
+jira: KT-11932
 doc-type: feature video
 activity: use
 role: User

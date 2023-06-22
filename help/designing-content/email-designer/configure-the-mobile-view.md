@@ -2,7 +2,7 @@
 title: Configure the mobile view in the Email Designer
 description: "Learn how to fine-tune the responsive design of an email by separately editing all style options for mobile display."
 feature: Email Design
-kt: 2423
+jira: KT-2423
 thumbnail: 25919.jpg
 doc-type: feature video
 activity: use

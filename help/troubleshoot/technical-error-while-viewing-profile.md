@@ -5,7 +5,7 @@ feature: Profiles
 role: Admin
 level: Beginner, Experienced
 type: Troubleshooting
-kt: 8385
+jira: KT-8385
 exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
 ---
 # How to troubleshoot a technical error while viewing a profile

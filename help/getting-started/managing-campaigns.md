@@ -2,7 +2,7 @@
 title: Manage campaigns
 description: Learn  how to create and manage campaigns.
 feature: Campaigns
-kt: 1816
+jira: KT-1816
 thumbnail: 24672.jpg
 doc-type: feature video
 activity: USE

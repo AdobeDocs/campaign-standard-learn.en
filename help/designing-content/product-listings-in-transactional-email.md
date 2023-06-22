@@ -2,7 +2,7 @@
 title: Configure product listings in transactional emails
 description: Learn which steps that are required to configure product listings in transactional emails.
 feature: Transactional Messaging, Email
-kt: 1728
+jira: KT-1728
 thumbnail: 25915
 doc-type: feature video
 activity: use

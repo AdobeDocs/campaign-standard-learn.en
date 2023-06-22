@@ -2,7 +2,7 @@
 title: A/B testing
 description: Learn how to configure and send an A/B test to test the subject line of an email.
 feature: A/B Testing  
-kt: 3907
+jira: KT-3907
 thumbnail: 18480.jpg
 doc-type: feature video
 activity: use

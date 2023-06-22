@@ -2,7 +2,7 @@
 title: Getting started with the Email Designer
 description: Understand  the general functionality of the Email Designer and how to design an email from scratch.
 feature: Email Design
-kt: 2391
+jira: KT-2391
 thumbnail: 25912.jpg
 doc-type: feature video
 activity: use

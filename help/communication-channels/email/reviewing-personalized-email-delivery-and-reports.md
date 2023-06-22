@@ -2,7 +2,7 @@
 title: Review an email delivery and reports
 description: Learn how to review a personalized email delivery and explore different reports that are available in Adobe Campaign Standard.
 feature: Reporting
-kt: 3904
+jira: KT-3904
 thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand

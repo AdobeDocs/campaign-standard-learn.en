@@ -2,7 +2,7 @@
 title: Create a multi-lingual email or SMS delivery
 description: Learn how to simplify the operational complexities of sending multilingual campaigns. 
 feature: Email, SMS
-kt: 1277
+jira: KT-1277
 thumbnail: 23252
 doc-type: feature video
 activity: use

@@ -2,7 +2,7 @@
 title: Test and publish a landing page
 description: Learn how to test a landing page that was built in Adobe Campaign Standard and how to publish it.
 feature: Landing Pages
-kt: 1813
+jira: KT-1813
 thumbnail: 24992.jpg
 doc-type: feature video
 activity: use

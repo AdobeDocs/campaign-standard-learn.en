@@ -2,7 +2,7 @@
 title: Create a Direct Mail
 description: Learn how to create a direct mail.
 feature: Direct Mail
-kt: 1430
+jira: KT-1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using

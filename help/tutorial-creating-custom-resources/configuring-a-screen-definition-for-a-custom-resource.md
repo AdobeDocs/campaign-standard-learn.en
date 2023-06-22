@@ -2,7 +2,7 @@
 title: Configuring a screen definition for a custom resource
 description: Learn how to configure a screen definition for a custom resource.
 feature: Data Model
-kt: 3001
+jira: KT-3001
 thumbnail: 27713.jpg
 doc-type: feature video
 activity: use

@@ -4,7 +4,7 @@ description: Learn the ten best practices to help Adobe Campaign practitioners u
 doc-type: article
 role: User
 level: Beginner
-kt: 11779
+jira: KT-11779
 last-substantial-update: 2023-01-31
 exl-id: 13180aae-15c8-42dd-97a2-86eec506f58b
 ---

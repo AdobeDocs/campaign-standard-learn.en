@@ -3,7 +3,7 @@ title: Create a trigger in Experience Cloud
 description: Learn how to configure triggers in the Experience cloud.
 feature: Triggers
 topic: Integrations
-kt: 6524
+jira: KT-6524
 thumbnail: 332624.jpg
 doc-type: article
 role: Admin

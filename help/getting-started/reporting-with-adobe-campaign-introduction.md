@@ -2,7 +2,7 @@
 title: Introduction to reporting
 description: Understand  the reporting capabilities of Adobe Campaign Standard
 feature: Reporting
-kt: 3974
+jira: KT-3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand

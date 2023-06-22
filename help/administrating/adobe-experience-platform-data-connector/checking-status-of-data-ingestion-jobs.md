@@ -3,7 +3,7 @@ title: Check the status of a data ingestion job
 description: Learn how to check the status and modify the data mapping.
 feature: People Core Service Integration
 audience: administrator
-kt: 2831
+jira: KT-2831
 thumbnail: 27268.jpg
 doc-type: feature video
 activity: use

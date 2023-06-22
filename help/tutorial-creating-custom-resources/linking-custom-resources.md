@@ -2,7 +2,7 @@
 title: Linking custom resources
 description: Learn how to link two custom resources.
 feature: Data Model
-kt: 3002
+jira: KT-3002
 thumbnail: 27712.jpg
 doc-type: feature video
 activity: use

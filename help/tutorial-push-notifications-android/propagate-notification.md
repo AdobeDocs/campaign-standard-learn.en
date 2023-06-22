@@ -2,7 +2,7 @@
 title: Step 5 - Propagate Notifications
 description: In this part, we will propagate the message received from Adobe Campaign using Android Notification Manager.Firebase
 feature: Push
-kt: 4829
+jira: KT-4829
 doc-type: tutorial
 activity: use
 team: TM

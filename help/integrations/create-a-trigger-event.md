@@ -2,7 +2,7 @@
 title: Create a trigger in Campaign Standard
 description: Learn how to create a trigger event in Campaign Standard.
 feature: Triggers
-kt: 7470
+jira: KT-7470
 thumbnail: 332625.jpg
 doc-type: feature video
 role: Admin

@@ -2,7 +2,7 @@
 title: Create an audience using the Unified Segment Builder
 description: Learn how to create an audience using the Unified Segment Builder
 feature: People Core Service Integration
-kt: 2754
+jira: KT-2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using

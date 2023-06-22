@@ -2,7 +2,7 @@
 title: Create an email delivery
 description: Learn how to create an email delivery from the homepage. 
 feature: Email 
-kt: 1807
+jira: KT-1807
 thumbnail: 23721.jpg
 doc-type: feature video
 activity: use

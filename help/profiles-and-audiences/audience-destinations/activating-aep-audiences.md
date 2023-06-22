@@ -2,7 +2,7 @@
 title: Activate Adobe Experience Platform audiences in a workflow
 description: This video explains how to activate the Data Services Query Audience within a workflow by using the ‘Read audience’ activity.
 feature: People Core Service Integration
-kt: 2760
+jira: KT-2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using

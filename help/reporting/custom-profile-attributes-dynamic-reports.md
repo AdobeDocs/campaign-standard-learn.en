@@ -2,7 +2,7 @@
 title: Creating a report-based custom profile attributes
 description: Learn how to create a report based on custom profile attributes.
 feature: Reporting
-kt: 1444
+jira: KT-1444
 thumbnail: 28204.jpg
 doc-type: feature video
 activity: use

@@ -2,7 +2,7 @@
 title: Adding a control group to a delivery
 description: Learn how to define a control group for your delivery and how to extract the profiles assigned to the control group after the delivery has been sent.
 feature: Control Groups
-kt: 5060
+jira: KT-5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use

@@ -2,7 +2,7 @@
 title: Audience Destinations - Overview
 description: Learn how to use Adobe Experience Platform Audiences in Adobe Campaign Standard
 feature: People Core Service Integration
-kt: 2755
+jira: KT-2755
 thumbnail: 
 doc-type: feature video
 activity: using
