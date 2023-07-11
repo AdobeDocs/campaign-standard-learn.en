@@ -6,7 +6,7 @@ jira: KT-1480
 doc-type: feature video
 activity: use
 role: Admin
-leavel: Advanced
+level: Advanced
 team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
