@@ -6,6 +6,8 @@ jira: KT-2832
 thumbnail: 27265.jpg
 doc-type: feature video
 activity: use
+role: User
+leavel: Advanced
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 ---
