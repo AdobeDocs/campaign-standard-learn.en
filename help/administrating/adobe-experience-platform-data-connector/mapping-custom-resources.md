@@ -5,6 +5,8 @@ feature: People Core Service Integration, Profiles
 jira: KT-2828
 thumbnail: 27231.jpg
 doc-type: feature video
+role: User
+leavel: Advanced
 activity: set-up
 team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
