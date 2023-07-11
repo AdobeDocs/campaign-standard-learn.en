@@ -6,6 +6,8 @@ jira: KT-1814
 thumbnail: 24671.jpg
 doc-type: feature video
 activity: setup
+role: Admin
+level: Beginner
 team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 ---

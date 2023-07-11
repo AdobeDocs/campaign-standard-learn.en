@@ -2,6 +2,9 @@
 title: Maximize your email ROI & learn best practices for subscriber re-engagement
 description: Learn how to maximize email ROI and learn best practices for subscriber re-engagement. Discover the strategies to improve your subscribers engagement and understand the overall success of your email campaigns.
 solution: Campaign
+role: User
+level: Beginner
+feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
 ---
 # Email ROI and best practices for subscriber re-engagement

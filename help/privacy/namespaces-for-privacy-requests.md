@@ -6,6 +6,8 @@ jira: KT-1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
+role: Admin
+level: Advanced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 ---
