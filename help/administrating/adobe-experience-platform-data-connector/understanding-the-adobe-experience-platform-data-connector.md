@@ -5,7 +5,7 @@ feature: People Core Service Integration
 jira: KT-2826
 thumbnail: 27304.jpg
 role: User
-level: Advanced
+level: Experienced
 doc-type: feature video
 activity: understand
 team: TM
