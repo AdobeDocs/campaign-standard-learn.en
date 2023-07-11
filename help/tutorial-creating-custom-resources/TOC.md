@@ -1,6 +1,9 @@
 ---
 user-guide-title: Adobe Campaign Standard - Creating custom resources tutorial
 user-guide-description: This multipart tutorial will walk you through the steps needed to create and link custom resources. 
+role: Admin
+level: Beginner
+feature: Data Model
 ---
 
 # Creating custom resources tutorial {#creating-custom-resources}
