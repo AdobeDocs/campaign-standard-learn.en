@@ -10,6 +10,7 @@ thumbnail: 332576.jpg
 doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
+badgeIntegration: label="Integration" type="positive"
 ---
 # Track the success of your deliveries in Adobe Analytics
 

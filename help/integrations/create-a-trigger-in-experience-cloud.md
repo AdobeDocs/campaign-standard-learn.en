@@ -9,7 +9,9 @@ doc-type: article
 role: Admin
 level: Experienced
 team: TM
+hidefromtoc: true
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
+badgeIntegration: label="Integration" type="positive"
 ---
 # Create a trigger in Experience Cloud
 

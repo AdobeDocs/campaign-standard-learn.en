@@ -10,6 +10,7 @@ level: Experienced
 activity: use
 team: TM
 exl-id: 748d6cb3-86f0-4763-9d71-1f1e30dfeb93
+badgeIntegration: label="Integration" type="positive"
 ---
 # Configure transactional messages using realtime event data
 

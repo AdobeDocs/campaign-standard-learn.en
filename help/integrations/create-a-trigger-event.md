@@ -10,6 +10,7 @@ level: Experienced
 activity: set-up
 team: TM
 exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
+badgeIntegration: label="Integration" type="positive"
 ---
 # Create a trigger in Campaign Standard
 
