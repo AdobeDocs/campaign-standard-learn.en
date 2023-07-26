@@ -16,7 +16,7 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to Adobe Experience Platform Data Collection and add the required properties to your website in order to test your configuration.
 
->[!Note]
+>[!IMPORTANT]
 >
 > Please be aware that Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.  
 
