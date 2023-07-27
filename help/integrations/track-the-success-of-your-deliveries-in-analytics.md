@@ -1,5 +1,5 @@
 ---
-title: Track the success of your deliveries in Adobe Analytics
+title: Track the success of your Campaign Standard deliveries in Adobe Analytics
 description: Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.
 feature: Application Settings
 topic: Integrations
@@ -12,7 +12,7 @@ team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integration" type="positive"
 ---
-# Track the success of your deliveries in Adobe Analytics
+# Track the success of your Campaign Standard deliveries in Adobe Analytics
 
 Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.
 
