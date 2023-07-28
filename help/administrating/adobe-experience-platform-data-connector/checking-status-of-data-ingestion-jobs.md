@@ -8,7 +8,7 @@ thumbnail: 27268.jpg
 doc-type: feature video
 activity: use
 role: User
-level: Advanced
+level: Experienced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 ---
