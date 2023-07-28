@@ -3,6 +3,8 @@ title: Part 6 - Send Push notification to test your work
 description: Part 6 - Send Push notification to test your work
 feature: Push
 jira: KT-4830
+user: Admin
+level: Exprienced
 doc-type: tutorial
 activity: use
 team: TM
