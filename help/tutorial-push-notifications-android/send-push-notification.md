@@ -4,7 +4,7 @@ description: Part 6 - Send Push notification to test your work
 feature: Push
 jira: KT-4830
 user: Admin
-level: Exprienced
+level: Experienced
 doc-type: tutorial
 activity: use
 team: TM
@@ -22,7 +22,7 @@ We now need to create and send a [!UICONTROL Push Notification] using Adobe Camp
 * Provide a meaningful [!UICONTROL Message title] and [!UICONTROL Message body] and click **[!UICONTROL Create]**.
 * Click **[!UICONTROL Prepare]**. Once preparation, is complete click **[!UICONTROL Confirm]** to send the message.
 
-If everything goes well, you should see notification in your Android™ App running in the emulator
+If everything goes well, you should see notification in your Android&trade; App running in the emulator
 
 ## Additional resources
 
