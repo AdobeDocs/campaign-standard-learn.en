@@ -23,12 +23,12 @@ The following videos explain the steps that are required to configure [!UICONTRO
 
 ## Step 1 - Create an event and publish it
 
->[!VIDEO](https://video.tv.adobe.com/v/25914?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25914?learn=on){transcript=true}
 
 ## Step 2 - Add a product listing to a transactional message template
 
->[!VIDEO](https://video.tv.adobe.com/v/25915?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25915?learn=on){transcript=true}
 
 ## Step 3 - Test the transactional message
 
->[!VIDEO](https://video.tv.adobe.com/v/25916?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25916?learn=on){transcript=true}

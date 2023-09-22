@@ -15,6 +15,6 @@ level: Intermediate, Experienced
 
 This video demonstrates how an existing email, SMS delivery, or a delivery template can be easily converted to multilingual.
 
->[!VIDEO](https://video.tv.adobe.com/v/23251?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23251?learn=on){transcript=true}
 
 See the product documentation for more information on [creating a multilingual email](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)

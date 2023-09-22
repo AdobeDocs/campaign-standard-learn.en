@@ -13,7 +13,7 @@ exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
 
 Learn how to link two custom resources.
 
->[!VIDEO](https://video.tv.adobe.com/v/27712?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27712?learn=on){transcript=true}
 
 **Next step**
 

@@ -21,7 +21,7 @@ level: Beginner, Intermediate, Experienced
 
 This video explains how to activate the [!UICONTROL Data Services Query Audience] within a workflow by using the [!UICONTROL Read Audience] activity.
 
->[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27647?learn=on){transcript=true}
 
 *Activate an Adobe Experience Platform audience in a workflow (02:37 min)*
 

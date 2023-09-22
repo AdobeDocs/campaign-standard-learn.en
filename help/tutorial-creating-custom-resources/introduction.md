@@ -30,7 +30,7 @@ In order to be able to create custom resources, you must have administration use
 
 To use additional information on what a customer ordered, so that it is available for marketing and re-marketing purposes, the [!DNL Campaign] data model must be by extended by adding custom tables. For this use case, a customer and an orders table must be created.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){transcript=true}
 
 This tutorial explains how to:
 

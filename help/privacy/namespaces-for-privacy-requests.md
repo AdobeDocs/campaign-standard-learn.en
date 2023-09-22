@@ -17,4 +17,4 @@ To be able to create privacy access and delete requests, as required by GDPR or 
 
 Learn to create namespaces for privacy requests.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}

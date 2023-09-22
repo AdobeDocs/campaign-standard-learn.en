@@ -16,4 +16,4 @@ level: Beginner
 
 This video explains how to configure [!UICONTROL landing page] templates.
 
->[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25200/?learn=on){transcript=true}

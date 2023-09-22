@@ -15,4 +15,4 @@ level: Beginner, Intermediate
 
 Learn how to configure and use the broadcast template to target all users of your mobile app.
 
->[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26199?learn=on){transcript=true}

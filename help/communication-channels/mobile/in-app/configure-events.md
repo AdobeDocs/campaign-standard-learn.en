@@ -15,4 +15,4 @@ level: Beginner, Intermediate
 
 Understand which user initiated action triggers an in-app message and learn how to configure these events.
 
->[!VIDEO](https://video.tv.adobe.com/v/26245?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26245?learn=on){transcript=true}

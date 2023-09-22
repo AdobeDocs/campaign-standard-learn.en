@@ -16,4 +16,4 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to configure transactional messages using realtime event data coming from triggers.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332602?learn=on){transcript=true}

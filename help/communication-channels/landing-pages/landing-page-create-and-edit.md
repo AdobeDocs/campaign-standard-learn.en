@@ -15,7 +15,7 @@ level: Beginner
 
 Adobe Campaign allows you to build landing pages which are online forms that can be used to capture information on your audiences, offer subscriptions to a service, display data and grow your database. Landing pages can also be used for acquiring or updating existing profiles.
 
->[!VIDEO](https://video.tv.adobe.com/v/24093?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24093?learn=on){transcript=true}
 
 ## Additional resources
 

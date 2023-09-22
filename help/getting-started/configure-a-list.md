@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how you can change the displayed columns, the order, and the sort order of a list view in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/25288/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25288/?learn=on){transcript=true}

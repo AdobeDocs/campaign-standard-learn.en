@@ -16,4 +16,4 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to create a trigger event in Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332625?learn=on){transcript=true}

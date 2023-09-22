@@ -13,7 +13,7 @@ exl-id: 33a68e3b-2e28-48c5-840b-05fc49825fff
 
 In this video we will create our first custom resource called customers.
 
->[!VIDEO](https://video.tv.adobe.com/v/27716?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27716?learn=on){transcript=true}
 
 **Next step**
 

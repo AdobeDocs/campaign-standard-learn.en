@@ -15,4 +15,4 @@ level: Beginner, Intermediate
 
 Learn how to use the In-App delivery activity to automate sending an In-App message to a target audience calculated in a workflow.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){transcript=true}

@@ -15,6 +15,6 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to configure Microsoft&reg; Dynamics 365 for use in the Dynamics and Campaign Standard integration.
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
 
 Refer to the product documentation for more information on how [Get Started with Microsoft&reg; Dynamics 365 integration](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html)

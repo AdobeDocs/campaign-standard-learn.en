@@ -16,6 +16,6 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to configure the Campaign Standard and Analytics integration. Understand how to build a report in Analytics using data received from Campaign Standard and which KPIs are available.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){transcript=true}
 
 Refer to the Adobe Analytics product guide for more information on [Understanding and Creating Report Suites](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=en#intro-to-analytics).

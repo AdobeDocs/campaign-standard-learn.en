@@ -21,7 +21,7 @@ exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 
 Learn how to map [!UICONTROL Experience Events] in Adobe Experience Platform (AEP).
 
->[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27265?learn=on){transcript=true}
 
 ## Additional resources
 

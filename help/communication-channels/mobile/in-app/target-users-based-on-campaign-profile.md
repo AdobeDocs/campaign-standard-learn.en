@@ -15,4 +15,4 @@ level: Beginner, Intermediate
 
 Learn how to target known mobile app users with messages personalized with CRM profile attributes..
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26200?learn=on){transcript=true}

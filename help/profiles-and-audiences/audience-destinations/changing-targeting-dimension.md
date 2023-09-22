@@ -21,4 +21,4 @@ level: Beginner, Intermediate, Experienced
 
 This video explains how to change the targeting dimension of a delivery for a [!UICONTROL Platform Audience] outside of the primary profile table in Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/30151?learn=on){transcript=true}

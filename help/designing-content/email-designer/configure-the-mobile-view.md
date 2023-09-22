@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how to fine-tune the responsive design of an email by separately editing all style options for mobile display.
 
->[!VIDEO](https://video.tv.adobe.com/v/25919?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25919?learn=on){transcript=true}

@@ -17,4 +17,4 @@ Adobe Campaign Standard offers 18 fully customizable out of the box, responsive 
 
 This video introduces the templates and explains how to create your own template.
 
->[!VIDEO](https://video.tv.adobe.com/v/23106?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23106?learn=on){transcript=true}

@@ -20,4 +20,4 @@ Learn how to Adobe Experience Platform Data Collection and add the required prop
 >
 > Please be aware that Launch is now the Tags feature of Adobe Experience Platform. It can be found under **Adobe Experience Platform Data Collections**.  
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332908?learn=on){transcript=true}

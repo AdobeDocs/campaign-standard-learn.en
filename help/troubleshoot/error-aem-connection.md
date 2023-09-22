@@ -11,4 +11,4 @@ exl-id: 85632ab3-3d07-4737-84e9-d265a769c37d
 
 Learn how to resolve error 'GetAEMContentList' of service 'nms:delivery", while connecting from Campaign Standard to Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}

@@ -17,6 +17,6 @@ The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define t
 
 Learn how to configure and send an A/B test to test the subject line of an email.
 
->[!VIDEO](https://video.tv.adobe.com/v/18480?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/18480?learn=on){transcript=true}
 
 See the [product documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/designing-an-a-b-test-email.html) for more details on how to test the content or the sender.

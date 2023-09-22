@@ -15,4 +15,4 @@ level: Beginner, Intermediate
 
 Learn how to present the user with contextually relevant In-App messages in response to a customer's real-time behavior within the mobile application.
 
->[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26412?learn=on){transcript=true}

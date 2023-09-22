@@ -17,4 +17,4 @@ You can create a stand-alone email delivery from a campaign, from the Adobe Camp
 
 Learn how to create an email delivery from the homepage. 
 
->[!VIDEO](https://video.tv.adobe.com/v/23721?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23721?learn=on){transcript=true}

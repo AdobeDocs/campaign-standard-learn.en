@@ -12,4 +12,4 @@ exl-id: 0de2ff46-8663-462f-9e98-2e274bf13bda
 
 Learn how to schedule an email delivery.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415919/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415919/?learn=on){transcript=true}

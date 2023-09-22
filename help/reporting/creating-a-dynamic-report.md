@@ -17,7 +17,7 @@ Adobe Campaign's [!UICONTROL Dynamic Reports] are a flexible freeform environmen
 
 Learn how to create a report.
 
->[!VIDEO](https://video.tv.adobe.com/v/25264/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/25264/?learn=on){transcript=true}
 
 ## Additional resources
 

@@ -15,4 +15,4 @@ level: Beginner
 
 This video explains how test a landing page and how to publish it.
 
->[!VIDEO](https://video.tv.adobe.com/v/24092?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/24092?learn=on){transcript=true}

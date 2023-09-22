@@ -21,7 +21,7 @@ exl-id: a03299d2-3ef5-42a7-b0ab-ec90908f71ec
 
 Learn how to check the status and modify the data mapping.
 
->[!VIDEO](https://video.tv.adobe.com/v/27266?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27266?learn=on){transcript=true}
 
 ## Additional resources
 

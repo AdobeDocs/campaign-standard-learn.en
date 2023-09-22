@@ -22,4 +22,4 @@ Powered by [!UICONTROL Journey AI], [!DNL Adobe Campaign] can analyze and predic
 
 Learn how to view engagement scores at the individual profile level, use scores for targeting engaged users and suppressing fatigued users and how to create typology rules to manage customer fatigue.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){transcript=true}

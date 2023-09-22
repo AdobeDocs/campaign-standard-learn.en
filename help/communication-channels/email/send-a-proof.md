@@ -14,4 +14,4 @@ exl-id: 97d499e4-8bb9-4c68-8dd1-80a7d9162626
 
 Learn how to test an email message before sending it to the final recipients.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416038/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416038/?learn=on){transcript=true}

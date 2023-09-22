@@ -17,4 +17,4 @@ badgeIntegration: label="Integration" type="positive"
 
 Learn how to configure triggers in the Experience cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332624?learn=on){transcript=true}

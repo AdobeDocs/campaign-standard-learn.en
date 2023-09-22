@@ -14,4 +14,4 @@ exl-id: f44fc9f3-ba89-4059-aa6a-3af9bc68a277
 
 Understand message logs, job logs, and delivery logs.
 
->[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3415815/?learn=on){transcript=true}

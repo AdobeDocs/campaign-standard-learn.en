@@ -13,7 +13,7 @@ exl-id: 1d1a11c4-6f87-4ee4-bb75-b86228e72042
 
 Learn how to configure a screen definition for a custom resource.
 
->[!VIDEO](https://video.tv.adobe.com/v/27713?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27713?learn=on){transcript=true}
 
 **Next step**
 

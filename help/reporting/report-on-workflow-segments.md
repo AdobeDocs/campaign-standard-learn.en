@@ -17,6 +17,6 @@ After creating a workflow and filtering your population into different targeted 
 
 Learn how to define segments in your workflow and them to dynamic reports.
 
->[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/28262?learn=on){transcript=true}
 
 For more information, see the [documentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
