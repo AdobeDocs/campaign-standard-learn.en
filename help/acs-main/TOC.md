@@ -2,6 +2,7 @@
 user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-description: Design cross-channel customer experiences and create an environment for visual campaign orchestration, real time interaction management, and cross channel execution.
 breadcrumb-title: Campaign Standard Tutorials
+auto-video-transcripts: true
 ---
 
 # Adobe Campaign Standard Tutorials {#tutorials}
