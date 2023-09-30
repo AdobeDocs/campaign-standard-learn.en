@@ -8,7 +8,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-04-27
 jira: KT-11926
 thumbnail: 3415815.jpeg
-exl-id: f44fc9f3-ba89-4059-aa6a-3af9bc68a277
+exl-id: 2978b932-73bf-4125-84fb-f4b7258fb8fd
 ---
 # Monitor a delivery
 
