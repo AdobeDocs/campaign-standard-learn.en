@@ -1,6 +1,6 @@
 ---
 title: Activate Adobe Experience Platform audiences in a workflow
-description: This video explains how to activate the Data Services Query Audience within a workflow by using the ‘Read audience’ activity.
+description: This video explains how to activate the Data Services Query Audience within a workflow by using the 'Read audience' activity.
 feature: People Core Service Integration
 jira: KT-2760
 thumbnail: 27647.jpg
@@ -10,6 +10,8 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
+hide: yes
+hidefromtoc: yes
 ---
 # Activate Adobe Experience Platform audiences in a workflow [!UICONTROL Adobe Experience Platform Audiences] in a Marketing Workflow 
 

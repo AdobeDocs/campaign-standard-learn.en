@@ -3,7 +3,6 @@ title: Audience Destinations - Overview
 description: Learn how to use Adobe Experience Platform Audiences in Adobe Campaign Standard
 feature: People Core Service Integration
 jira: KT-2755
-thumbnail: 
 doc-type: feature video
 activity: using
 team: TM
@@ -11,6 +10,8 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
+hide: yes
+hidefromtoc: yes
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 
@@ -23,9 +24,7 @@ recommendations: noDisplay
 >Reach out to [!UICONTROL Adobe Customer Support] if you plan to implement this capability.
 >
 
-This tutorial explains how to use the centralized and consolidated profile data from the Adobe Experience Platform for marketing campaigns in Adobe Campaign Standard.
-
-The [!UICONTROL Audiences] module within Adobe Campaign Standard  allows you to create segments using data from the [Adobe Experience Platform - Data Services](https://developer.adobe.com/apis/experienceplatform/home/services.html) that lives in the [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+The Audiences module within Adobe Campaign Standard allows you to create segments using data from Adobe Experience Platform's [[!DNL Real-Time Customer Profile]](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en). 
 
 The following video tutorials guide you through the different steps:
 
