@@ -11,7 +11,7 @@ exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: yes
-hideformtoc: yes
+hidefromtoc: yes
 ---
 # Change the targeting dimension [!UICONTROL Platform Audience]
 
