@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Campaign Standard Tutorials
-user-guide-description: Videos and tutorials for Adobe Campaign Standard
+user-guide-description: Videos and tutorials for Adobe Campaign Standard.
 breadcrumb-title: Campaign Standard Tutorials
 auto-video-transcripts: true
 ---
