@@ -10,24 +10,6 @@ recommendations: noDisplay, noCatalog
 
 Adobe Campaign provides a platform for designing cross-channel customer experiences and provides an environment for visual campaign orchestration, real time interaction management, and cross-channel execution. This user guide contains videos and tutorials on the many features and capabilities of Adobe Campaign Standard.
 
-<div id="whats-new-section">
-
-## What's new
-
-* **[Schedule messages](/help/communication-channels/email/schedule-messages.md)**
-  
-  *Learn how to schedule an email delivery.*
-
-* **[Send a proof](/help/communication-channels/email/send-a-proof.md)**
-  
-  *Learn how to test an email message before sending it to the final recipients.*
-
-* **[Ten best practices for Adobe Campaign success for marketers](/help/strategy/10-best-practices-for-marketers.md)**
-
-  *Learn about ten best practices to help Adobe Campaign practitioners unlock and accelerate the digital consumer transformation and a better experience for their customers.*
-
-</div>
-
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
 <div id="recs-overview-body-3"></div>
