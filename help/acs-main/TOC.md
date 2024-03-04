@@ -7,7 +7,7 @@ auto-video-transcripts: true
 
 # Adobe Campaign Standard Tutorials {#tutorials}
 
-+ [Adobe Campaign Standard](/help/overview.md)
++ [Adobe Campaign Standard Tutorials](/help/overview.md)
 + Get started {#getting-started}
   + [Introduction to Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
   + [Get started with the UI](/help/getting-started/getting-started-with-the-ui.md)
