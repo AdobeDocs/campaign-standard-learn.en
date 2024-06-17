@@ -18,7 +18,7 @@ By: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"
 As a Senior Engineer and customer expert on Adobe Experience Cloud products for the past five years, I enable business users at [Meijer](https://www.meijer.com/){target="_blank"}, an American supercenter chain founded in 1934, to run complex marketing and transactional campaigns with ACS. A few projects that I've worked on include customized campaigns to store offers and order details for personalization, integrated with Adobe Audience Manager, and customer insight for segment ingestion.  
 
 
-In my time using ACS, I've run into errors which can be time consuming and frustrating to solve. Knowing the most common errors can help with faster problem-solving and boost your productivity. Below are my troubleshooting tips to help you effectively resolve similar errors as they occur. 
+In my time using ACS, I've run into errors, which can be time consuming and frustrating to solve. Knowing the most common errors can help with faster problem-solving and boost your productivity. Below are my troubleshooting tips to help you effectively resolve similar errors as they occur. 
 
 ## Data Type Mismatch Error  
 
@@ -26,12 +26,12 @@ In my time using ACS, I've run into errors which can be time consuming and frust
 `PGS-220000 PostgreSQL error: ERROR: operator does not exist: character varying = bigint` 
 
 **Cause:** 
-These types of errors appear in a workflow when you try to reconcile using fields of different data types. For example, when you upload a file using load file which has a string field, and you try to reconcile the string field with a profile field that has data type of int.
+These types of errors appear in a workflow when you try to reconcile using fields of different data types. For example, when you upload a file using load file, which has a string field, and you try to reconcile the string field with a profile field that has data type of int.
 
 ![data-type-mismatch-error](/help/assets/kt-13256/data-type-mismatch.png)
 
 **Solution:**
- Change the data type of the field in "Load file" activity to the one that you are matching with. Open the "Load File" activity. Move to the "COLUMN DEFINITION" tab and change the data type of the desired field.
+ Change the data type of the field in the "Load file" activity to the one that you are matching with. Open the "Load File" activity. Move to the "COLUMN DEFINITION" tab and change the data type of the desired field.
 
 
 ![data-type-mismatch-solution](/help/assets/kt-13256/data-type-mismatch-solution.png)
@@ -42,18 +42,18 @@ These types of errors appear in a workflow when you try to reconcile using field
 `The schema for profiles specified in the transition ('') is not compatible with the schema defined in the delivery template ('nms:recipient'). They should be identical.` 
  
 **Cause:** 
-This error appears when you are sending an email to an address, but the email or any other identifier is not reconciled with a profile. To send an email communication, the email or the identifier should be always linked to a profile.  
+This error appears when you are sending an email to an address, but the email or any other identifier is not reconciled with a profile. To send an email communication, the email or the identifier should always be linked to a profile.  
 
 ![workflow with reconciliation activity](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Solution:**
-A common ID must exist from the loaded file with the recipient table. This common key joins the load file to the recipient table within the reconciliation activity. Emails may not be sent to records that do not exist in the recipient table which requires this reconciliation step within the workflow. In doing so, you would reconcile the incoming load file activity with an identifier like email ID from the profile. The `nms:recipient` schema refers to the profile table and reconciling the incoming records with profile makes it available during email preparation. 
+A common ID must exist from the loaded file with the recipient table. This common key joins the load file to the recipient table within the reconciliation activity. Emails may not be sent to records that do not exist in the recipient table, which requires this reconciliation step within the workflow. In doing so, you would reconcile the incoming load file activity with an identifier like the email ID from the profile. The `nms:recipient` schema refers to the profile table and reconciling the incoming records with profile makes it available during email preparation. 
 
 Refer to the screenshot for reconciliation activity as shown below. 
 
 ![workflow with reconciliation detail](/help/assets/kt-13256/del-persn-error-wf-solution.png)
 
-Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en). 
+Learn more about [reconciliation](https://experienceleague.adobe.com/en/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation). 
 
 ## Common Field Dataset Error
 
@@ -61,7 +61,7 @@ Learn more about [reconciliation](https://experienceleague.adobe.com/docs/campai
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Cause:** 
-This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set and the excluded set don't have the same field names. 
+This issue occurs while using the **exclusion activity** in ACS workflows, when performing an exclusion based on the ID, when the Primary set, and the excluded set don't have the same field names. 
 
 
 ![Common Field Dataset Error](/help/assets/kt-13256/dataset-error.png)
