@@ -1,7 +1,6 @@
 ---
 title: Troubleshooting for Marketers
 description: Knowing the most common errors can help with faster problem-solving and boost your productivity. These troubleshooting tips to help you effectively resolve similar errors as they occur.
-version: Standard
 feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced

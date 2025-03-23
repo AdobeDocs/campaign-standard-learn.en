@@ -2,7 +2,7 @@
 cloud: Experience Cloud
 product: Adobe Campaign
 solution: Campaign, Campaign Standard
-version: Standard
+version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
