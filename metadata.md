@@ -7,7 +7,7 @@ type: Tutorial
 feature-set: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
-index: yes
+index: true
 ---
 
 # Metadata for internal use

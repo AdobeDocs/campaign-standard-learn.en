@@ -10,7 +10,7 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-hide: yes
+hide: true
 hidefromtoc: yes
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
