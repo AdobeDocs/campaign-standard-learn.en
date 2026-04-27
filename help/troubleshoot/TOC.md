@@ -2,7 +2,7 @@
 user-guide-title: Troubleshoot Adobe Campaign Standard
 user-guide-description: Find help on how to troubleshoot issues with Adobe Campaign Standard.
 breadcrumb-title: Troubleshoot Adobe Campaign Standard
-index: yes
+index: true
 feature: Overview
 role: Admin
 level: Experienced
