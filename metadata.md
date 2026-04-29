@@ -5,6 +5,8 @@ solution: Campaign, Campaign Standard
 version: Campaign Standard
 type: Tutorial
 feature-set: Campaign
+landing-page-name: campaign
+landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
