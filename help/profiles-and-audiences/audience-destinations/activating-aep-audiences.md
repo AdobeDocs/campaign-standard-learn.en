@@ -11,7 +11,6 @@ exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 hide: true
-hidefromtoc: yes
 ---
 # Activate Adobe Experience Platform audiences in a workflow [!UICONTROL Adobe Experience Platform Audiences] in a Marketing Workflow 
 
