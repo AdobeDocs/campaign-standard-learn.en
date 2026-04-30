@@ -8,7 +8,6 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integration" type="positive"
 ---

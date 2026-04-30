@@ -11,7 +11,6 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
 hide: true
-hidefromtoc: yes
 ---
 # [!UICONTROL Audience Destinations] (BETA)- Overview
 

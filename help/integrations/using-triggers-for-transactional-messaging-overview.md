@@ -8,7 +8,6 @@ doc-type: article
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: false
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 ---
 # Using triggers for transactional messaging - Overview

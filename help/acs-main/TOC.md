@@ -27,14 +27,14 @@ auto-video-transcripts: true
   + [Import profiles with a workflow](/help/managing-processes-and-data/importing-profiles.md)
   + [Manage services and subscriptions](/help/managing-processes-and-data/services-and-subscriptions.md)
   + Audience Destinations (BETA){#audience-destinations}
-    + [Overview](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-    + [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-    + [Activate Adobe Experience Platform audiences in a workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-    + [Change the targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+    + {hide-from-toc} [Overview](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
+    + {hide-from-toc} [Create an audience using the Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+    + {hide-from-toc} [Activate Adobe Experience Platform audiences in a workflow](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+    + {hide-from-toc} [Change the targeting dimension](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Communication channels {#communication-channels}
   + Email {#email}
     + [Create an email](/help/communication-channels/email/create-email-from-homepage.md)
-    + [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+    + {hide-from-toc} [Send a test, prepare, and send an email](/help/communication-channels/email/sending-test-preparing-sending-email.md)
     + [Schedule messages](/help/communication-channels/email/schedule-messages.md)
     + [Send a proof](/help/communication-channels/email/send-a-proof.md)
     + [A/B Testing](/help/communication-channels/email/a-b-testing.md)
@@ -93,7 +93,7 @@ auto-video-transcripts: true
   + Use triggers for transactional messages {#triggers}
     + [Overview](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
     + [Configure Launch for triggers](/help/integrations/configure-launch-for-triggers.md)
-    + [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+    + {hide-from-toc} [Create a trigger in Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
     + [Create a trigger event in Campaign Standard](/help/integrations/create-a-trigger-event.md)
     + [Configure transactional messages using real-time event data](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
   + [Configure Microsoft&reg; Dynamics 365 for the integration with Campaign Standard](/help/integrations/configure-dynamics-365.md)
