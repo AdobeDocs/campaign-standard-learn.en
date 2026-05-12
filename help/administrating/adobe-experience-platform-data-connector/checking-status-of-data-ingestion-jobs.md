@@ -11,6 +11,16 @@ role: User
 level: Experienced
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
+TQID: https://experienceleague.adobe.com/YQFOSV3h2uzJz9hIyUgAlGpCJ0oHrRILuD5ySDMbJbk
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: b12f6872-9271-4369-85e5-86969a0b99a2
+    internal-label: APIs
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Check the status of a data ingestion job 
 

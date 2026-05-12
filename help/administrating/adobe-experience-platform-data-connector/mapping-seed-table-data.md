@@ -10,6 +10,13 @@ role: User
 level: Experienced
 team: TM
 exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
+TQID: https://experienceleague.adobe.com/nxfR1VE-sFly-9YMJc1HEPAJl5G99Vc229z-i-pogOo
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Mapping seed table data 
 

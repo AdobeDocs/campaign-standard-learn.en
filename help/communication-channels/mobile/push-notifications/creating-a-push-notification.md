@@ -1,6 +1,6 @@
 ---
 title: Create a push notification
-description: Learn how to create a push notification. 
+description: Learn how to create a push notification.
 feature: Push
 jira: KT-1401
 thumbnail: 31499.jpg
@@ -10,6 +10,19 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
+TQID: https://experienceleague.adobe.com/NfQaXMkZp1ukmwmn54KHwvjW1BaMvlIzIZgSWwVgiV0
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
 ---
 # Create a [!UICONTROL push notification]
 

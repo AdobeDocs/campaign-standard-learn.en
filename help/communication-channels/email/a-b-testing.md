@@ -1,7 +1,7 @@
 ---
 title: A/B testing
 description: Learn how to configure and send an A/B test to test the subject line of an email.
-feature: A/B Testing  
+feature: A/B Testing
 jira: KT-3907
 thumbnail: 18480.jpg
 doc-type: feature video
@@ -10,6 +10,16 @@ team: TM
 exl-id: f1ae414c-6b42-445b-bb33-9a28a3e854fa
 role: User
 level: Beginner
+TQID: https://experienceleague.adobe.com/Jof9xMwA8fKVLxBGYtBgv3BUex6DKLh5S3by3X6z8FM
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 ---
 # A/B testing 
 

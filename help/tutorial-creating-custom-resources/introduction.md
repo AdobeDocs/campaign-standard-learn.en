@@ -1,7 +1,7 @@
 ---
 title: Creating custom resources - Introduction
 description: This multipart tutorial walks you through the required steps to create and link custom resources.
-feature: Data Model 
+feature: Data Model
 jira: KT-2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,6 +9,24 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
+TQID: https://experienceleague.adobe.com/e5P--uy0Qe1gz80G9Wq3L-Ino6wsfILUm-TnlEWsxCg
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: b12f6872-9271-4369-85e5-86969a0b99a2
+    internal-label: APIs
+  - id: c5474392-5419-4296-9e41-f6f4ce4f6e9b
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
 ---
 # Creating custom resources​ - Introduction
 

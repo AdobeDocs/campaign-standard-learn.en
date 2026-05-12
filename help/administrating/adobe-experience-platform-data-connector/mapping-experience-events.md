@@ -10,6 +10,13 @@ role: User
 level: Experienced
 team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
+TQID: https://experienceleague.adobe.com/opdFqfR-qgAMRxWW4XoY9LCkGL16hQeyQY0zfkRI4Sk
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 ---
 # Mapping [!UICONTROL Experience Events]
 
