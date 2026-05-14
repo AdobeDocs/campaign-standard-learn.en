@@ -10,6 +10,16 @@ role: Admin
 level: Experienced
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
+TQID: https://experienceleague.adobe.com/M0VtXVUFIN0T7sHJQU6UV-5Yiy3mjs-DAJbMNkmz3hY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
 ---
 # Executing privacy requests
 

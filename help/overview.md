@@ -5,6 +5,13 @@ products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
 feature: Overview
 recommendations: noDisplay, noCatalog
+TQID: https://experienceleague.adobe.com/FenvZrMwYIQxSWeycBD9F-3pc-669812tnwzhMUxb5k
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
 ---
 # Adobe Campaign Standard Tutorials
 

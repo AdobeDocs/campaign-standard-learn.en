@@ -10,8 +10,17 @@ team: TM
 exl-id: b51d40f6-e67a-49fe-87d5-bf42a439a0e3
 role: Admin
 level: Experienced
+TQID: https://experienceleague.adobe.com/TovG-0gCuO1pWtxjkAWKs4-UB02fv4PHGZwDukymdRI
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
 ---
-
 # Configure a mobile application using [!UICONTROL Adobe Experience Platform SDK]
 
 To send In-App messages or [!UICONTROL push notifications] using the Mobile SDK V5, the mobile app has to be set up in [!UICONTROL Adobe Experience Platform Launch] and configured in Adobe Campaign.

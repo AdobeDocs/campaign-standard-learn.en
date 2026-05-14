@@ -9,6 +9,10 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
+TQID: https://experienceleague.adobe.com/xNsJ0Cj8CUpvHfR66lTnZZEp-shWD0OC14ctHHFu4IY
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
 ---
 # Add Service to send notification
 
