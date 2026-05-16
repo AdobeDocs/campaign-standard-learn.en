@@ -5,9 +5,9 @@ solution: Campaign, Campaign Standard
 version: Campaign Standard
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
-    label: "Campaign"
+    internal-label: "Campaign"
   - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
-    label: "Adobe Campaign Standard"
+    internal-label: "Adobe Campaign Standard"
 type: Tutorial
 feature-set: Campaign
 landing-page-name: campaign
