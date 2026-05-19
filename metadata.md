@@ -8,6 +8,7 @@ product_v2:
     internal-label: "Campaign"
   - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
     internal-label: "Adobe Campaign Standard"
+usetq: true
 type: Tutorial
 feature-set: Campaign
 landing-page-name: campaign
