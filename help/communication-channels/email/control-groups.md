@@ -23,7 +23,7 @@ level_v2:
 ---
 # Adding a [!UICONTROL control group] to a [!UICONTROL delivery]
 
-Working with [!UICONTROL control groups] allows you measure the impact your [!UICONTROL delivery ]has and allows you to optimize your marketing campaign.  
+Working with [!UICONTROL control groups] allows you to measure the impact your [!UICONTROL delivery ]has and allows you to optimize your marketing campaign.  
 
 [!DNL Adobe Campaign Standard] allows you to create a [!UICONTROL control group], which can be excluded from your target audience, randomly or based on specific criteria. The behavior of the [!UICONTROL control group] can then serve as a benchmark to make a comparison with the behavior of the target population which received the marketing communication.
 
