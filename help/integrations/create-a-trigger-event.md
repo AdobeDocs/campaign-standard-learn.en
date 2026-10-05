@@ -11,10 +11,12 @@ activity: set-up
 team: TM
 exl-id: e7a5b0ce-a73a-4017-a4f9-a28f6c5ba250
 badgeIntegration: label="Integration" type="positive"
-TQID: https://experienceleague.adobe.com/mtRpRN5lGa-SlHjgy7s2Inpm6MiSHj-c5adcarfJDaY
+TQID: 'https://experienceleague.adobe.com/mtRpRN5lGa-SlHjgy7s2Inpm6MiSHj-c5adcarfJDaY'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: d5ef99fa-df0c-4153-bf94-105ad0724167
     internal-label: Integrations
@@ -24,6 +26,9 @@ subfeature_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
     internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
     internal-label: Security

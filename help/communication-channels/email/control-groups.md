@@ -10,16 +10,23 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-TQID: https://experienceleague.adobe.com/TQda35f2E4G8zU3auQJyzY0G4vwFXxnYZBAf4XhYp3A
+TQID: 'https://experienceleague.adobe.com/TQda35f2E4G8zU3auQJyzY0G4vwFXxnYZBAf4XhYp3A'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: e9810a15-b7f9-542e-81ab-fba1bff301c3
+    internal-label: Control Groups
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Adding a [!UICONTROL control group] to a [!UICONTROL delivery]
 

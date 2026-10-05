@@ -10,10 +10,12 @@ team: TM
 exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
-TQID: https://experienceleague.adobe.com/CpsaWPyYW3jdc0L-ECj83XUA43NaOein7oLvhzKJXaU
+TQID: 'https://experienceleague.adobe.com/CpsaWPyYW3jdc0L-ECj83XUA43NaOein7oLvhzKJXaU'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns
@@ -30,6 +32,8 @@ subfeature_v2:
     internal-label: Release notes
   - id: f529d0bd-1401-4c88-9833-43228cc1d40f
     internal-label: Profiles
+  - id: e8d937ec-9046-41b5-834b-d22a624e0d37
+    internal-label: Campaign overview
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

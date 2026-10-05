@@ -10,10 +10,12 @@ team: DOC
 exl-id: a2a816e2-9e6d-4f67-9d4e-c6413eaa81f4
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/i4uH5aV0XIDobWNkxt8d3k8yvx1q2dT8oP39GpKLpVM
+TQID: 'https://experienceleague.adobe.com/i4uH5aV0XIDobWNkxt8d3k8yvx1q2dT8oP39GpKLpVM'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: afa4204e-6d08-4e29-bc35-26aafb656d48
     internal-label: Profiles and audiences
