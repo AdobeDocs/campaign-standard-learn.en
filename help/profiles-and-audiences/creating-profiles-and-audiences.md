@@ -10,10 +10,12 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-TQID: https://experienceleague.adobe.com/aWBzDMIyqzKDtaQh8WtRBBnIPqT1p6FWffc-VdULH7o
+TQID: 'https://experienceleague.adobe.com/aWBzDMIyqzKDtaQh8WtRBBnIPqT1p6FWffc-VdULH7o'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: afa4204e-6d08-4e29-bc35-26aafb656d48
     internal-label: Profiles and audiences

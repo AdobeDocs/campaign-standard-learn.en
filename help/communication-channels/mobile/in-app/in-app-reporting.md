@@ -10,10 +10,22 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-TQID: https://experienceleague.adobe.com/g9vm2eX37-rEYlBmNDoPgUOBVf8fCG-Mk4JQSOd5d4c
+TQID: 'https://experienceleague.adobe.com/g9vm2eX37-rEYlBmNDoPgUOBVf8fCG-Mk4JQSOd5d4c'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+  - id: c309ee4e-82e4-4f7e-b608-ef345678c34e
+    internal-label: Dynamic reporting
+subfeature_v2:
+  - id: f0a90a14-8ca9-484f-994e-d7ff1bead452
+    internal-label: In app messaging
+  - id: b3a4149f-2b3a-44d1-894e-e3ac4c77fb47
+    internal-label: Reporting interface
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

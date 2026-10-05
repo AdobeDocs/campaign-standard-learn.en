@@ -10,10 +10,18 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-TQID: https://experienceleague.adobe.com/Il4SBkPJ0d3IxWAdfoa4N-YR1QJZ6ByXYrWOC-bEQ5g
+TQID: 'https://experienceleague.adobe.com/Il4SBkPJ0d3IxWAdfoa4N-YR1QJZ6ByXYrWOC-bEQ5g'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
+subfeature_v2:
+  - id: 01ab345f-0daf-530e-bbee-fda24fd7177a
+    internal-label: Predictive Engagement Scoring
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -21,6 +29,9 @@ role_v2:
     internal-label: Admin
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
     internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
     internal-label: Implementation

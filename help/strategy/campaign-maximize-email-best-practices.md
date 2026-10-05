@@ -6,13 +6,17 @@ role: User
 level: Beginner
 feature: Deliverability, Email
 exl-id: 4b801b77-4f96-430b-8e0a-c4dfa856b7d4
-TQID: https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M
+TQID: 'https://experienceleague.adobe.com/V-JpsP4skrH2bH0BB1uyEpgqShcxzl6AwTbsKYmHN9M'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns
+  - id: 63876777-85c3-57e1-a2da-81f02956c63c
+    internal-label: Deliverability
+  - id: 50d1fd2e-0fc9-5627-bbc9-02dbc9d15e08
+    internal-label: Email
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User

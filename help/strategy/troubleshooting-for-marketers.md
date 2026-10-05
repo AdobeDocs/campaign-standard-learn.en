@@ -9,13 +9,20 @@ last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 24a6815b-52d1-4bd6-9d27-522720a91f83
-TQID: https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0
+TQID: 'https://experienceleague.adobe.com/ISwW4zu0AWc3kmK-H2kOy-r9bPvLsTCLAnk4mbgZkS0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 feature_v2:
   - id: a075b2c1-7748-4328-b7f6-343aa314616a
     internal-label: Campaigns
+  - id: a658c786-869b-4194-a780-2594d663adda
+    internal-label: Data management
+subfeature_v2:
+  - id: fcb46c0f-76e1-48bc-9dd0-fcf9d97526cf
+    internal-label: Workflows
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
     internal-label: User
@@ -24,6 +31,8 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting

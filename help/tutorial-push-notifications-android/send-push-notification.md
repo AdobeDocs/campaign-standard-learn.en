@@ -9,10 +9,21 @@ doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-TQID: https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ
+TQID: 'https://experienceleague.adobe.com/NrQc40vzqTy0fNfVT6fN0IjMKuXjilt6eZV-lgZpAcQ'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
     internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+feature_v2:
+  - id: a4671286-a59f-47e3-b97b-90627a1977d5
+    internal-label: Communication channels
+subfeature_v2:
+  - id: a4657621-810c-498b-8a27-7ced9c176dda
+    internal-label: Push notifications
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 ---
 # Part 6 - Send [!UICONTROL Push Notification] to test your work
 
