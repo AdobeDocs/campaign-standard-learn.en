@@ -50,10 +50,10 @@ Example use cases include:
 * Checking the weather in local regions and using it to personalize content
 
 This video demonstrates the use of the [!UICONTROL External API activity].
-  
-  >[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
-  
-  *[!UICONTROL External API activity] (06:48 min)*
+
+>[!VIDEO](https://video.tv.adobe.com/v/28200/?learn=on){transcript=true}
+
+*[!UICONTROL External API activity] (06:48 min)*
 
 >[!NOTE]
 >
