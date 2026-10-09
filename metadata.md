@@ -3,11 +3,6 @@ cloud: Experience Cloud
 product: Adobe Campaign
 solution: Campaign, Campaign Standard
 version: Campaign Standard
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-    internal-label: "Campaign"
-  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
-    internal-label: "Adobe Campaign Standard"
 usetq: true
 type: Tutorial
 feature-set: Campaign
@@ -16,6 +11,11 @@ landing-page-breadcrumb-title: Campaign
 mini-toc-levels: 3
 git-repo: https://github.com/AdobeDocs/campaign-standard-learn.en
 index: true
+product_v2:
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
 ---
 
 # Metadata for internal use
